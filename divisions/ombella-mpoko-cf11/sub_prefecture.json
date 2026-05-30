@@ -1,0 +1,237 @@
+[
+  {
+    "id": "CF114",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Boali",
+      "en": "Boali",
+      "slug": "boali-cf114"
+    },
+    "code": {
+      "id": "CF114",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF11",
+      "level": 1,
+      "name": {
+        "local": "Ombella M'Poko",
+        "en": "Ombella M'Poko",
+        "slug": "ombella-mpoko-cf11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF11",
+        "level": 1,
+        "name": {
+          "local": "Ombella M'Poko",
+          "en": "Ombella M'Poko",
+          "slug": "ombella-mpoko-cf11"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.781",
+      "lon": "18.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF113",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bogangolo",
+      "en": "Bogangolo",
+      "slug": "bogangolo-cf113"
+    },
+    "code": {
+      "id": "CF113",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF11",
+      "level": 1,
+      "name": {
+        "local": "Ombella M'Poko",
+        "en": "Ombella M'Poko",
+        "slug": "ombella-mpoko-cf11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF11",
+        "level": 1,
+        "name": {
+          "local": "Ombella M'Poko",
+          "en": "Ombella M'Poko",
+          "slug": "ombella-mpoko-cf11"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.514",
+      "lon": "18.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF115",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bossembélé",
+      "en": "Bossembélé",
+      "slug": "bossembl-cf115"
+    },
+    "code": {
+      "id": "CF115",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF11",
+      "level": 1,
+      "name": {
+        "local": "Ombella M'Poko",
+        "en": "Ombella M'Poko",
+        "slug": "ombella-mpoko-cf11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF11",
+        "level": 1,
+        "name": {
+          "local": "Ombella M'Poko",
+          "en": "Ombella M'Poko",
+          "slug": "ombella-mpoko-cf11"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.263",
+      "lon": "17.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF112",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Damara",
+      "en": "Damara",
+      "slug": "damara-cf112"
+    },
+    "code": {
+      "id": "CF112",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF11",
+      "level": 1,
+      "name": {
+        "local": "Ombella M'Poko",
+        "en": "Ombella M'Poko",
+        "slug": "ombella-mpoko-cf11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF11",
+        "level": 1,
+        "name": {
+          "local": "Ombella M'Poko",
+          "en": "Ombella M'Poko",
+          "slug": "ombella-mpoko-cf11"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.05",
+      "lon": "18.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF116",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yaloké",
+      "en": "Yaloké",
+      "slug": "yalok-cf116"
+    },
+    "code": {
+      "id": "CF116",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF11",
+      "level": 1,
+      "name": {
+        "local": "Ombella M'Poko",
+        "en": "Ombella M'Poko",
+        "slug": "ombella-mpoko-cf11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF11",
+        "level": 1,
+        "name": {
+          "local": "Ombella M'Poko",
+          "en": "Ombella M'Poko",
+          "slug": "ombella-mpoko-cf11"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.598",
+      "lon": "16.949"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "CF222",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Baoro",
+    "en": "Baoro",
+    "slug": "baoro-cf222"
+  },
+  "code": {
+    "id": "CF222",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF22",
+    "level": 1,
+    "name": {
+      "local": "Nana-Mambéré",
+      "en": "Nana-Mambéré",
+      "slug": "nana-mambr-cf22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF22",
+      "level": 1,
+      "name": {
+        "local": "Nana-Mambéré",
+        "en": "Nana-Mambéré",
+        "slug": "nana-mambr-cf22"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.461",
+    "lon": "16.141"
+  },
+  "metadata": {},
+  "source": {}
+}

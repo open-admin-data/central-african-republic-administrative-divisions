@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CF333_ben-zambe",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ben Zambe",
+      "en": "Ben Zambe",
+      "slug": "ben-zambe"
+    },
+    "code": {
+      "id": "CF333_ben-zambe",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF333",
+      "level": 2,
+      "name": {
+        "local": "Bouca",
+        "en": "Bouca",
+        "slug": "bouca-cf333"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF33",
+        "level": 1,
+        "name": {
+          "local": "Ouham-Fafa",
+          "en": "Ouham-Fafa",
+          "slug": "ouham-fafa-cf33"
+        }
+      },
+      {
+        "id": "CF333",
+        "level": 2,
+        "name": {
+          "local": "Bouca",
+          "en": "Bouca",
+          "slug": "bouca-cf333"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.72",
+      "lon": "17.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF333_bouca-bobo",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bouca Bobo",
+      "en": "Bouca Bobo",
+      "slug": "bouca-bobo"
+    },
+    "code": {
+      "id": "CF333_bouca-bobo",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF333",
+      "level": 2,
+      "name": {
+        "local": "Bouca",
+        "en": "Bouca",
+        "slug": "bouca-cf333"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF33",
+        "level": 1,
+        "name": {
+          "local": "Ouham-Fafa",
+          "en": "Ouham-Fafa",
+          "slug": "ouham-fafa-cf33"
+        }
+      },
+      {
+        "id": "CF333",
+        "level": 2,
+        "name": {
+          "local": "Bouca",
+          "en": "Bouca",
+          "slug": "bouca-cf333"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.292",
+      "lon": "18.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF333_fafa-boungou",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fafa Boungou",
+      "en": "Fafa Boungou",
+      "slug": "fafa-boungou"
+    },
+    "code": {
+      "id": "CF333_fafa-boungou",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF333",
+      "level": 2,
+      "name": {
+        "local": "Bouca",
+        "en": "Bouca",
+        "slug": "bouca-cf333"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF33",
+        "level": 1,
+        "name": {
+          "local": "Ouham-Fafa",
+          "en": "Ouham-Fafa",
+          "slug": "ouham-fafa-cf33"
+        }
+      },
+      {
+        "id": "CF333",
+        "level": 2,
+        "name": {
+          "local": "Bouca",
+          "en": "Bouca",
+          "slug": "bouca-cf333"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.153",
+      "lon": "18.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF333_lady-gbawi",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lady Gbawi",
+      "en": "Lady Gbawi",
+      "slug": "lady-gbawi"
+    },
+    "code": {
+      "id": "CF333_lady-gbawi",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF333",
+      "level": 2,
+      "name": {
+        "local": "Bouca",
+        "en": "Bouca",
+        "slug": "bouca-cf333"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF33",
+        "level": 1,
+        "name": {
+          "local": "Ouham-Fafa",
+          "en": "Ouham-Fafa",
+          "slug": "ouham-fafa-cf33"
+        }
+      },
+      {
+        "id": "CF333",
+        "level": 2,
+        "name": {
+          "local": "Bouca",
+          "en": "Bouca",
+          "slug": "bouca-cf333"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.839",
+      "lon": "18.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF333_ouham-fafa",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouham Fafa",
+      "en": "Ouham Fafa",
+      "slug": "ouham-fafa"
+    },
+    "code": {
+      "id": "CF333_ouham-fafa",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF333",
+      "level": 2,
+      "name": {
+        "local": "Bouca",
+        "en": "Bouca",
+        "slug": "bouca-cf333"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF33",
+        "level": 1,
+        "name": {
+          "local": "Ouham-Fafa",
+          "en": "Ouham-Fafa",
+          "slug": "ouham-fafa-cf33"
+        }
+      },
+      {
+        "id": "CF333",
+        "level": 2,
+        "name": {
+          "local": "Bouca",
+          "en": "Bouca",
+          "slug": "bouca-cf333"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.815",
+      "lon": "18.063"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

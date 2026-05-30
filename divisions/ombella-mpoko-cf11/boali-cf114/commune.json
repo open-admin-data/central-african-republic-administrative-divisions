@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CF114_boali",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boali",
+      "en": "Boali",
+      "slug": "boali"
+    },
+    "code": {
+      "id": "CF114_boali",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF114",
+      "level": 2,
+      "name": {
+        "local": "Boali",
+        "en": "Boali",
+        "slug": "boali-cf114"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF11",
+        "level": 1,
+        "name": {
+          "local": "Ombella M'Poko",
+          "en": "Ombella M'Poko",
+          "slug": "ombella-mpoko-cf11"
+        }
+      },
+      {
+        "id": "CF114",
+        "level": 2,
+        "name": {
+          "local": "Boali",
+          "en": "Boali",
+          "slug": "boali-cf114"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.817",
+      "lon": "18.037"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

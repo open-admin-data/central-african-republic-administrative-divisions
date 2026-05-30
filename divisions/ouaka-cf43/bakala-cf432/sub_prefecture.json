@@ -1,0 +1,47 @@
+{
+  "id": "CF432",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Bakala",
+    "en": "Bakala",
+    "slug": "bakala-cf432"
+  },
+  "code": {
+    "id": "CF432",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF43",
+    "level": 1,
+    "name": {
+      "local": "Ouaka",
+      "en": "Ouaka",
+      "slug": "ouaka-cf43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF43",
+      "level": 1,
+      "name": {
+        "local": "Ouaka",
+        "en": "Ouaka",
+        "slug": "ouaka-cf43"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.565",
+    "lon": "20.392"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,51 @@
+# Central African Republic Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Per-Prefecture Data Files
+
+- [Lobaye](https://github.com/open-admin-data/central-african-republic-administrative-divisions/blob/main/docs/llms-full/lobaye-cf12.txt) — 6 sub-prefectures, 14 communes
+- [Nana-Mambéré](https://github.com/open-admin-data/central-african-republic-administrative-divisions/blob/main/docs/llms-full/nana-mambr-cf22.txt) — 4 sub-prefectures, 17 communes
+- [Ouham](https://github.com/open-admin-data/central-african-republic-administrative-divisions/blob/main/docs/llms-full/ouham-cf32.txt) — 4 sub-prefectures, 6 communes
+- [Ouham-Fafa](https://github.com/open-admin-data/central-african-republic-administrative-divisions/blob/main/docs/llms-full/ouham-fafa-cf33.txt) — 4 sub-prefectures, 12 communes
+- [Kémo](https://github.com/open-admin-data/central-african-republic-administrative-divisions/blob/main/docs/llms-full/kmo-cf41.txt) — 4 sub-prefectures, 6 communes
+- [Lim-pendé](https://github.com/open-admin-data/central-african-republic-administrative-divisions/blob/main/docs/llms-full/lim-pend-cf34.txt) — 5 sub-prefectures, 14 communes
+- [Ouham Pendé](https://github.com/open-admin-data/central-african-republic-administrative-divisions/blob/main/docs/llms-full/ouham-pend-cf31.txt) — 4 sub-prefectures, 9 communes
+- [Sangha-Mbaéré](https://github.com/open-admin-data/central-african-republic-administrative-divisions/blob/main/docs/llms-full/sangha-mbar-cf23.txt) — 3 sub-prefectures, 7 communes
+- [Vakaga](https://github.com/open-admin-data/central-african-republic-administrative-divisions/blob/main/docs/llms-full/vakaga-cf53.txt) — 4 sub-prefectures, 2 communes
+- [Bamingui-Bangoran](https://github.com/open-admin-data/central-african-republic-administrative-divisions/blob/main/docs/llms-full/bamingui-bangoran-cf51.txt) — 2 sub-prefectures, 4 communes
+- [Mbomou](https://github.com/open-admin-data/central-african-republic-administrative-divisions/blob/main/docs/llms-full/mbomou-cf62.txt) — 5 sub-prefectures, 10 communes
+- [Ombella M&#39;Poko](https://github.com/open-admin-data/central-african-republic-administrative-divisions/blob/main/docs/llms-full/ombella-mpoko-cf11.txt) — 5 sub-prefectures, 5 communes
+- [Basse-Kotto](https://github.com/open-admin-data/central-african-republic-administrative-divisions/blob/main/docs/llms-full/basse-kotto-cf61.txt) — 6 sub-prefectures, 15 communes
+- [Haute-Kotto](https://github.com/open-admin-data/central-african-republic-administrative-divisions/blob/main/docs/llms-full/haute-kotto-cf52.txt) — 4 sub-prefectures, 10 communes
+- [Mambéré-Kadéï](https://github.com/open-admin-data/central-african-republic-administrative-divisions/blob/main/docs/llms-full/mambr-kad-cf21.txt) — 4 sub-prefectures, 6 communes
+- [Mambéré](https://github.com/open-admin-data/central-african-republic-administrative-divisions/blob/main/docs/llms-full/mambr-cf24.txt) — 4 sub-prefectures, 4 communes
+- [Haut-Mbomou](https://github.com/open-admin-data/central-african-republic-administrative-divisions/blob/main/docs/llms-full/haut-mbomou-cf63.txt) — 5 sub-prefectures, 5 communes
+- [Nana-Gribizi](https://github.com/open-admin-data/central-african-republic-administrative-divisions/blob/main/docs/llms-full/nana-gribizi-cf42.txt) — 3 sub-prefectures, 3 communes
+- [Ouaka](https://github.com/open-admin-data/central-african-republic-administrative-divisions/blob/main/docs/llms-full/ouaka-cf43.txt) — 5 sub-prefectures, 13 communes
+- [Bangui](https://github.com/open-admin-data/central-african-republic-administrative-divisions/blob/main/docs/llms-full/bangui-cf71.txt) — 4 sub-prefectures, 8 communes
+
+## Summary
+
+| Prefecture | Sub-prefectures | Communes | 
+|---|---|---|
+| Lobaye | 6 | 14 | 
+| Nana-Mambéré | 4 | 17 | 
+| Ouham | 4 | 6 | 
+| Ouham-Fafa | 4 | 12 | 
+| Kémo | 4 | 6 | 
+| Lim-pendé | 5 | 14 | 
+| Ouham Pendé | 4 | 9 | 
+| Sangha-Mbaéré | 3 | 7 | 
+| Vakaga | 4 | 2 | 
+| Bamingui-Bangoran | 2 | 4 | 
+| Mbomou | 5 | 10 | 
+| Ombella M&#39;Poko | 5 | 5 | 
+| Basse-Kotto | 6 | 15 | 
+| Haute-Kotto | 4 | 10 | 
+| Mambéré-Kadéï | 4 | 6 | 
+| Mambéré | 4 | 4 | 
+| Haut-Mbomou | 5 | 5 | 
+| Nana-Gribizi | 3 | 3 | 
+| Ouaka | 5 | 13 | 
+| Bangui | 4 | 8 | 

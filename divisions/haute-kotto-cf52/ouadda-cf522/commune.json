@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CF522_mbolo-pata",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mbolo-Pata",
+      "en": "Mbolo-Pata",
+      "slug": "mbolo-pata"
+    },
+    "code": {
+      "id": "CF522_mbolo-pata",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF522",
+      "level": 2,
+      "name": {
+        "local": "Ouadda",
+        "en": "Ouadda",
+        "slug": "ouadda-cf522"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF52",
+        "level": 1,
+        "name": {
+          "local": "Haute-Kotto",
+          "en": "Haute-Kotto",
+          "slug": "haute-kotto-cf52"
+        }
+      },
+      {
+        "id": "CF522",
+        "level": 2,
+        "name": {
+          "local": "Ouadda",
+          "en": "Ouadda",
+          "slug": "ouadda-cf522"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.868",
+      "lon": "21.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF522_ouadda",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouadda",
+      "en": "Ouadda",
+      "slug": "ouadda"
+    },
+    "code": {
+      "id": "CF522_ouadda",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF522",
+      "level": 2,
+      "name": {
+        "local": "Ouadda",
+        "en": "Ouadda",
+        "slug": "ouadda-cf522"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF52",
+        "level": 1,
+        "name": {
+          "local": "Haute-Kotto",
+          "en": "Haute-Kotto",
+          "slug": "haute-kotto-cf52"
+        }
+      },
+      {
+        "id": "CF522",
+        "level": 2,
+        "name": {
+          "local": "Ouadda",
+          "en": "Ouadda",
+          "slug": "ouadda-cf522"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.794",
+      "lon": "22.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF522_samba-boungou",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Samba-Boungou",
+      "en": "Samba-Boungou",
+      "slug": "samba-boungou"
+    },
+    "code": {
+      "id": "CF522_samba-boungou",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF522",
+      "level": 2,
+      "name": {
+        "local": "Ouadda",
+        "en": "Ouadda",
+        "slug": "ouadda-cf522"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF52",
+        "level": 1,
+        "name": {
+          "local": "Haute-Kotto",
+          "en": "Haute-Kotto",
+          "slug": "haute-kotto-cf52"
+        }
+      },
+      {
+        "id": "CF522",
+        "level": 2,
+        "name": {
+          "local": "Ouadda",
+          "en": "Ouadda",
+          "slug": "ouadda-cf522"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.096",
+      "lon": "21.756"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

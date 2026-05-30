@@ -1,0 +1,54 @@
+# Ombella M&#39;Poko — Central African Republic Administrative Divisions
+
+> 5 sub-prefectures, 5 communes
+> Code: CF11
+> Coordinates: 5.203, 17.943
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Sub-prefectures
+
+### Boali
+
+Code: CF114, Coordinates: 4.781, 18.034
+Communes: 1
+
+#### Boali
+
+Code: CF114_boali, Coordinates: 4.817, 18.037
+
+### Bogangolo
+
+Code: CF113, Coordinates: 5.514, 18.21
+Communes: 1
+
+#### Bogangolo
+
+Code: CF113_bogangolo, Coordinates: 5.479, 18.239
+
+### Bossembélé
+
+Code: CF115, Coordinates: 5.263, 17.616
+Communes: 2
+
+#### Bossembele
+
+Code: CF115_bossembele, Coordinates: 5.41, 17.66
+
+#### Yaloke
+
+Code: CF115_yaloke, Coordinates: 5.284, 17.191
+
+### Damara
+
+Code: CF112, Coordinates: 5.05, 18.721
+Communes: 1
+
+#### Damara
+
+Code: CF112_damara, Coordinates: 5.118, 18.7
+
+### Yaloké
+
+Code: CF116, Coordinates: 5.598, 16.949
+Communes: 0
+

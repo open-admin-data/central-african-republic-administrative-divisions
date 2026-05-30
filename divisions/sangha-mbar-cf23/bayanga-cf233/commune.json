@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CF233_yobe-sangha",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yobe-Sangha",
+      "en": "Yobe-Sangha",
+      "slug": "yobe-sangha"
+    },
+    "code": {
+      "id": "CF233_yobe-sangha",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF233",
+      "level": 2,
+      "name": {
+        "local": "Bayanga",
+        "en": "Bayanga",
+        "slug": "bayanga-cf233"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF23",
+        "level": 1,
+        "name": {
+          "local": "Sangha-Mbaéré",
+          "en": "Sangha-Mbaéré",
+          "slug": "sangha-mbar-cf23"
+        }
+      },
+      {
+        "id": "CF233",
+        "level": 2,
+        "name": {
+          "local": "Bayanga",
+          "en": "Bayanga",
+          "slug": "bayanga-cf233"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.853",
+      "lon": "16.332"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

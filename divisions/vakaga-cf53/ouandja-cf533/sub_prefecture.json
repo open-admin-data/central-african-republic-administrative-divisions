@@ -1,0 +1,47 @@
+{
+  "id": "CF533",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Ouandja",
+    "en": "Ouandja",
+    "slug": "ouandja-cf533"
+  },
+  "code": {
+    "id": "CF533",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF53",
+    "level": 1,
+    "name": {
+      "local": "Vakaga",
+      "en": "Vakaga",
+      "slug": "vakaga-cf53"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF53",
+      "level": 1,
+      "name": {
+        "local": "Vakaga",
+        "en": "Vakaga",
+        "slug": "vakaga-cf53"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.673",
+    "lon": "22.402"
+  },
+  "metadata": {},
+  "source": {}
+}

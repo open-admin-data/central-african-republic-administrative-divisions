@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CF433_grimari",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Grimari",
+      "en": "Grimari",
+      "slug": "grimari"
+    },
+    "code": {
+      "id": "CF433_grimari",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF433",
+      "level": 2,
+      "name": {
+        "local": "Grimari",
+        "en": "Grimari",
+        "slug": "grimari-cf433"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF43",
+        "level": 1,
+        "name": {
+          "local": "Ouaka",
+          "en": "Ouaka",
+          "slug": "ouaka-cf43"
+        }
+      },
+      {
+        "id": "CF433",
+        "level": 2,
+        "name": {
+          "local": "Grimari",
+          "en": "Grimari",
+          "slug": "grimari-cf433"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.717",
+      "lon": "20.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF433_kobadja",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kobadja",
+      "en": "Kobadja",
+      "slug": "kobadja"
+    },
+    "code": {
+      "id": "CF433_kobadja",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF433",
+      "level": 2,
+      "name": {
+        "local": "Grimari",
+        "en": "Grimari",
+        "slug": "grimari-cf433"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF43",
+        "level": 1,
+        "name": {
+          "local": "Ouaka",
+          "en": "Ouaka",
+          "slug": "ouaka-cf43"
+        }
+      },
+      {
+        "id": "CF433",
+        "level": 2,
+        "name": {
+          "local": "Grimari",
+          "en": "Grimari",
+          "slug": "grimari-cf433"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.749",
+      "lon": "19.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF433_lissa",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lissa",
+      "en": "Lissa",
+      "slug": "lissa"
+    },
+    "code": {
+      "id": "CF433_lissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF433",
+      "level": 2,
+      "name": {
+        "local": "Grimari",
+        "en": "Grimari",
+        "slug": "grimari-cf433"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF43",
+        "level": 1,
+        "name": {
+          "local": "Ouaka",
+          "en": "Ouaka",
+          "slug": "ouaka-cf43"
+        }
+      },
+      {
+        "id": "CF433",
+        "level": 2,
+        "name": {
+          "local": "Grimari",
+          "en": "Grimari",
+          "slug": "grimari-cf433"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.734",
+      "lon": "20.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF433_pouyamba",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Pouyamba",
+      "en": "Pouyamba",
+      "slug": "pouyamba"
+    },
+    "code": {
+      "id": "CF433_pouyamba",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF433",
+      "level": 2,
+      "name": {
+        "local": "Grimari",
+        "en": "Grimari",
+        "slug": "grimari-cf433"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF43",
+        "level": 1,
+        "name": {
+          "local": "Ouaka",
+          "en": "Ouaka",
+          "slug": "ouaka-cf43"
+        }
+      },
+      {
+        "id": "CF433",
+        "level": 2,
+        "name": {
+          "local": "Grimari",
+          "en": "Grimari",
+          "slug": "grimari-cf433"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.822",
+      "lon": "19.78"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

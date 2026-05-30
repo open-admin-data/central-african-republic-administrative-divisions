@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CF123_boganda",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boganda",
+      "en": "Boganda",
+      "slug": "boganda"
+    },
+    "code": {
+      "id": "CF123_boganda",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF123",
+      "level": 2,
+      "name": {
+        "local": "Boda",
+        "en": "Boda",
+        "slug": "boda-cf123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      },
+      {
+        "id": "CF123",
+        "level": 2,
+        "name": {
+          "local": "Boda",
+          "en": "Boda",
+          "slug": "boda-cf123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.319",
+      "lon": "17.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF123_lobaye",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lobaye",
+      "en": "Lobaye",
+      "slug": "lobaye"
+    },
+    "code": {
+      "id": "CF123_lobaye",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF123",
+      "level": 2,
+      "name": {
+        "local": "Boda",
+        "en": "Boda",
+        "slug": "boda-cf123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      },
+      {
+        "id": "CF123",
+        "level": 2,
+        "name": {
+          "local": "Boda",
+          "en": "Boda",
+          "slug": "boda-cf123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.061",
+      "lon": "17.299"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "CF116",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Yaloké",
+    "en": "Yaloké",
+    "slug": "yalok-cf116"
+  },
+  "code": {
+    "id": "CF116",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF11",
+    "level": 1,
+    "name": {
+      "local": "Ombella M'Poko",
+      "en": "Ombella M'Poko",
+      "slug": "ombella-mpoko-cf11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF11",
+      "level": 1,
+      "name": {
+        "local": "Ombella M'Poko",
+        "en": "Ombella M'Poko",
+        "slug": "ombella-mpoko-cf11"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.598",
+    "lon": "16.949"
+  },
+  "metadata": {},
+  "source": {}
+}

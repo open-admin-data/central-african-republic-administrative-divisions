@@ -1,0 +1,30 @@
+{
+  "id": "CF33",
+  "level": 1,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Ouham-Fafa",
+    "en": "Ouham-Fafa",
+    "slug": "ouham-fafa-cf33"
+  },
+  "code": {
+    "id": "CF33",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sub_prefecture": 4,
+    "commune": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.028",
+    "lon": "18.271"
+  },
+  "metadata": {},
+  "source": {}
+}

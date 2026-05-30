@@ -1,0 +1,47 @@
+{
+  "id": "CF321",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Bossangoa",
+    "en": "Bossangoa",
+    "slug": "bossangoa-cf321"
+  },
+  "code": {
+    "id": "CF321",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF32",
+    "level": 1,
+    "name": {
+      "local": "Ouham",
+      "en": "Ouham",
+      "slug": "ouham-cf32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF32",
+      "level": 1,
+      "name": {
+        "local": "Ouham",
+        "en": "Ouham",
+        "slug": "ouham-cf32"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.33",
+    "lon": "17.339"
+  },
+  "metadata": {},
+  "source": {}
+}

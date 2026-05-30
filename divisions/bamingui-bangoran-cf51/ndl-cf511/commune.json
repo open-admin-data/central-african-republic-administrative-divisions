@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CF511_dar-el-kouti",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dar El Kouti",
+      "en": "Dar El Kouti",
+      "slug": "dar-el-kouti"
+    },
+    "code": {
+      "id": "CF511_dar-el-kouti",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF511",
+      "level": 2,
+      "name": {
+        "local": "Ndélé",
+        "en": "Ndélé",
+        "slug": "ndl-cf511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF51",
+        "level": 1,
+        "name": {
+          "local": "Bamingui-Bangoran",
+          "en": "Bamingui-Bangoran",
+          "slug": "bamingui-bangoran-cf51"
+        }
+      },
+      {
+        "id": "CF511",
+        "level": 2,
+        "name": {
+          "local": "Ndélé",
+          "en": "Ndélé",
+          "slug": "ndl-cf511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.985",
+      "lon": "20.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF511_nana-outa",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nana-Outa",
+      "en": "Nana-Outa",
+      "slug": "nana-outa"
+    },
+    "code": {
+      "id": "CF511_nana-outa",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF511",
+      "level": 2,
+      "name": {
+        "local": "Ndélé",
+        "en": "Ndélé",
+        "slug": "ndl-cf511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF51",
+        "level": 1,
+        "name": {
+          "local": "Bamingui-Bangoran",
+          "en": "Bamingui-Bangoran",
+          "slug": "bamingui-bangoran-cf51"
+        }
+      },
+      {
+        "id": "CF511",
+        "level": 2,
+        "name": {
+          "local": "Ndélé",
+          "en": "Ndélé",
+          "slug": "ndl-cf511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.789",
+      "lon": "19.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF511_vassako",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vassako",
+      "en": "Vassako",
+      "slug": "vassako"
+    },
+    "code": {
+      "id": "CF511_vassako",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF511",
+      "level": 2,
+      "name": {
+        "local": "Ndélé",
+        "en": "Ndélé",
+        "slug": "ndl-cf511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF51",
+        "level": 1,
+        "name": {
+          "local": "Bamingui-Bangoran",
+          "en": "Bamingui-Bangoran",
+          "slug": "bamingui-bangoran-cf51"
+        }
+      },
+      {
+        "id": "CF511",
+        "level": 2,
+        "name": {
+          "local": "Ndélé",
+          "en": "Ndélé",
+          "slug": "ndl-cf511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.895",
+      "lon": "19.984"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CF632_lili",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lili",
+      "en": "Lili",
+      "slug": "lili"
+    },
+    "code": {
+      "id": "CF632_lili",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF632",
+      "level": 2,
+      "name": {
+        "local": "Bambouti",
+        "en": "Bambouti",
+        "slug": "bambouti-cf632"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF63",
+        "level": 1,
+        "name": {
+          "local": "Haut-Mbomou",
+          "en": "Haut-Mbomou",
+          "slug": "haut-mbomou-cf63"
+        }
+      },
+      {
+        "id": "CF632",
+        "level": 2,
+        "name": {
+          "local": "Bambouti",
+          "en": "Bambouti",
+          "slug": "bambouti-cf632"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.502",
+      "lon": "27.06"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

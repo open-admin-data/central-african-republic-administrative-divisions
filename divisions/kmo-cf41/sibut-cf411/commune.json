@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CF411_ngoumbele",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ngoumbele",
+      "en": "Ngoumbele",
+      "slug": "ngoumbele"
+    },
+    "code": {
+      "id": "CF411_ngoumbele",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF411",
+      "level": 2,
+      "name": {
+        "local": "Sibut",
+        "en": "Sibut",
+        "slug": "sibut-cf411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF41",
+        "level": 1,
+        "name": {
+          "local": "Kémo",
+          "en": "Kémo",
+          "slug": "kmo-cf41"
+        }
+      },
+      {
+        "id": "CF411",
+        "level": 2,
+        "name": {
+          "local": "Sibut",
+          "en": "Sibut",
+          "slug": "sibut-cf411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.84",
+      "lon": "19.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF411_sibut",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sibut",
+      "en": "Sibut",
+      "slug": "sibut"
+    },
+    "code": {
+      "id": "CF411_sibut",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF411",
+      "level": 2,
+      "name": {
+        "local": "Sibut",
+        "en": "Sibut",
+        "slug": "sibut-cf411"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF41",
+        "level": 1,
+        "name": {
+          "local": "Kémo",
+          "en": "Kémo",
+          "slug": "kmo-cf41"
+        }
+      },
+      {
+        "id": "CF411",
+        "level": 2,
+        "name": {
+          "local": "Sibut",
+          "en": "Sibut",
+          "slug": "sibut-cf411"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.722",
+      "lon": "19.08"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

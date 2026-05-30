@@ -1,0 +1,4597 @@
+[
+  {
+    "id": "CF11",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Ombella M'Poko",
+      "en": "Ombella M'Poko",
+      "slug": "ombella-mpoko-cf11"
+    },
+    "code": {
+      "id": "CF11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 5,
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.203",
+      "lon": "17.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF112",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Damara",
+      "en": "Damara",
+      "slug": "damara-cf112"
+    },
+    "code": {
+      "id": "CF112",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF11",
+      "level": 1,
+      "name": {
+        "local": "Ombella M'Poko",
+        "en": "Ombella M'Poko",
+        "slug": "ombella-mpoko-cf11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF11",
+        "level": 1,
+        "name": {
+          "local": "Ombella M'Poko",
+          "en": "Ombella M'Poko",
+          "slug": "ombella-mpoko-cf11"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.05",
+      "lon": "18.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF113",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bogangolo",
+      "en": "Bogangolo",
+      "slug": "bogangolo-cf113"
+    },
+    "code": {
+      "id": "CF113",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF11",
+      "level": 1,
+      "name": {
+        "local": "Ombella M'Poko",
+        "en": "Ombella M'Poko",
+        "slug": "ombella-mpoko-cf11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF11",
+        "level": 1,
+        "name": {
+          "local": "Ombella M'Poko",
+          "en": "Ombella M'Poko",
+          "slug": "ombella-mpoko-cf11"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.514",
+      "lon": "18.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF114",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Boali",
+      "en": "Boali",
+      "slug": "boali-cf114"
+    },
+    "code": {
+      "id": "CF114",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF11",
+      "level": 1,
+      "name": {
+        "local": "Ombella M'Poko",
+        "en": "Ombella M'Poko",
+        "slug": "ombella-mpoko-cf11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF11",
+        "level": 1,
+        "name": {
+          "local": "Ombella M'Poko",
+          "en": "Ombella M'Poko",
+          "slug": "ombella-mpoko-cf11"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.781",
+      "lon": "18.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF115",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bossembélé",
+      "en": "Bossembélé",
+      "slug": "bossembl-cf115"
+    },
+    "code": {
+      "id": "CF115",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF11",
+      "level": 1,
+      "name": {
+        "local": "Ombella M'Poko",
+        "en": "Ombella M'Poko",
+        "slug": "ombella-mpoko-cf11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF11",
+        "level": 1,
+        "name": {
+          "local": "Ombella M'Poko",
+          "en": "Ombella M'Poko",
+          "slug": "ombella-mpoko-cf11"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.263",
+      "lon": "17.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF116",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yaloké",
+      "en": "Yaloké",
+      "slug": "yalok-cf116"
+    },
+    "code": {
+      "id": "CF116",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF11",
+      "level": 1,
+      "name": {
+        "local": "Ombella M'Poko",
+        "en": "Ombella M'Poko",
+        "slug": "ombella-mpoko-cf11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF11",
+        "level": 1,
+        "name": {
+          "local": "Ombella M'Poko",
+          "en": "Ombella M'Poko",
+          "slug": "ombella-mpoko-cf11"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.598",
+      "lon": "16.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF12",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Lobaye",
+      "en": "Lobaye",
+      "slug": "lobaye-cf12"
+    },
+    "code": {
+      "id": "CF12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 6,
+      "commune": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.084",
+      "lon": "17.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF121",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mbaïki",
+      "en": "Mbaïki",
+      "slug": "mbaki-cf121"
+    },
+    "code": {
+      "id": "CF121",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF12",
+      "level": 1,
+      "name": {
+        "local": "Lobaye",
+        "en": "Lobaye",
+        "slug": "lobaye-cf12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.143",
+      "lon": "17.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF122",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mongoumba",
+      "en": "Mongoumba",
+      "slug": "mongoumba-cf122"
+    },
+    "code": {
+      "id": "CF122",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF12",
+      "level": 1,
+      "name": {
+        "local": "Lobaye",
+        "en": "Lobaye",
+        "slug": "lobaye-cf12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.758",
+      "lon": "18.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF123",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Boda",
+      "en": "Boda",
+      "slug": "boda-cf123"
+    },
+    "code": {
+      "id": "CF123",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF12",
+      "level": 1,
+      "name": {
+        "local": "Lobaye",
+        "en": "Lobaye",
+        "slug": "lobaye-cf12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.073",
+      "lon": "17.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF124",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Boganangone",
+      "en": "Boganangone",
+      "slug": "boganangone-cf124"
+    },
+    "code": {
+      "id": "CF124",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF12",
+      "level": 1,
+      "name": {
+        "local": "Lobaye",
+        "en": "Lobaye",
+        "slug": "lobaye-cf12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.736",
+      "lon": "17.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF125",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Boganda",
+      "en": "Boganda",
+      "slug": "boganda-cf125"
+    },
+    "code": {
+      "id": "CF125",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF12",
+      "level": 1,
+      "name": {
+        "local": "Lobaye",
+        "en": "Lobaye",
+        "slug": "lobaye-cf12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.366",
+      "lon": "17.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF126",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Moboma",
+      "en": "Moboma",
+      "slug": "moboma-cf126"
+    },
+    "code": {
+      "id": "CF126",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF12",
+      "level": 1,
+      "name": {
+        "local": "Lobaye",
+        "en": "Lobaye",
+        "slug": "lobaye-cf12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.689",
+      "lon": "17.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF21",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Mambéré-Kadéï",
+      "en": "Mambéré-Kadéï",
+      "slug": "mambr-kad-cf21"
+    },
+    "code": {
+      "id": "CF21",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 4,
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.256",
+      "lon": "15.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF211",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Berbérati",
+      "en": "Berbérati",
+      "slug": "berbrati-cf211"
+    },
+    "code": {
+      "id": "CF211",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF21",
+      "level": 1,
+      "name": {
+        "local": "Mambéré-Kadéï",
+        "en": "Mambéré-Kadéï",
+        "slug": "mambr-kad-cf21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF21",
+        "level": 1,
+        "name": {
+          "local": "Mambéré-Kadéï",
+          "en": "Mambéré-Kadéï",
+          "slug": "mambr-kad-cf21"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.291",
+      "lon": "15.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF212",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gamboula",
+      "en": "Gamboula",
+      "slug": "gamboula-cf212"
+    },
+    "code": {
+      "id": "CF212",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF21",
+      "level": 1,
+      "name": {
+        "local": "Mambéré-Kadéï",
+        "en": "Mambéré-Kadéï",
+        "slug": "mambr-kad-cf21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF21",
+        "level": 1,
+        "name": {
+          "local": "Mambéré-Kadéï",
+          "en": "Mambéré-Kadéï",
+          "slug": "mambr-kad-cf21"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.395",
+      "lon": "15.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF215",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sosso-Nakombo",
+      "en": "Sosso-Nakombo",
+      "slug": "sosso-nakombo-cf215"
+    },
+    "code": {
+      "id": "CF215",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF21",
+      "level": 1,
+      "name": {
+        "local": "Mambéré-Kadéï",
+        "en": "Mambéré-Kadéï",
+        "slug": "mambr-kad-cf21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF21",
+        "level": 1,
+        "name": {
+          "local": "Mambéré-Kadéï",
+          "en": "Mambéré-Kadéï",
+          "slug": "mambr-kad-cf21"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.897",
+      "lon": "15.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF216",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dédé-Mokouba",
+      "en": "Dédé-Mokouba",
+      "slug": "dd-mokouba-cf216"
+    },
+    "code": {
+      "id": "CF216",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF21",
+      "level": 1,
+      "name": {
+        "local": "Mambéré-Kadéï",
+        "en": "Mambéré-Kadéï",
+        "slug": "mambr-kad-cf21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF21",
+        "level": 1,
+        "name": {
+          "local": "Mambéré-Kadéï",
+          "en": "Mambéré-Kadéï",
+          "slug": "mambr-kad-cf21"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.883",
+      "lon": "15.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF22",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Nana-Mambéré",
+      "en": "Nana-Mambéré",
+      "slug": "nana-mambr-cf22"
+    },
+    "code": {
+      "id": "CF22",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 4,
+      "commune": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.699",
+      "lon": "15.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF221",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bouar",
+      "en": "Bouar",
+      "slug": "bouar-cf221"
+    },
+    "code": {
+      "id": "CF221",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF22",
+      "level": 1,
+      "name": {
+        "local": "Nana-Mambéré",
+        "en": "Nana-Mambéré",
+        "slug": "nana-mambr-cf22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.957",
+      "lon": "15.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF222",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Baoro",
+      "en": "Baoro",
+      "slug": "baoro-cf222"
+    },
+    "code": {
+      "id": "CF222",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF22",
+      "level": 1,
+      "name": {
+        "local": "Nana-Mambéré",
+        "en": "Nana-Mambéré",
+        "slug": "nana-mambr-cf22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.461",
+      "lon": "16.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF223",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Baboua",
+      "en": "Baboua",
+      "slug": "baboua-cf223"
+    },
+    "code": {
+      "id": "CF223",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF22",
+      "level": 1,
+      "name": {
+        "local": "Nana-Mambéré",
+        "en": "Nana-Mambéré",
+        "slug": "nana-mambr-cf22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.786",
+      "lon": "14.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF224",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Abba",
+      "en": "Abba",
+      "slug": "abba-cf224"
+    },
+    "code": {
+      "id": "CF224",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF22",
+      "level": 1,
+      "name": {
+        "local": "Nana-Mambéré",
+        "en": "Nana-Mambéré",
+        "slug": "nana-mambr-cf22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.225",
+      "lon": "15.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF23",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Sangha-Mbaéré",
+      "en": "Sangha-Mbaéré",
+      "slug": "sangha-mbar-cf23"
+    },
+    "code": {
+      "id": "CF23",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 3,
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.461",
+      "lon": "16.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF231",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nola",
+      "en": "Nola",
+      "slug": "nola-cf231"
+    },
+    "code": {
+      "id": "CF231",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF23",
+      "level": 1,
+      "name": {
+        "local": "Sangha-Mbaéré",
+        "en": "Sangha-Mbaéré",
+        "slug": "sangha-mbar-cf23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF23",
+        "level": 1,
+        "name": {
+          "local": "Sangha-Mbaéré",
+          "en": "Sangha-Mbaéré",
+          "slug": "sangha-mbar-cf23"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.502",
+      "lon": "15.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF232",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bambio",
+      "en": "Bambio",
+      "slug": "bambio-cf232"
+    },
+    "code": {
+      "id": "CF232",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF23",
+      "level": 1,
+      "name": {
+        "local": "Sangha-Mbaéré",
+        "en": "Sangha-Mbaéré",
+        "slug": "sangha-mbar-cf23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF23",
+        "level": 1,
+        "name": {
+          "local": "Sangha-Mbaéré",
+          "en": "Sangha-Mbaéré",
+          "slug": "sangha-mbar-cf23"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.806",
+      "lon": "16.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF233",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bayanga",
+      "en": "Bayanga",
+      "slug": "bayanga-cf233"
+    },
+    "code": {
+      "id": "CF233",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF23",
+      "level": 1,
+      "name": {
+        "local": "Sangha-Mbaéré",
+        "en": "Sangha-Mbaéré",
+        "slug": "sangha-mbar-cf23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF23",
+        "level": 1,
+        "name": {
+          "local": "Sangha-Mbaéré",
+          "en": "Sangha-Mbaéré",
+          "slug": "sangha-mbar-cf23"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.93",
+      "lon": "16.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF24",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Mambéré",
+      "en": "Mambéré",
+      "slug": "mambr-cf24"
+    },
+    "code": {
+      "id": "CF24",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 4,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.783",
+      "lon": "16.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF241",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Carnot",
+      "en": "Carnot",
+      "slug": "carnot-cf241"
+    },
+    "code": {
+      "id": "CF241",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF24",
+      "level": 1,
+      "name": {
+        "local": "Mambéré",
+        "en": "Mambéré",
+        "slug": "mambr-cf24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF24",
+        "level": 1,
+        "name": {
+          "local": "Mambéré",
+          "en": "Mambéré",
+          "slug": "mambr-cf24"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.871",
+      "lon": "15.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF242",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Amada-Gaza",
+      "en": "Amada-Gaza",
+      "slug": "amada-gaza-cf242"
+    },
+    "code": {
+      "id": "CF242",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF24",
+      "level": 1,
+      "name": {
+        "local": "Mambéré",
+        "en": "Mambéré",
+        "slug": "mambr-cf24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF24",
+        "level": 1,
+        "name": {
+          "local": "Mambéré",
+          "en": "Mambéré",
+          "slug": "mambr-cf24"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.822",
+      "lon": "15.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF243",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gadzi",
+      "en": "Gadzi",
+      "slug": "gadzi-cf243"
+    },
+    "code": {
+      "id": "CF243",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF24",
+      "level": 1,
+      "name": {
+        "local": "Mambéré",
+        "en": "Mambéré",
+        "slug": "mambr-cf24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF24",
+        "level": 1,
+        "name": {
+          "local": "Mambéré",
+          "en": "Mambéré",
+          "slug": "mambr-cf24"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.966",
+      "lon": "16.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF244",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Semkpa-Mbaéré",
+      "en": "Semkpa-Mbaéré",
+      "slug": "semkpa-mbar-cf244"
+    },
+    "code": {
+      "id": "CF244",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF24",
+      "level": 1,
+      "name": {
+        "local": "Mambéré",
+        "en": "Mambéré",
+        "slug": "mambr-cf24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF24",
+        "level": 1,
+        "name": {
+          "local": "Mambéré",
+          "en": "Mambéré",
+          "slug": "mambr-cf24"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.494",
+      "lon": "16.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF31",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Ouham Pendé",
+      "en": "Ouham Pendé",
+      "slug": "ouham-pend-cf31"
+    },
+    "code": {
+      "id": "CF31",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 4,
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.113",
+      "lon": "16.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF311",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bozoum",
+      "en": "Bozoum",
+      "slug": "bozoum-cf311"
+    },
+    "code": {
+      "id": "CF311",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF31",
+      "level": 1,
+      "name": {
+        "local": "Ouham Pendé",
+        "en": "Ouham Pendé",
+        "slug": "ouham-pend-cf31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF31",
+        "level": 1,
+        "name": {
+          "local": "Ouham Pendé",
+          "en": "Ouham Pendé",
+          "slug": "ouham-pend-cf31"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.446",
+      "lon": "16.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF312",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bocaranga",
+      "en": "Bocaranga",
+      "slug": "bocaranga-cf312"
+    },
+    "code": {
+      "id": "CF312",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF31",
+      "level": 1,
+      "name": {
+        "local": "Ouham Pendé",
+        "en": "Ouham Pendé",
+        "slug": "ouham-pend-cf31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF31",
+        "level": 1,
+        "name": {
+          "local": "Ouham Pendé",
+          "en": "Ouham Pendé",
+          "slug": "ouham-pend-cf31"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.765",
+      "lon": "15.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF313",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Koui",
+      "en": "Koui",
+      "slug": "koui-cf313"
+    },
+    "code": {
+      "id": "CF313",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF31",
+      "level": 1,
+      "name": {
+        "local": "Ouham Pendé",
+        "en": "Ouham Pendé",
+        "slug": "ouham-pend-cf31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF31",
+        "level": 1,
+        "name": {
+          "local": "Ouham Pendé",
+          "en": "Ouham Pendé",
+          "slug": "ouham-pend-cf31"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.807",
+      "lon": "15.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF316",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bossemptélé",
+      "en": "Bossemptélé",
+      "slug": "bossemptl-cf316"
+    },
+    "code": {
+      "id": "CF316",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF31",
+      "level": 1,
+      "name": {
+        "local": "Ouham Pendé",
+        "en": "Ouham Pendé",
+        "slug": "ouham-pend-cf31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF31",
+        "level": 1,
+        "name": {
+          "local": "Ouham Pendé",
+          "en": "Ouham Pendé",
+          "slug": "ouham-pend-cf31"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.867",
+      "lon": "16.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF32",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Ouham",
+      "en": "Ouham",
+      "slug": "ouham-cf32"
+    },
+    "code": {
+      "id": "CF32",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 4,
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.731",
+      "lon": "17.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF321",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bossangoa",
+      "en": "Bossangoa",
+      "slug": "bossangoa-cf321"
+    },
+    "code": {
+      "id": "CF321",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF32",
+      "level": 1,
+      "name": {
+        "local": "Ouham",
+        "en": "Ouham",
+        "slug": "ouham-cf32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF32",
+        "level": 1,
+        "name": {
+          "local": "Ouham",
+          "en": "Ouham",
+          "slug": "ouham-cf32"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.33",
+      "lon": "17.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF322",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nana-Bakassa",
+      "en": "Nana-Bakassa",
+      "slug": "nana-bakassa-cf322"
+    },
+    "code": {
+      "id": "CF322",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF32",
+      "level": 1,
+      "name": {
+        "local": "Ouham",
+        "en": "Ouham",
+        "slug": "ouham-cf32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF32",
+        "level": 1,
+        "name": {
+          "local": "Ouham",
+          "en": "Ouham",
+          "slug": "ouham-cf32"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.972",
+      "lon": "17.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF323",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Markounda",
+      "en": "Markounda",
+      "slug": "markounda-cf323"
+    },
+    "code": {
+      "id": "CF323",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF32",
+      "level": 1,
+      "name": {
+        "local": "Ouham",
+        "en": "Ouham",
+        "slug": "ouham-cf32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF32",
+        "level": 1,
+        "name": {
+          "local": "Ouham",
+          "en": "Ouham",
+          "slug": "ouham-cf32"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.489",
+      "lon": "17.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF324",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nanga-Boguila",
+      "en": "Nanga-Boguila",
+      "slug": "nanga-boguila-cf324"
+    },
+    "code": {
+      "id": "CF324",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF32",
+      "level": 1,
+      "name": {
+        "local": "Ouham",
+        "en": "Ouham",
+        "slug": "ouham-cf32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF32",
+        "level": 1,
+        "name": {
+          "local": "Ouham",
+          "en": "Ouham",
+          "slug": "ouham-cf32"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.064",
+      "lon": "16.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF33",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Ouham-Fafa",
+      "en": "Ouham-Fafa",
+      "slug": "ouham-fafa-cf33"
+    },
+    "code": {
+      "id": "CF33",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 4,
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.028",
+      "lon": "18.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF331",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Batangafo",
+      "en": "Batangafo",
+      "slug": "batangafo-cf331"
+    },
+    "code": {
+      "id": "CF331",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF33",
+      "level": 1,
+      "name": {
+        "local": "Ouham-Fafa",
+        "en": "Ouham-Fafa",
+        "slug": "ouham-fafa-cf33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF33",
+        "level": 1,
+        "name": {
+          "local": "Ouham-Fafa",
+          "en": "Ouham-Fafa",
+          "slug": "ouham-fafa-cf33"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.346",
+      "lon": "17.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF332",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kabo",
+      "en": "Kabo",
+      "slug": "kabo-cf332"
+    },
+    "code": {
+      "id": "CF332",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF33",
+      "level": 1,
+      "name": {
+        "local": "Ouham-Fafa",
+        "en": "Ouham-Fafa",
+        "slug": "ouham-fafa-cf33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF33",
+        "level": 1,
+        "name": {
+          "local": "Ouham-Fafa",
+          "en": "Ouham-Fafa",
+          "slug": "ouham-fafa-cf33"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.692",
+      "lon": "18.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF333",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bouca",
+      "en": "Bouca",
+      "slug": "bouca-cf333"
+    },
+    "code": {
+      "id": "CF333",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF33",
+      "level": 1,
+      "name": {
+        "local": "Ouham-Fafa",
+        "en": "Ouham-Fafa",
+        "slug": "ouham-fafa-cf33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF33",
+        "level": 1,
+        "name": {
+          "local": "Ouham-Fafa",
+          "en": "Ouham-Fafa",
+          "slug": "ouham-fafa-cf33"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.372",
+      "lon": "18.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF334",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sido",
+      "en": "Sido",
+      "slug": "sido-cf334"
+    },
+    "code": {
+      "id": "CF334",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF33",
+      "level": 1,
+      "name": {
+        "local": "Ouham-Fafa",
+        "en": "Ouham-Fafa",
+        "slug": "ouham-fafa-cf33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF33",
+        "level": 1,
+        "name": {
+          "local": "Ouham-Fafa",
+          "en": "Ouham-Fafa",
+          "slug": "ouham-fafa-cf33"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.181",
+      "lon": "18.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF34",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Lim-pendé",
+      "en": "Lim-pendé",
+      "slug": "lim-pend-cf34"
+    },
+    "code": {
+      "id": "CF34",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 5,
+      "commune": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.201",
+      "lon": "16.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF341",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Paoua",
+      "en": "Paoua",
+      "slug": "paoua-cf341"
+    },
+    "code": {
+      "id": "CF341",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF34",
+      "level": 1,
+      "name": {
+        "local": "Lim-pendé",
+        "en": "Lim-pendé",
+        "slug": "lim-pend-cf34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF34",
+        "level": 1,
+        "name": {
+          "local": "Lim-pendé",
+          "en": "Lim-pendé",
+          "slug": "lim-pend-cf34"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.35",
+      "lon": "16.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF342",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ngaoundaye",
+      "en": "Ngaoundaye",
+      "slug": "ngaoundaye-cf342"
+    },
+    "code": {
+      "id": "CF342",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF34",
+      "level": 1,
+      "name": {
+        "local": "Lim-pendé",
+        "en": "Lim-pendé",
+        "slug": "lim-pend-cf34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF34",
+        "level": 1,
+        "name": {
+          "local": "Lim-pendé",
+          "en": "Lim-pendé",
+          "slug": "lim-pend-cf34"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.426",
+      "lon": "15.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF343",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ndim",
+      "en": "Ndim",
+      "slug": "ndim-cf343"
+    },
+    "code": {
+      "id": "CF343",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF34",
+      "level": 1,
+      "name": {
+        "local": "Lim-pendé",
+        "en": "Lim-pendé",
+        "slug": "lim-pend-cf34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF34",
+        "level": 1,
+        "name": {
+          "local": "Lim-pendé",
+          "en": "Lim-pendé",
+          "slug": "lim-pend-cf34"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.328",
+      "lon": "15.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF344",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kodi",
+      "en": "Kodi",
+      "slug": "kodi-cf344"
+    },
+    "code": {
+      "id": "CF344",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF34",
+      "level": 1,
+      "name": {
+        "local": "Lim-pendé",
+        "en": "Lim-pendé",
+        "slug": "lim-pend-cf34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF34",
+        "level": 1,
+        "name": {
+          "local": "Lim-pendé",
+          "en": "Lim-pendé",
+          "slug": "lim-pend-cf34"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.255",
+      "lon": "15.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF345",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Taley",
+      "en": "Taley",
+      "slug": "taley-cf345"
+    },
+    "code": {
+      "id": "CF345",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF34",
+      "level": 1,
+      "name": {
+        "local": "Lim-pendé",
+        "en": "Lim-pendé",
+        "slug": "lim-pend-cf34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF34",
+        "level": 1,
+        "name": {
+          "local": "Lim-pendé",
+          "en": "Lim-pendé",
+          "slug": "lim-pend-cf34"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.81",
+      "lon": "16.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF41",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Kémo",
+      "en": "Kémo",
+      "slug": "kmo-cf41"
+    },
+    "code": {
+      "id": "CF41",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 4,
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.798",
+      "lon": "19.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF411",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sibut",
+      "en": "Sibut",
+      "slug": "sibut-cf411"
+    },
+    "code": {
+      "id": "CF411",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF41",
+      "level": 1,
+      "name": {
+        "local": "Kémo",
+        "en": "Kémo",
+        "slug": "kmo-cf41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF41",
+        "level": 1,
+        "name": {
+          "local": "Kémo",
+          "en": "Kémo",
+          "slug": "kmo-cf41"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.82",
+      "lon": "19.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF412",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dékoa",
+      "en": "Dékoa",
+      "slug": "dkoa-cf412"
+    },
+    "code": {
+      "id": "CF412",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF41",
+      "level": 1,
+      "name": {
+        "local": "Kémo",
+        "en": "Kémo",
+        "slug": "kmo-cf41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF41",
+        "level": 1,
+        "name": {
+          "local": "Kémo",
+          "en": "Kémo",
+          "slug": "kmo-cf41"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.233",
+      "lon": "19.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF413",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mala",
+      "en": "Mala",
+      "slug": "mala-cf413"
+    },
+    "code": {
+      "id": "CF413",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF41",
+      "level": 1,
+      "name": {
+        "local": "Kémo",
+        "en": "Kémo",
+        "slug": "kmo-cf41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF41",
+        "level": 1,
+        "name": {
+          "local": "Kémo",
+          "en": "Kémo",
+          "slug": "kmo-cf41"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.21",
+      "lon": "19.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF414",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Njoukou",
+      "en": "Njoukou",
+      "slug": "njoukou-cf414"
+    },
+    "code": {
+      "id": "CF414",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF41",
+      "level": 1,
+      "name": {
+        "local": "Kémo",
+        "en": "Kémo",
+        "slug": "kmo-cf41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF41",
+        "level": 1,
+        "name": {
+          "local": "Kémo",
+          "en": "Kémo",
+          "slug": "kmo-cf41"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.333",
+      "lon": "19.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF42",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Nana-Gribizi",
+      "en": "Nana-Gribizi",
+      "slug": "nana-gribizi-cf42"
+    },
+    "code": {
+      "id": "CF42",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 3,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.19",
+      "lon": "19.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF421",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kaga-Bandoro",
+      "en": "Kaga-Bandoro",
+      "slug": "kaga-bandoro-cf421"
+    },
+    "code": {
+      "id": "CF421",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF42",
+      "level": 1,
+      "name": {
+        "local": "Nana-Gribizi",
+        "en": "Nana-Gribizi",
+        "slug": "nana-gribizi-cf42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF42",
+        "level": 1,
+        "name": {
+          "local": "Nana-Gribizi",
+          "en": "Nana-Gribizi",
+          "slug": "nana-gribizi-cf42"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.881",
+      "lon": "19.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF422",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mbrès",
+      "en": "Mbrès",
+      "slug": "mbrs-cf422"
+    },
+    "code": {
+      "id": "CF422",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF42",
+      "level": 1,
+      "name": {
+        "local": "Nana-Gribizi",
+        "en": "Nana-Gribizi",
+        "slug": "nana-gribizi-cf42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF42",
+        "level": 1,
+        "name": {
+          "local": "Nana-Gribizi",
+          "en": "Nana-Gribizi",
+          "slug": "nana-gribizi-cf42"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.991",
+      "lon": "20.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF423",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nana-Outa",
+      "en": "Nana-Outa",
+      "slug": "nana-outa-cf423"
+    },
+    "code": {
+      "id": "CF423",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF42",
+      "level": 1,
+      "name": {
+        "local": "Nana-Gribizi",
+        "en": "Nana-Gribizi",
+        "slug": "nana-gribizi-cf42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF42",
+        "level": 1,
+        "name": {
+          "local": "Nana-Gribizi",
+          "en": "Nana-Gribizi",
+          "slug": "nana-gribizi-cf42"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.632",
+      "lon": "19.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF43",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Ouaka",
+      "en": "Ouaka",
+      "slug": "ouaka-cf43"
+    },
+    "code": {
+      "id": "CF43",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 5,
+      "commune": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.127",
+      "lon": "20.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF431",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bambari",
+      "en": "Bambari",
+      "slug": "bambari-cf431"
+    },
+    "code": {
+      "id": "CF431",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF43",
+      "level": 1,
+      "name": {
+        "local": "Ouaka",
+        "en": "Ouaka",
+        "slug": "ouaka-cf43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF43",
+        "level": 1,
+        "name": {
+          "local": "Ouaka",
+          "en": "Ouaka",
+          "slug": "ouaka-cf43"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.723",
+      "lon": "20.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF432",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bakala",
+      "en": "Bakala",
+      "slug": "bakala-cf432"
+    },
+    "code": {
+      "id": "CF432",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF43",
+      "level": 1,
+      "name": {
+        "local": "Ouaka",
+        "en": "Ouaka",
+        "slug": "ouaka-cf43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF43",
+        "level": 1,
+        "name": {
+          "local": "Ouaka",
+          "en": "Ouaka",
+          "slug": "ouaka-cf43"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.565",
+      "lon": "20.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF433",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Grimari",
+      "en": "Grimari",
+      "slug": "grimari-cf433"
+    },
+    "code": {
+      "id": "CF433",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF43",
+      "level": 1,
+      "name": {
+        "local": "Ouaka",
+        "en": "Ouaka",
+        "slug": "ouaka-cf43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF43",
+        "level": 1,
+        "name": {
+          "local": "Ouaka",
+          "en": "Ouaka",
+          "slug": "ouaka-cf43"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.773",
+      "lon": "19.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF434",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kouango",
+      "en": "Kouango",
+      "slug": "kouango-cf434"
+    },
+    "code": {
+      "id": "CF434",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF43",
+      "level": 1,
+      "name": {
+        "local": "Ouaka",
+        "en": "Ouaka",
+        "slug": "ouaka-cf43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF43",
+        "level": 1,
+        "name": {
+          "local": "Ouaka",
+          "en": "Ouaka",
+          "slug": "ouaka-cf43"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.079",
+      "lon": "20.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF435",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ippy",
+      "en": "Ippy",
+      "slug": "ippy-cf435"
+    },
+    "code": {
+      "id": "CF435",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF43",
+      "level": 1,
+      "name": {
+        "local": "Ouaka",
+        "en": "Ouaka",
+        "slug": "ouaka-cf43"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF43",
+        "level": 1,
+        "name": {
+          "local": "Ouaka",
+          "en": "Ouaka",
+          "slug": "ouaka-cf43"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.597",
+      "lon": "21.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF51",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Bamingui-Bangoran",
+      "en": "Bamingui-Bangoran",
+      "slug": "bamingui-bangoran-cf51"
+    },
+    "code": {
+      "id": "CF51",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 2,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.422",
+      "lon": "20.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF511",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ndélé",
+      "en": "Ndélé",
+      "slug": "ndl-cf511"
+    },
+    "code": {
+      "id": "CF511",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF51",
+      "level": 1,
+      "name": {
+        "local": "Bamingui-Bangoran",
+        "en": "Bamingui-Bangoran",
+        "slug": "bamingui-bangoran-cf51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF51",
+        "level": 1,
+        "name": {
+          "local": "Bamingui-Bangoran",
+          "en": "Bamingui-Bangoran",
+          "slug": "bamingui-bangoran-cf51"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.743",
+      "lon": "20.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF512",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bamingui",
+      "en": "Bamingui",
+      "slug": "bamingui-cf512"
+    },
+    "code": {
+      "id": "CF512",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF51",
+      "level": 1,
+      "name": {
+        "local": "Bamingui-Bangoran",
+        "en": "Bamingui-Bangoran",
+        "slug": "bamingui-bangoran-cf51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF51",
+        "level": 1,
+        "name": {
+          "local": "Bamingui-Bangoran",
+          "en": "Bamingui-Bangoran",
+          "slug": "bamingui-bangoran-cf51"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.889",
+      "lon": "20.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF52",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Haute-Kotto",
+      "en": "Haute-Kotto",
+      "slug": "haute-kotto-cf52"
+    },
+    "code": {
+      "id": "CF52",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 4,
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.469",
+      "lon": "22.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF521",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bria",
+      "en": "Bria",
+      "slug": "bria-cf521"
+    },
+    "code": {
+      "id": "CF521",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF52",
+      "level": 1,
+      "name": {
+        "local": "Haute-Kotto",
+        "en": "Haute-Kotto",
+        "slug": "haute-kotto-cf52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF52",
+        "level": 1,
+        "name": {
+          "local": "Haute-Kotto",
+          "en": "Haute-Kotto",
+          "slug": "haute-kotto-cf52"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.754",
+      "lon": "22.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF522",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouadda",
+      "en": "Ouadda",
+      "slug": "ouadda-cf522"
+    },
+    "code": {
+      "id": "CF522",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF52",
+      "level": 1,
+      "name": {
+        "local": "Haute-Kotto",
+        "en": "Haute-Kotto",
+        "slug": "haute-kotto-cf52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF52",
+        "level": 1,
+        "name": {
+          "local": "Haute-Kotto",
+          "en": "Haute-Kotto",
+          "slug": "haute-kotto-cf52"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.911",
+      "lon": "22.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF523",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Yalinga",
+      "en": "Yalinga",
+      "slug": "yalinga-cf523"
+    },
+    "code": {
+      "id": "CF523",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF52",
+      "level": 1,
+      "name": {
+        "local": "Haute-Kotto",
+        "en": "Haute-Kotto",
+        "slug": "haute-kotto-cf52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF52",
+        "level": 1,
+        "name": {
+          "local": "Haute-Kotto",
+          "en": "Haute-Kotto",
+          "slug": "haute-kotto-cf52"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.068",
+      "lon": "23.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF524",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouandja-Kotto",
+      "en": "Ouandja-Kotto",
+      "slug": "ouandja-kotto-cf524"
+    },
+    "code": {
+      "id": "CF524",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF52",
+      "level": 1,
+      "name": {
+        "local": "Haute-Kotto",
+        "en": "Haute-Kotto",
+        "slug": "haute-kotto-cf52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF52",
+        "level": 1,
+        "name": {
+          "local": "Haute-Kotto",
+          "en": "Haute-Kotto",
+          "slug": "haute-kotto-cf52"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.378",
+      "lon": "23.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF53",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Vakaga",
+      "en": "Vakaga",
+      "slug": "vakaga-cf53"
+    },
+    "code": {
+      "id": "CF53",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 4,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.824",
+      "lon": "22.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF531",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Birao",
+      "en": "Birao",
+      "slug": "birao-cf531"
+    },
+    "code": {
+      "id": "CF531",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF53",
+      "level": 1,
+      "name": {
+        "local": "Vakaga",
+        "en": "Vakaga",
+        "slug": "vakaga-cf53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF53",
+        "level": 1,
+        "name": {
+          "local": "Vakaga",
+          "en": "Vakaga",
+          "slug": "vakaga-cf53"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.396",
+      "lon": "22.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF532",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouada-Djallé",
+      "en": "Ouada-Djallé",
+      "slug": "ouada-djall-cf532"
+    },
+    "code": {
+      "id": "CF532",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF53",
+      "level": 1,
+      "name": {
+        "local": "Vakaga",
+        "en": "Vakaga",
+        "slug": "vakaga-cf53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF53",
+        "level": 1,
+        "name": {
+          "local": "Vakaga",
+          "en": "Vakaga",
+          "slug": "vakaga-cf53"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.975",
+      "lon": "22.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF533",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouandja",
+      "en": "Ouandja",
+      "slug": "ouandja-cf533"
+    },
+    "code": {
+      "id": "CF533",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF53",
+      "level": 1,
+      "name": {
+        "local": "Vakaga",
+        "en": "Vakaga",
+        "slug": "vakaga-cf53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF53",
+        "level": 1,
+        "name": {
+          "local": "Vakaga",
+          "en": "Vakaga",
+          "slug": "vakaga-cf53"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.673",
+      "lon": "22.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF534",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Am-Dafok",
+      "en": "Am-Dafok",
+      "slug": "am-dafok-cf534"
+    },
+    "code": {
+      "id": "CF534",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF53",
+      "level": 1,
+      "name": {
+        "local": "Vakaga",
+        "en": "Vakaga",
+        "slug": "vakaga-cf53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF53",
+        "level": 1,
+        "name": {
+          "local": "Vakaga",
+          "en": "Vakaga",
+          "slug": "vakaga-cf53"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.269",
+      "lon": "23.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF61",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Basse-Kotto",
+      "en": "Basse-Kotto",
+      "slug": "basse-kotto-cf61"
+    },
+    "code": {
+      "id": "CF61",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 6,
+      "commune": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.893",
+      "lon": "21.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF611",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mobaye",
+      "en": "Mobaye",
+      "slug": "mobaye-cf611"
+    },
+    "code": {
+      "id": "CF611",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF61",
+      "level": 1,
+      "name": {
+        "local": "Basse-Kotto",
+        "en": "Basse-Kotto",
+        "slug": "basse-kotto-cf61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF61",
+        "level": 1,
+        "name": {
+          "local": "Basse-Kotto",
+          "en": "Basse-Kotto",
+          "slug": "basse-kotto-cf61"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.495",
+      "lon": "21.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF612",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Alindao",
+      "en": "Alindao",
+      "slug": "alindao-cf612"
+    },
+    "code": {
+      "id": "CF612",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF61",
+      "level": 1,
+      "name": {
+        "local": "Basse-Kotto",
+        "en": "Basse-Kotto",
+        "slug": "basse-kotto-cf61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF61",
+        "level": 1,
+        "name": {
+          "local": "Basse-Kotto",
+          "en": "Basse-Kotto",
+          "slug": "basse-kotto-cf61"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.955",
+      "lon": "21.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF613",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kembé",
+      "en": "Kembé",
+      "slug": "kemb-cf613"
+    },
+    "code": {
+      "id": "CF613",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF61",
+      "level": 1,
+      "name": {
+        "local": "Basse-Kotto",
+        "en": "Basse-Kotto",
+        "slug": "basse-kotto-cf61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF61",
+        "level": 1,
+        "name": {
+          "local": "Basse-Kotto",
+          "en": "Basse-Kotto",
+          "slug": "basse-kotto-cf61"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.544",
+      "lon": "21.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF614",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mingala",
+      "en": "Mingala",
+      "slug": "mingala-cf614"
+    },
+    "code": {
+      "id": "CF614",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF61",
+      "level": 1,
+      "name": {
+        "local": "Basse-Kotto",
+        "en": "Basse-Kotto",
+        "slug": "basse-kotto-cf61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF61",
+        "level": 1,
+        "name": {
+          "local": "Basse-Kotto",
+          "en": "Basse-Kotto",
+          "slug": "basse-kotto-cf61"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.209",
+      "lon": "21.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF615",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Zangba",
+      "en": "Zangba",
+      "slug": "zangba-cf615"
+    },
+    "code": {
+      "id": "CF615",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF61",
+      "level": 1,
+      "name": {
+        "local": "Basse-Kotto",
+        "en": "Basse-Kotto",
+        "slug": "basse-kotto-cf61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF61",
+        "level": 1,
+        "name": {
+          "local": "Basse-Kotto",
+          "en": "Basse-Kotto",
+          "slug": "basse-kotto-cf61"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.624",
+      "lon": "20.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF616",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Satéma",
+      "en": "Satéma",
+      "slug": "satma-cf616"
+    },
+    "code": {
+      "id": "CF616",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF61",
+      "level": 1,
+      "name": {
+        "local": "Basse-Kotto",
+        "en": "Basse-Kotto",
+        "slug": "basse-kotto-cf61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF61",
+        "level": 1,
+        "name": {
+          "local": "Basse-Kotto",
+          "en": "Basse-Kotto",
+          "slug": "basse-kotto-cf61"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.375",
+      "lon": "21.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF62",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Mbomou",
+      "en": "Mbomou",
+      "slug": "mbomou-cf62"
+    },
+    "code": {
+      "id": "CF62",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 5,
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.501",
+      "lon": "23.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF621",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bangassou",
+      "en": "Bangassou",
+      "slug": "bangassou-cf621"
+    },
+    "code": {
+      "id": "CF621",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF62",
+      "level": 1,
+      "name": {
+        "local": "Mbomou",
+        "en": "Mbomou",
+        "slug": "mbomou-cf62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF62",
+        "level": 1,
+        "name": {
+          "local": "Mbomou",
+          "en": "Mbomou",
+          "slug": "mbomou-cf62"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.15",
+      "lon": "23.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF622",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouango",
+      "en": "Ouango",
+      "slug": "ouango-cf622"
+    },
+    "code": {
+      "id": "CF622",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF62",
+      "level": 1,
+      "name": {
+        "local": "Mbomou",
+        "en": "Mbomou",
+        "slug": "mbomou-cf62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF62",
+        "level": 1,
+        "name": {
+          "local": "Mbomou",
+          "en": "Mbomou",
+          "slug": "mbomou-cf62"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.422",
+      "lon": "22.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF623",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gambo",
+      "en": "Gambo",
+      "slug": "gambo-cf623"
+    },
+    "code": {
+      "id": "CF623",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF62",
+      "level": 1,
+      "name": {
+        "local": "Mbomou",
+        "en": "Mbomou",
+        "slug": "mbomou-cf62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF62",
+        "level": 1,
+        "name": {
+          "local": "Mbomou",
+          "en": "Mbomou",
+          "slug": "mbomou-cf62"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.694",
+      "lon": "22.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF624",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Rafai",
+      "en": "Rafai",
+      "slug": "rafai-cf624"
+    },
+    "code": {
+      "id": "CF624",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF62",
+      "level": 1,
+      "name": {
+        "local": "Mbomou",
+        "en": "Mbomou",
+        "slug": "mbomou-cf62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF62",
+        "level": 1,
+        "name": {
+          "local": "Mbomou",
+          "en": "Mbomou",
+          "slug": "mbomou-cf62"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.809",
+      "lon": "24.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF625",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bakouma",
+      "en": "Bakouma",
+      "slug": "bakouma-cf625"
+    },
+    "code": {
+      "id": "CF625",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF62",
+      "level": 1,
+      "name": {
+        "local": "Mbomou",
+        "en": "Mbomou",
+        "slug": "mbomou-cf62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF62",
+        "level": 1,
+        "name": {
+          "local": "Mbomou",
+          "en": "Mbomou",
+          "slug": "mbomou-cf62"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.575",
+      "lon": "22.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF63",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Haut-Mbomou",
+      "en": "Haut-Mbomou",
+      "slug": "haut-mbomou-cf63"
+    },
+    "code": {
+      "id": "CF63",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 5,
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.308",
+      "lon": "25.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF631",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Obo",
+      "en": "Obo",
+      "slug": "obo-cf631"
+    },
+    "code": {
+      "id": "CF631",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF63",
+      "level": 1,
+      "name": {
+        "local": "Haut-Mbomou",
+        "en": "Haut-Mbomou",
+        "slug": "haut-mbomou-cf63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF63",
+        "level": 1,
+        "name": {
+          "local": "Haut-Mbomou",
+          "en": "Haut-Mbomou",
+          "slug": "haut-mbomou-cf63"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.533",
+      "lon": "26.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF632",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bambouti",
+      "en": "Bambouti",
+      "slug": "bambouti-cf632"
+    },
+    "code": {
+      "id": "CF632",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF63",
+      "level": 1,
+      "name": {
+        "local": "Haut-Mbomou",
+        "en": "Haut-Mbomou",
+        "slug": "haut-mbomou-cf63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF63",
+        "level": 1,
+        "name": {
+          "local": "Haut-Mbomou",
+          "en": "Haut-Mbomou",
+          "slug": "haut-mbomou-cf63"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.46",
+      "lon": "26.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF633",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Zémio",
+      "en": "Zémio",
+      "slug": "zmio-cf633"
+    },
+    "code": {
+      "id": "CF633",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF63",
+      "level": 1,
+      "name": {
+        "local": "Haut-Mbomou",
+        "en": "Haut-Mbomou",
+        "slug": "haut-mbomou-cf63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF63",
+        "level": 1,
+        "name": {
+          "local": "Haut-Mbomou",
+          "en": "Haut-Mbomou",
+          "slug": "haut-mbomou-cf63"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.404",
+      "lon": "25.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF634",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Djémah",
+      "en": "Djémah",
+      "slug": "djmah-cf634"
+    },
+    "code": {
+      "id": "CF634",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF63",
+      "level": 1,
+      "name": {
+        "local": "Haut-Mbomou",
+        "en": "Haut-Mbomou",
+        "slug": "haut-mbomou-cf63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF63",
+        "level": 1,
+        "name": {
+          "local": "Haut-Mbomou",
+          "en": "Haut-Mbomou",
+          "slug": "haut-mbomou-cf63"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.783",
+      "lon": "25.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF635",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mboki",
+      "en": "Mboki",
+      "slug": "mboki-cf635"
+    },
+    "code": {
+      "id": "CF635",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF63",
+      "level": 1,
+      "name": {
+        "local": "Haut-Mbomou",
+        "en": "Haut-Mbomou",
+        "slug": "haut-mbomou-cf63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF63",
+        "level": 1,
+        "name": {
+          "local": "Haut-Mbomou",
+          "en": "Haut-Mbomou",
+          "slug": "haut-mbomou-cf63"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.4",
+      "lon": "25.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF71",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Bangui",
+      "en": "Bangui",
+      "slug": "bangui-cf71"
+    },
+    "code": {
+      "id": "CF71",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 4,
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.335",
+      "lon": "18.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF711",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bangui-Centre",
+      "en": "Bangui-Centre",
+      "slug": "bangui-centre-cf711"
+    },
+    "code": {
+      "id": "CF711",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF71",
+      "level": 1,
+      "name": {
+        "local": "Bangui",
+        "en": "Bangui",
+        "slug": "bangui-cf71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF71",
+        "level": 1,
+        "name": {
+          "local": "Bangui",
+          "en": "Bangui",
+          "slug": "bangui-cf71"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.382",
+      "lon": "18.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF712",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bangui-Kagas",
+      "en": "Bangui-Kagas",
+      "slug": "bangui-kagas-cf712"
+    },
+    "code": {
+      "id": "CF712",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF71",
+      "level": 1,
+      "name": {
+        "local": "Bangui",
+        "en": "Bangui",
+        "slug": "bangui-cf71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF71",
+        "level": 1,
+        "name": {
+          "local": "Bangui",
+          "en": "Bangui",
+          "slug": "bangui-cf71"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.529",
+      "lon": "18.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF713",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bangui-Fleuve",
+      "en": "Bangui-Fleuve",
+      "slug": "bangui-fleuve-cf713"
+    },
+    "code": {
+      "id": "CF713",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF71",
+      "level": 1,
+      "name": {
+        "local": "Bangui",
+        "en": "Bangui",
+        "slug": "bangui-cf71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF71",
+        "level": 1,
+        "name": {
+          "local": "Bangui",
+          "en": "Bangui",
+          "slug": "bangui-cf71"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.217",
+      "lon": "18.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF714",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bangui-Rapides",
+      "en": "Bangui-Rapides",
+      "slug": "bangui-rapides-cf714"
+    },
+    "code": {
+      "id": "CF714",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF71",
+      "level": 1,
+      "name": {
+        "local": "Bangui",
+        "en": "Bangui",
+        "slug": "bangui-cf71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF71",
+        "level": 1,
+        "name": {
+          "local": "Bangui",
+          "en": "Bangui",
+          "slug": "bangui-cf71"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.459",
+      "lon": "18.716"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

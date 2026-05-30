@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CF616_mboui",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mboui",
+      "en": "Mboui",
+      "slug": "mboui"
+    },
+    "code": {
+      "id": "CF616_mboui",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF616",
+      "level": 2,
+      "name": {
+        "local": "Satéma",
+        "en": "Satéma",
+        "slug": "satma-cf616"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF61",
+        "level": 1,
+        "name": {
+          "local": "Basse-Kotto",
+          "en": "Basse-Kotto",
+          "slug": "basse-kotto-cf61"
+        }
+      },
+      {
+        "id": "CF616",
+        "level": 2,
+        "name": {
+          "local": "Satéma",
+          "en": "Satéma",
+          "slug": "satma-cf616"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.481",
+      "lon": "21.558"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

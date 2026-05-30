@@ -1,0 +1,47 @@
+{
+  "id": "CF223",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Baboua",
+    "en": "Baboua",
+    "slug": "baboua-cf223"
+  },
+  "code": {
+    "id": "CF223",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF22",
+    "level": 1,
+    "name": {
+      "local": "Nana-Mambéré",
+      "en": "Nana-Mambéré",
+      "slug": "nana-mambr-cf22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF22",
+      "level": 1,
+      "name": {
+        "local": "Nana-Mambéré",
+        "en": "Nana-Mambéré",
+        "slug": "nana-mambr-cf22"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.786",
+    "lon": "14.898"
+  },
+  "metadata": {},
+  "source": {}
+}

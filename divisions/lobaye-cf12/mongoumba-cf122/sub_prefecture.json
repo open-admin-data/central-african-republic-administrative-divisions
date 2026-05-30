@@ -1,0 +1,47 @@
+{
+  "id": "CF122",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Mongoumba",
+    "en": "Mongoumba",
+    "slug": "mongoumba-cf122"
+  },
+  "code": {
+    "id": "CF122",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF12",
+    "level": 1,
+    "name": {
+      "local": "Lobaye",
+      "en": "Lobaye",
+      "slug": "lobaye-cf12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF12",
+      "level": 1,
+      "name": {
+        "local": "Lobaye",
+        "en": "Lobaye",
+        "slug": "lobaye-cf12"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.758",
+    "lon": "18.475"
+  },
+  "metadata": {},
+  "source": {}
+}

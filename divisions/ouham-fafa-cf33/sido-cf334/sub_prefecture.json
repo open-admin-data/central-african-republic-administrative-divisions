@@ -1,0 +1,47 @@
+{
+  "id": "CF334",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Sido",
+    "en": "Sido",
+    "slug": "sido-cf334"
+  },
+  "code": {
+    "id": "CF334",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF33",
+    "level": 1,
+    "name": {
+      "local": "Ouham-Fafa",
+      "en": "Ouham-Fafa",
+      "slug": "ouham-fafa-cf33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF33",
+      "level": 1,
+      "name": {
+        "local": "Ouham-Fafa",
+        "en": "Ouham-Fafa",
+        "slug": "ouham-fafa-cf33"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.181",
+    "lon": "18.896"
+  },
+  "metadata": {},
+  "source": {}
+}

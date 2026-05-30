@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CF212_basse-boumne",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Basse-Boumne",
+      "en": "Basse-Boumne",
+      "slug": "basse-boumne"
+    },
+    "code": {
+      "id": "CF212_basse-boumne",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF212",
+      "level": 2,
+      "name": {
+        "local": "Gamboula",
+        "en": "Gamboula",
+        "slug": "gamboula-cf212"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF21",
+        "level": 1,
+        "name": {
+          "local": "Mambéré-Kadéï",
+          "en": "Mambéré-Kadéï",
+          "slug": "mambr-kad-cf21"
+        }
+      },
+      {
+        "id": "CF212",
+        "level": 2,
+        "name": {
+          "local": "Gamboula",
+          "en": "Gamboula",
+          "slug": "gamboula-cf212"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.352",
+      "lon": "15.081"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

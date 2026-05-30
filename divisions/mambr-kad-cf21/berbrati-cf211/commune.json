@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CF211_basse-batouri",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Basse-Batouri",
+      "en": "Basse-Batouri",
+      "slug": "basse-batouri"
+    },
+    "code": {
+      "id": "CF211_basse-batouri",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF211",
+      "level": 2,
+      "name": {
+        "local": "Berbérati",
+        "en": "Berbérati",
+        "slug": "berbrati-cf211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF21",
+        "level": 1,
+        "name": {
+          "local": "Mambéré-Kadéï",
+          "en": "Mambéré-Kadéï",
+          "slug": "mambr-kad-cf21"
+        }
+      },
+      {
+        "id": "CF211",
+        "level": 2,
+        "name": {
+          "local": "Berbérati",
+          "en": "Berbérati",
+          "slug": "berbrati-cf211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.076",
+      "lon": "15.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF211_haute-batouri",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Haute-Batouri",
+      "en": "Haute-Batouri",
+      "slug": "haute-batouri"
+    },
+    "code": {
+      "id": "CF211_haute-batouri",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF211",
+      "level": 2,
+      "name": {
+        "local": "Berbérati",
+        "en": "Berbérati",
+        "slug": "berbrati-cf211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF21",
+        "level": 1,
+        "name": {
+          "local": "Mambéré-Kadéï",
+          "en": "Mambéré-Kadéï",
+          "slug": "mambr-kad-cf21"
+        }
+      },
+      {
+        "id": "CF211",
+        "level": 2,
+        "name": {
+          "local": "Berbérati",
+          "en": "Berbérati",
+          "slug": "berbrati-cf211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.525",
+      "lon": "15.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF211_ouakanga",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouakanga",
+      "en": "Ouakanga",
+      "slug": "ouakanga"
+    },
+    "code": {
+      "id": "CF211_ouakanga",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF211",
+      "level": 2,
+      "name": {
+        "local": "Berbérati",
+        "en": "Berbérati",
+        "slug": "berbrati-cf211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF21",
+        "level": 1,
+        "name": {
+          "local": "Mambéré-Kadéï",
+          "en": "Mambéré-Kadéï",
+          "slug": "mambr-kad-cf21"
+        }
+      },
+      {
+        "id": "CF211",
+        "level": 2,
+        "name": {
+          "local": "Berbérati",
+          "en": "Berbérati",
+          "slug": "berbrati-cf211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.37",
+      "lon": "15.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF211_senkpa-mbaere",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Senkpa-Mbaere",
+      "en": "Senkpa-Mbaere",
+      "slug": "senkpa-mbaere"
+    },
+    "code": {
+      "id": "CF211_senkpa-mbaere",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF211",
+      "level": 2,
+      "name": {
+        "local": "Berbérati",
+        "en": "Berbérati",
+        "slug": "berbrati-cf211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF21",
+        "level": 1,
+        "name": {
+          "local": "Mambéré-Kadéï",
+          "en": "Mambéré-Kadéï",
+          "slug": "mambr-kad-cf21"
+        }
+      },
+      {
+        "id": "CF211",
+        "level": 2,
+        "name": {
+          "local": "Berbérati",
+          "en": "Berbérati",
+          "slug": "berbrati-cf211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.506",
+      "lon": "16.5"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

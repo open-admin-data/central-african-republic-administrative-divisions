@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CF316_gueli",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gueli",
+      "en": "Gueli",
+      "slug": "gueli"
+    },
+    "code": {
+      "id": "CF316_gueli",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF316",
+      "level": 2,
+      "name": {
+        "local": "Bossemptélé",
+        "en": "Bossemptélé",
+        "slug": "bossemptl-cf316"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF31",
+        "level": 1,
+        "name": {
+          "local": "Ouham Pendé",
+          "en": "Ouham Pendé",
+          "slug": "ouham-pend-cf31"
+        }
+      },
+      {
+        "id": "CF316",
+        "level": 2,
+        "name": {
+          "local": "Bossemptélé",
+          "en": "Bossemptélé",
+          "slug": "bossemptl-cf316"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.566",
+      "lon": "16.835"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

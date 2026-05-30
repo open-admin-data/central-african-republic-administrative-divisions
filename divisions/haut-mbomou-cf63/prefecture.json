@@ -1,0 +1,30 @@
+{
+  "id": "CF63",
+  "level": 1,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Haut-Mbomou",
+    "en": "Haut-Mbomou",
+    "slug": "haut-mbomou-cf63"
+  },
+  "code": {
+    "id": "CF63",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sub_prefecture": 5,
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.308",
+    "lon": "25.588"
+  },
+  "metadata": {},
+  "source": {}
+}

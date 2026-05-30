@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CF222_bawi-tedoa",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bawi Tedoa",
+      "en": "Bawi Tedoa",
+      "slug": "bawi-tedoa"
+    },
+    "code": {
+      "id": "CF222_bawi-tedoa",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF222",
+      "level": 2,
+      "name": {
+        "local": "Baoro",
+        "en": "Baoro",
+        "slug": "baoro-cf222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      },
+      {
+        "id": "CF222",
+        "level": 2,
+        "name": {
+          "local": "Baoro",
+          "en": "Baoro",
+          "slug": "baoro-cf222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.591",
+      "lon": "16.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF222_yoro-samba-bougoulou",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yoro-Samba Bougoulou",
+      "en": "Yoro-Samba Bougoulou",
+      "slug": "yoro-samba-bougoulou"
+    },
+    "code": {
+      "id": "CF222_yoro-samba-bougoulou",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF222",
+      "level": 2,
+      "name": {
+        "local": "Baoro",
+        "en": "Baoro",
+        "slug": "baoro-cf222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      },
+      {
+        "id": "CF222",
+        "level": 2,
+        "name": {
+          "local": "Baoro",
+          "en": "Baoro",
+          "slug": "baoro-cf222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.384",
+      "lon": "16.139"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

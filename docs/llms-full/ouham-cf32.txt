@@ -1,0 +1,53 @@
+# Ouham — Central African Republic Administrative Divisions
+
+> 4 sub-prefectures, 6 communes
+> Code: CF32
+> Coordinates: 6.731, 17.281
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Sub-prefectures
+
+### Bossangoa
+
+Code: CF321, Coordinates: 6.33, 17.339
+Communes: 4
+
+#### Bossangoa
+
+Code: CF321_bossangoa, Coordinates: 6.5, 17.431
+
+#### Koro-Mpoko
+
+Code: CF321_koro-mpoko, Coordinates: 6.092, 17.391
+
+#### Ndoro Mboli
+
+Code: CF321_ndoro-mboli, Coordinates: 6.727, 17.089
+
+#### Soumbe
+
+Code: CF321_soumbe, Coordinates: 6.455, 17.603
+
+### Markounda
+
+Code: CF323, Coordinates: 7.489, 17.271
+Communes: 1
+
+#### Nana Markounda
+
+Code: CF323_nana-markounda, Coordinates: 7.587, 17.271
+
+### Nana-Bakassa
+
+Code: CF322, Coordinates: 6.972, 17.379
+Communes: 1
+
+#### Nana-Bakassa
+
+Code: CF322_nana-bakassa, Coordinates: 6.929, 17.399
+
+### Nanga-Boguila
+
+Code: CF324, Coordinates: 7.064, 16.92
+Communes: 0
+

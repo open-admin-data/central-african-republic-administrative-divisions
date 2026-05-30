@@ -1,0 +1,30 @@
+{
+  "id": "CF62",
+  "level": 1,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Mbomou",
+    "en": "Mbomou",
+    "slug": "mbomou-cf62"
+  },
+  "code": {
+    "id": "CF62",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sub_prefecture": 5,
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.501",
+    "lon": "23.39"
+  },
+  "metadata": {},
+  "source": {}
+}

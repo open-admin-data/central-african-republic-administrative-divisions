@@ -1,0 +1,47 @@
+{
+  "id": "CF631",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Obo",
+    "en": "Obo",
+    "slug": "obo-cf631"
+  },
+  "code": {
+    "id": "CF631",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF63",
+    "level": 1,
+    "name": {
+      "local": "Haut-Mbomou",
+      "en": "Haut-Mbomou",
+      "slug": "haut-mbomou-cf63"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF63",
+      "level": 1,
+      "name": {
+        "local": "Haut-Mbomou",
+        "en": "Haut-Mbomou",
+        "slug": "haut-mbomou-cf63"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.533",
+    "lon": "26.48"
+  },
+  "metadata": {},
+  "source": {}
+}

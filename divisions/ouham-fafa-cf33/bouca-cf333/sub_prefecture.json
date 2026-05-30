@@ -1,0 +1,47 @@
+{
+  "id": "CF333",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Bouca",
+    "en": "Bouca",
+    "slug": "bouca-cf333"
+  },
+  "code": {
+    "id": "CF333",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF33",
+    "level": 1,
+    "name": {
+      "local": "Ouham-Fafa",
+      "en": "Ouham-Fafa",
+      "slug": "ouham-fafa-cf33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF33",
+      "level": 1,
+      "name": {
+        "local": "Ouham-Fafa",
+        "en": "Ouham-Fafa",
+        "slug": "ouham-fafa-cf33"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.372",
+    "lon": "18.287"
+  },
+  "metadata": {},
+  "source": {}
+}

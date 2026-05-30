@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CF623_gambo",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Gambo",
+      "en": "Gambo",
+      "slug": "gambo"
+    },
+    "code": {
+      "id": "CF623_gambo",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF623",
+      "level": 2,
+      "name": {
+        "local": "Gambo",
+        "en": "Gambo",
+        "slug": "gambo-cf623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF62",
+        "level": 1,
+        "name": {
+          "local": "Mbomou",
+          "en": "Mbomou",
+          "slug": "mbomou-cf62"
+        }
+      },
+      {
+        "id": "CF623",
+        "level": 2,
+        "name": {
+          "local": "Gambo",
+          "en": "Gambo",
+          "slug": "gambo-cf623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.723",
+      "lon": "22.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF623_kotto-oubangui",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kotto-Oubangui",
+      "en": "Kotto-Oubangui",
+      "slug": "kotto-oubangui"
+    },
+    "code": {
+      "id": "CF623_kotto-oubangui",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF623",
+      "level": 2,
+      "name": {
+        "local": "Gambo",
+        "en": "Gambo",
+        "slug": "gambo-cf623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF62",
+        "level": 1,
+        "name": {
+          "local": "Mbomou",
+          "en": "Mbomou",
+          "slug": "mbomou-cf62"
+        }
+      },
+      {
+        "id": "CF623",
+        "level": 2,
+        "name": {
+          "local": "Gambo",
+          "en": "Gambo",
+          "slug": "gambo-cf623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.382",
+      "lon": "21.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF623_ngandou",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ngandou",
+      "en": "Ngandou",
+      "slug": "ngandou"
+    },
+    "code": {
+      "id": "CF623_ngandou",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF623",
+      "level": 2,
+      "name": {
+        "local": "Gambo",
+        "en": "Gambo",
+        "slug": "gambo-cf623"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF62",
+        "level": 1,
+        "name": {
+          "local": "Mbomou",
+          "en": "Mbomou",
+          "slug": "mbomou-cf62"
+        }
+      },
+      {
+        "id": "CF623",
+        "level": 2,
+        "name": {
+          "local": "Gambo",
+          "en": "Gambo",
+          "slug": "gambo-cf623"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.344",
+      "lon": "22.227"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

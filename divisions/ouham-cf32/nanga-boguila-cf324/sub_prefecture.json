@@ -1,0 +1,47 @@
+{
+  "id": "CF324",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Nanga-Boguila",
+    "en": "Nanga-Boguila",
+    "slug": "nanga-boguila-cf324"
+  },
+  "code": {
+    "id": "CF324",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF32",
+    "level": 1,
+    "name": {
+      "local": "Ouham",
+      "en": "Ouham",
+      "slug": "ouham-cf32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF32",
+      "level": 1,
+      "name": {
+        "local": "Ouham",
+        "en": "Ouham",
+        "slug": "ouham-cf32"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.064",
+    "lon": "16.92"
+  },
+  "metadata": {},
+  "source": {}
+}

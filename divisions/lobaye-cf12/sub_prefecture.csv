@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.commune,geo.lat,geo.lon
+CF123,Boda,Boda,boda-cf123,CF123,2,4.073,17.317
+CF124,Boganangone,Boganangone,boganangone-cf124,CF124,2,4.736,17.14
+CF125,Boganda,Boganda,boganda-cf125,CF125,0,4.366,17.159
+CF121,Mbaïki,Mbaïki,mbaki-cf121,CF121,9,4.143,17.986
+CF126,Moboma,Moboma,moboma-cf126,CF126,0,3.689,17.857
+CF122,Mongoumba,Mongoumba,mongoumba-cf122,CF122,1,3.758,18.475

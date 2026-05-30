@@ -1,0 +1,65 @@
+# Ouham Pendé — Central African Republic Administrative Divisions
+
+> 4 sub-prefectures, 9 communes
+> Code: CF31
+> Coordinates: 6.113, 16.585
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Sub-prefectures
+
+### Bocaranga
+
+Code: CF312, Coordinates: 6.765, 15.779
+Communes: 2
+
+#### Danayere
+
+Code: CF312_danayere, Coordinates: 6.374, 16.128
+
+#### Pende
+
+Code: CF312_pende, Coordinates: 6.793, 15.883
+
+### Bossemptélé
+
+Code: CF316, Coordinates: 5.867, 16.582
+Communes: 1
+
+#### Gueli
+
+Code: CF316_gueli, Coordinates: 5.566, 16.835
+
+### Bozoum
+
+Code: CF311, Coordinates: 6.446, 16.417
+Communes: 6
+
+#### Binon
+
+Code: CF311_binon, Coordinates: 5.938, 16.583
+
+#### Birvan-Bole
+
+Code: CF311_birvan-bole, Coordinates: 6.141, 15.989
+
+#### Bozoum
+
+Code: CF311_bozoum, Coordinates: 6.324, 16.382
+
+#### Dan-Gbabiri
+
+Code: CF311_dan-gbabiri, Coordinates: 6.344, 16.747
+
+#### Kouazo
+
+Code: CF311_kouazo, Coordinates: 6.486, 16.244
+
+#### Ouham Bac
+
+Code: CF311_ouham-bac, Coordinates: 6.611, 17.062
+
+### Koui
+
+Code: CF313, Coordinates: 6.807, 15.338
+Communes: 0
+

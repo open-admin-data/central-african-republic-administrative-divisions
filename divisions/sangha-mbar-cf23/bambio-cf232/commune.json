@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CF232_basse-mambere",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Basse-Mambere",
+      "en": "Basse-Mambere",
+      "slug": "basse-mambere"
+    },
+    "code": {
+      "id": "CF232_basse-mambere",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF232",
+      "level": 2,
+      "name": {
+        "local": "Bambio",
+        "en": "Bambio",
+        "slug": "bambio-cf232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF23",
+        "level": 1,
+        "name": {
+          "local": "Sangha-Mbaéré",
+          "en": "Sangha-Mbaéré",
+          "slug": "sangha-mbar-cf23"
+        }
+      },
+      {
+        "id": "CF232",
+        "level": 2,
+        "name": {
+          "local": "Bambio",
+          "en": "Bambio",
+          "slug": "bambio-cf232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.133",
+      "lon": "16.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF232_mbaere",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mbaere",
+      "en": "Mbaere",
+      "slug": "mbaere"
+    },
+    "code": {
+      "id": "CF232_mbaere",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF232",
+      "level": 2,
+      "name": {
+        "local": "Bambio",
+        "en": "Bambio",
+        "slug": "bambio-cf232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF23",
+        "level": 1,
+        "name": {
+          "local": "Sangha-Mbaéré",
+          "en": "Sangha-Mbaéré",
+          "slug": "sangha-mbar-cf23"
+        }
+      },
+      {
+        "id": "CF232",
+        "level": 2,
+        "name": {
+          "local": "Bambio",
+          "en": "Bambio",
+          "slug": "bambio-cf232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.878",
+      "lon": "16.812"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

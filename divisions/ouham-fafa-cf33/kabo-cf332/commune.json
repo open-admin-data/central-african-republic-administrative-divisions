@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CF332_sido",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sido",
+      "en": "Sido",
+      "slug": "sido"
+    },
+    "code": {
+      "id": "CF332_sido",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF332",
+      "level": 2,
+      "name": {
+        "local": "Kabo",
+        "en": "Kabo",
+        "slug": "kabo-cf332"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF33",
+        "level": 1,
+        "name": {
+          "local": "Ouham-Fafa",
+          "en": "Ouham-Fafa",
+          "slug": "ouham-fafa-cf33"
+        }
+      },
+      {
+        "id": "CF332",
+        "level": 2,
+        "name": {
+          "local": "Kabo",
+          "en": "Kabo",
+          "slug": "kabo-cf332"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.037",
+      "lon": "18.495"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

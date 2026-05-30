@@ -1,0 +1,47 @@
+{
+  "id": "CF612",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Alindao",
+    "en": "Alindao",
+    "slug": "alindao-cf612"
+  },
+  "code": {
+    "id": "CF612",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF61",
+    "level": 1,
+    "name": {
+      "local": "Basse-Kotto",
+      "en": "Basse-Kotto",
+      "slug": "basse-kotto-cf61"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF61",
+      "level": 1,
+      "name": {
+        "local": "Basse-Kotto",
+        "en": "Basse-Kotto",
+        "slug": "basse-kotto-cf61"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.955",
+    "lon": "21.224"
+  },
+  "metadata": {},
+  "source": {}
+}

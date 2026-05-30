@@ -1,0 +1,47 @@
+{
+  "id": "CF616",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Satéma",
+    "en": "Satéma",
+    "slug": "satma-cf616"
+  },
+  "code": {
+    "id": "CF616",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF61",
+    "level": 1,
+    "name": {
+      "local": "Basse-Kotto",
+      "en": "Basse-Kotto",
+      "slug": "basse-kotto-cf61"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF61",
+      "level": 1,
+      "name": {
+        "local": "Basse-Kotto",
+        "en": "Basse-Kotto",
+        "slug": "basse-kotto-cf61"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.375",
+    "lon": "21.956"
+  },
+  "metadata": {},
+  "source": {}
+}

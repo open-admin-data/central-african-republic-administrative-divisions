@@ -1,0 +1,47 @@
+{
+  "id": "CF412",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Dékoa",
+    "en": "Dékoa",
+    "slug": "dkoa-cf412"
+  },
+  "code": {
+    "id": "CF412",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF41",
+    "level": 1,
+    "name": {
+      "local": "Kémo",
+      "en": "Kémo",
+      "slug": "kmo-cf41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF41",
+      "level": 1,
+      "name": {
+        "local": "Kémo",
+        "en": "Kémo",
+        "slug": "kmo-cf41"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.233",
+    "lon": "19.149"
+  },
+  "metadata": {},
+  "source": {}
+}

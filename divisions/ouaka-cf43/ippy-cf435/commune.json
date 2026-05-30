@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CF435_baidou-ngoumbourou",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Baidou-Ngoumbourou",
+      "en": "Baidou-Ngoumbourou",
+      "slug": "baidou-ngoumbourou"
+    },
+    "code": {
+      "id": "CF435_baidou-ngoumbourou",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF435",
+      "level": 2,
+      "name": {
+        "local": "Ippy",
+        "en": "Ippy",
+        "slug": "ippy-cf435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF43",
+        "level": 1,
+        "name": {
+          "local": "Ouaka",
+          "en": "Ouaka",
+          "slug": "ouaka-cf43"
+        }
+      },
+      {
+        "id": "CF435",
+        "level": 2,
+        "name": {
+          "local": "Ippy",
+          "en": "Ippy",
+          "slug": "ippy-cf435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.461",
+      "lon": "20.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF435_bambari",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bambari",
+      "en": "Bambari",
+      "slug": "bambari"
+    },
+    "code": {
+      "id": "CF435_bambari",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF435",
+      "level": 2,
+      "name": {
+        "local": "Ippy",
+        "en": "Ippy",
+        "slug": "ippy-cf435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF43",
+        "level": 1,
+        "name": {
+          "local": "Ouaka",
+          "en": "Ouaka",
+          "slug": "ouaka-cf43"
+        }
+      },
+      {
+        "id": "CF435",
+        "level": 2,
+        "name": {
+          "local": "Ippy",
+          "en": "Ippy",
+          "slug": "ippy-cf435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.756",
+      "lon": "20.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF435_danga-gboudou",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Danga-Gboudou",
+      "en": "Danga-Gboudou",
+      "slug": "danga-gboudou"
+    },
+    "code": {
+      "id": "CF435_danga-gboudou",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF435",
+      "level": 2,
+      "name": {
+        "local": "Ippy",
+        "en": "Ippy",
+        "slug": "ippy-cf435"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF43",
+        "level": 1,
+        "name": {
+          "local": "Ouaka",
+          "en": "Ouaka",
+          "slug": "ouaka-cf43"
+        }
+      },
+      {
+        "id": "CF435",
+        "level": 2,
+        "name": {
+          "local": "Ippy",
+          "en": "Ippy",
+          "slug": "ippy-cf435"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.956",
+      "lon": "20.934"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

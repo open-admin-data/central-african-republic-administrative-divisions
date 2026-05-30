@@ -1,0 +1,35 @@
+# Bamingui-Bangoran — Central African Republic Administrative Divisions
+
+> 2 sub-prefectures, 4 communes
+> Code: CF51
+> Coordinates: 8.422, 20.574
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Sub-prefectures
+
+### Bamingui
+
+Code: CF512, Coordinates: 7.889, 20.049
+Communes: 1
+
+#### Grivai-Pamia
+
+Code: CF512_grivai-pamia, Coordinates: 7.059, 19.447
+
+### Ndélé
+
+Code: CF511, Coordinates: 8.743, 20.891
+Communes: 3
+
+#### Dar El Kouti
+
+Code: CF511_dar-el-kouti, Coordinates: 8.985, 20.629
+
+#### Nana-Outa
+
+Code: CF511_nana-outa, Coordinates: 7.789, 19.206
+
+#### Vassako
+
+Code: CF511_vassako, Coordinates: 7.895, 19.984
+

@@ -1,0 +1,47 @@
+{
+  "id": "CF523",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Yalinga",
+    "en": "Yalinga",
+    "slug": "yalinga-cf523"
+  },
+  "code": {
+    "id": "CF523",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF52",
+    "level": 1,
+    "name": {
+      "local": "Haute-Kotto",
+      "en": "Haute-Kotto",
+      "slug": "haute-kotto-cf52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF52",
+      "level": 1,
+      "name": {
+        "local": "Haute-Kotto",
+        "en": "Haute-Kotto",
+        "slug": "haute-kotto-cf52"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.068",
+    "lon": "23.427"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,30 @@
+{
+  "id": "CF41",
+  "level": 1,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Kémo",
+    "en": "Kémo",
+    "slug": "kmo-cf41"
+  },
+  "code": {
+    "id": "CF41",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sub_prefecture": 4,
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.798",
+    "lon": "19.298"
+  },
+  "metadata": {},
+  "source": {}
+}

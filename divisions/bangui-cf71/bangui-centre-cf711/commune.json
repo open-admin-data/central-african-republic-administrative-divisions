@@ -1,0 +1,434 @@
+[
+  {
+    "id": "CF711_arrondissement-1",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Arrondissement 1",
+      "en": "Arrondissement 1",
+      "slug": "arrondissement-1"
+    },
+    "code": {
+      "id": "CF711_arrondissement-1",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF711",
+      "level": 2,
+      "name": {
+        "local": "Bangui-Centre",
+        "en": "Bangui-Centre",
+        "slug": "bangui-centre-cf711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF71",
+        "level": 1,
+        "name": {
+          "local": "Bangui",
+          "en": "Bangui",
+          "slug": "bangui-cf71"
+        }
+      },
+      {
+        "id": "CF711",
+        "level": 2,
+        "name": {
+          "local": "Bangui-Centre",
+          "en": "Bangui-Centre",
+          "slug": "bangui-centre-cf711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.377",
+      "lon": "18.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF711_arrondissement-2",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Arrondissement 2",
+      "en": "Arrondissement 2",
+      "slug": "arrondissement-2"
+    },
+    "code": {
+      "id": "CF711_arrondissement-2",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF711",
+      "level": 2,
+      "name": {
+        "local": "Bangui-Centre",
+        "en": "Bangui-Centre",
+        "slug": "bangui-centre-cf711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF71",
+        "level": 1,
+        "name": {
+          "local": "Bangui",
+          "en": "Bangui",
+          "slug": "bangui-cf71"
+        }
+      },
+      {
+        "id": "CF711",
+        "level": 2,
+        "name": {
+          "local": "Bangui-Centre",
+          "en": "Bangui-Centre",
+          "slug": "bangui-centre-cf711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.354",
+      "lon": "18.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF711_arrondissement-3",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Arrondissement 3",
+      "en": "Arrondissement 3",
+      "slug": "arrondissement-3"
+    },
+    "code": {
+      "id": "CF711_arrondissement-3",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF711",
+      "level": 2,
+      "name": {
+        "local": "Bangui-Centre",
+        "en": "Bangui-Centre",
+        "slug": "bangui-centre-cf711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF71",
+        "level": 1,
+        "name": {
+          "local": "Bangui",
+          "en": "Bangui",
+          "slug": "bangui-cf71"
+        }
+      },
+      {
+        "id": "CF711",
+        "level": 2,
+        "name": {
+          "local": "Bangui-Centre",
+          "en": "Bangui-Centre",
+          "slug": "bangui-centre-cf711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.375",
+      "lon": "18.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF711_arrondissement-4",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Arrondissement 4",
+      "en": "Arrondissement 4",
+      "slug": "arrondissement-4"
+    },
+    "code": {
+      "id": "CF711_arrondissement-4",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF711",
+      "level": 2,
+      "name": {
+        "local": "Bangui-Centre",
+        "en": "Bangui-Centre",
+        "slug": "bangui-centre-cf711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF71",
+        "level": 1,
+        "name": {
+          "local": "Bangui",
+          "en": "Bangui",
+          "slug": "bangui-cf71"
+        }
+      },
+      {
+        "id": "CF711",
+        "level": 2,
+        "name": {
+          "local": "Bangui-Centre",
+          "en": "Bangui-Centre",
+          "slug": "bangui-centre-cf711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.412",
+      "lon": "18.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF711_arrondissement-5",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Arrondissement 5",
+      "en": "Arrondissement 5",
+      "slug": "arrondissement-5"
+    },
+    "code": {
+      "id": "CF711_arrondissement-5",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF711",
+      "level": 2,
+      "name": {
+        "local": "Bangui-Centre",
+        "en": "Bangui-Centre",
+        "slug": "bangui-centre-cf711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF71",
+        "level": 1,
+        "name": {
+          "local": "Bangui",
+          "en": "Bangui",
+          "slug": "bangui-cf71"
+        }
+      },
+      {
+        "id": "CF711",
+        "level": 2,
+        "name": {
+          "local": "Bangui-Centre",
+          "en": "Bangui-Centre",
+          "slug": "bangui-centre-cf711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.388",
+      "lon": "18.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF711_arrondissement-6",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Arrondissement 6",
+      "en": "Arrondissement 6",
+      "slug": "arrondissement-6"
+    },
+    "code": {
+      "id": "CF711_arrondissement-6",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF711",
+      "level": 2,
+      "name": {
+        "local": "Bangui-Centre",
+        "en": "Bangui-Centre",
+        "slug": "bangui-centre-cf711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF71",
+        "level": 1,
+        "name": {
+          "local": "Bangui",
+          "en": "Bangui",
+          "slug": "bangui-cf71"
+        }
+      },
+      {
+        "id": "CF711",
+        "level": 2,
+        "name": {
+          "local": "Bangui-Centre",
+          "en": "Bangui-Centre",
+          "slug": "bangui-centre-cf711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.345",
+      "lon": "18.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF711_arrondissement-7",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Arrondissement 7",
+      "en": "Arrondissement 7",
+      "slug": "arrondissement-7"
+    },
+    "code": {
+      "id": "CF711_arrondissement-7",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF711",
+      "level": 2,
+      "name": {
+        "local": "Bangui-Centre",
+        "en": "Bangui-Centre",
+        "slug": "bangui-centre-cf711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF71",
+        "level": 1,
+        "name": {
+          "local": "Bangui",
+          "en": "Bangui",
+          "slug": "bangui-cf71"
+        }
+      },
+      {
+        "id": "CF711",
+        "level": 2,
+        "name": {
+          "local": "Bangui-Centre",
+          "en": "Bangui-Centre",
+          "slug": "bangui-centre-cf711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.378",
+      "lon": "18.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF711_arrondissement-8",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Arrondissement 8",
+      "en": "Arrondissement 8",
+      "slug": "arrondissement-8"
+    },
+    "code": {
+      "id": "CF711_arrondissement-8",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF711",
+      "level": 2,
+      "name": {
+        "local": "Bangui-Centre",
+        "en": "Bangui-Centre",
+        "slug": "bangui-centre-cf711"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF71",
+        "level": 1,
+        "name": {
+          "local": "Bangui",
+          "en": "Bangui",
+          "slug": "bangui-cf71"
+        }
+      },
+      {
+        "id": "CF711",
+        "level": 2,
+        "name": {
+          "local": "Bangui-Centre",
+          "en": "Bangui-Centre",
+          "slug": "bangui-centre-cf711"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.415",
+      "lon": "18.538"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

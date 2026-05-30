@@ -1,0 +1,30 @@
+{
+  "id": "CF24",
+  "level": 1,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Mambéré",
+    "en": "Mambéré",
+    "slug": "mambr-cf24"
+  },
+  "code": {
+    "id": "CF24",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sub_prefecture": 4,
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.783",
+    "lon": "16.511"
+  },
+  "metadata": {},
+  "source": {}
+}

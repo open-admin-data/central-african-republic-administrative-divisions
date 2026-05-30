@@ -1,0 +1,30 @@
+{
+  "id": "CF31",
+  "level": 1,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Ouham Pendé",
+    "en": "Ouham Pendé",
+    "slug": "ouham-pend-cf31"
+  },
+  "code": {
+    "id": "CF31",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sub_prefecture": 4,
+    "commune": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.113",
+    "lon": "16.585"
+  },
+  "metadata": {},
+  "source": {}
+}

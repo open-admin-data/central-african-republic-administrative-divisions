@@ -1,0 +1,47 @@
+{
+  "id": "CF623",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Gambo",
+    "en": "Gambo",
+    "slug": "gambo-cf623"
+  },
+  "code": {
+    "id": "CF623",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF62",
+    "level": 1,
+    "name": {
+      "local": "Mbomou",
+      "en": "Mbomou",
+      "slug": "mbomou-cf62"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF62",
+      "level": 1,
+      "name": {
+        "local": "Mbomou",
+        "en": "Mbomou",
+        "slug": "mbomou-cf62"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.694",
+    "lon": "22.195"
+  },
+  "metadata": {},
+  "source": {}
+}

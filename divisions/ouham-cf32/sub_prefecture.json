@@ -1,0 +1,190 @@
+[
+  {
+    "id": "CF321",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bossangoa",
+      "en": "Bossangoa",
+      "slug": "bossangoa-cf321"
+    },
+    "code": {
+      "id": "CF321",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF32",
+      "level": 1,
+      "name": {
+        "local": "Ouham",
+        "en": "Ouham",
+        "slug": "ouham-cf32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF32",
+        "level": 1,
+        "name": {
+          "local": "Ouham",
+          "en": "Ouham",
+          "slug": "ouham-cf32"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.33",
+      "lon": "17.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF323",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Markounda",
+      "en": "Markounda",
+      "slug": "markounda-cf323"
+    },
+    "code": {
+      "id": "CF323",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF32",
+      "level": 1,
+      "name": {
+        "local": "Ouham",
+        "en": "Ouham",
+        "slug": "ouham-cf32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF32",
+        "level": 1,
+        "name": {
+          "local": "Ouham",
+          "en": "Ouham",
+          "slug": "ouham-cf32"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.489",
+      "lon": "17.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF322",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nana-Bakassa",
+      "en": "Nana-Bakassa",
+      "slug": "nana-bakassa-cf322"
+    },
+    "code": {
+      "id": "CF322",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF32",
+      "level": 1,
+      "name": {
+        "local": "Ouham",
+        "en": "Ouham",
+        "slug": "ouham-cf32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF32",
+        "level": 1,
+        "name": {
+          "local": "Ouham",
+          "en": "Ouham",
+          "slug": "ouham-cf32"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.972",
+      "lon": "17.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF324",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nanga-Boguila",
+      "en": "Nanga-Boguila",
+      "slug": "nanga-boguila-cf324"
+    },
+    "code": {
+      "id": "CF324",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF32",
+      "level": 1,
+      "name": {
+        "local": "Ouham",
+        "en": "Ouham",
+        "slug": "ouham-cf32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF32",
+        "level": 1,
+        "name": {
+          "local": "Ouham",
+          "en": "Ouham",
+          "slug": "ouham-cf32"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.064",
+      "lon": "16.92"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

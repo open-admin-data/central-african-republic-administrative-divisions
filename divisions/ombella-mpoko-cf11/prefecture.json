@@ -1,0 +1,30 @@
+{
+  "id": "CF11",
+  "level": 1,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Ombella M'Poko",
+    "en": "Ombella M'Poko",
+    "slug": "ombella-mpoko-cf11"
+  },
+  "code": {
+    "id": "CF11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sub_prefecture": 5,
+    "commune": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.203",
+    "lon": "17.943"
+  },
+  "metadata": {},
+  "source": {}
+}

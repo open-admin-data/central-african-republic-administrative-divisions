@@ -1,0 +1,47 @@
+{
+  "id": "CF313",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Koui",
+    "en": "Koui",
+    "slug": "koui-cf313"
+  },
+  "code": {
+    "id": "CF313",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF31",
+    "level": 1,
+    "name": {
+      "local": "Ouham Pendé",
+      "en": "Ouham Pendé",
+      "slug": "ouham-pend-cf31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF31",
+      "level": 1,
+      "name": {
+        "local": "Ouham Pendé",
+        "en": "Ouham Pendé",
+        "slug": "ouham-pend-cf31"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.807",
+    "lon": "15.338"
+  },
+  "metadata": {},
+  "source": {}
+}

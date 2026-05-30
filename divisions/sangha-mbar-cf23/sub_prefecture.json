@@ -1,0 +1,143 @@
+[
+  {
+    "id": "CF232",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bambio",
+      "en": "Bambio",
+      "slug": "bambio-cf232"
+    },
+    "code": {
+      "id": "CF232",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF23",
+      "level": 1,
+      "name": {
+        "local": "Sangha-Mbaéré",
+        "en": "Sangha-Mbaéré",
+        "slug": "sangha-mbar-cf23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF23",
+        "level": 1,
+        "name": {
+          "local": "Sangha-Mbaéré",
+          "en": "Sangha-Mbaéré",
+          "slug": "sangha-mbar-cf23"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.806",
+      "lon": "16.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF233",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bayanga",
+      "en": "Bayanga",
+      "slug": "bayanga-cf233"
+    },
+    "code": {
+      "id": "CF233",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF23",
+      "level": 1,
+      "name": {
+        "local": "Sangha-Mbaéré",
+        "en": "Sangha-Mbaéré",
+        "slug": "sangha-mbar-cf23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF23",
+        "level": 1,
+        "name": {
+          "local": "Sangha-Mbaéré",
+          "en": "Sangha-Mbaéré",
+          "slug": "sangha-mbar-cf23"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.93",
+      "lon": "16.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF231",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nola",
+      "en": "Nola",
+      "slug": "nola-cf231"
+    },
+    "code": {
+      "id": "CF231",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF23",
+      "level": 1,
+      "name": {
+        "local": "Sangha-Mbaéré",
+        "en": "Sangha-Mbaéré",
+        "slug": "sangha-mbar-cf23"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF23",
+        "level": 1,
+        "name": {
+          "local": "Sangha-Mbaéré",
+          "en": "Sangha-Mbaéré",
+          "slug": "sangha-mbar-cf23"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.502",
+      "lon": "15.965"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

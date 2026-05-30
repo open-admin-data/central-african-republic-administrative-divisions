@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CF621_bakouma",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bakouma",
+      "en": "Bakouma",
+      "slug": "bakouma"
+    },
+    "code": {
+      "id": "CF621_bakouma",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF621",
+      "level": 2,
+      "name": {
+        "local": "Bangassou",
+        "en": "Bangassou",
+        "slug": "bangassou-cf621"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF62",
+        "level": 1,
+        "name": {
+          "local": "Mbomou",
+          "en": "Mbomou",
+          "slug": "mbomou-cf62"
+        }
+      },
+      {
+        "id": "CF621",
+        "level": 2,
+        "name": {
+          "local": "Bangassou",
+          "en": "Bangassou",
+          "slug": "bangassou-cf621"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.559",
+      "lon": "22.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF621_bangassou",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bangassou",
+      "en": "Bangassou",
+      "slug": "bangassou"
+    },
+    "code": {
+      "id": "CF621_bangassou",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF621",
+      "level": 2,
+      "name": {
+        "local": "Bangassou",
+        "en": "Bangassou",
+        "slug": "bangassou-cf621"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF62",
+        "level": 1,
+        "name": {
+          "local": "Mbomou",
+          "en": "Mbomou",
+          "slug": "mbomou-cf62"
+        }
+      },
+      {
+        "id": "CF621",
+        "level": 2,
+        "name": {
+          "local": "Bangassou",
+          "en": "Bangassou",
+          "slug": "bangassou-cf621"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.738",
+      "lon": "22.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF621_sayo-niakari",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Sayo Niakari",
+      "en": "Sayo Niakari",
+      "slug": "sayo-niakari"
+    },
+    "code": {
+      "id": "CF621_sayo-niakari",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF621",
+      "level": 2,
+      "name": {
+        "local": "Bangassou",
+        "en": "Bangassou",
+        "slug": "bangassou-cf621"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF62",
+        "level": 1,
+        "name": {
+          "local": "Mbomou",
+          "en": "Mbomou",
+          "slug": "mbomou-cf62"
+        }
+      },
+      {
+        "id": "CF621",
+        "level": 2,
+        "name": {
+          "local": "Bangassou",
+          "en": "Bangassou",
+          "slug": "bangassou-cf621"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.77",
+      "lon": "22.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF621_zangandou",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zangandou",
+      "en": "Zangandou",
+      "slug": "zangandou"
+    },
+    "code": {
+      "id": "CF621_zangandou",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF621",
+      "level": 2,
+      "name": {
+        "local": "Bangassou",
+        "en": "Bangassou",
+        "slug": "bangassou-cf621"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF62",
+        "level": 1,
+        "name": {
+          "local": "Mbomou",
+          "en": "Mbomou",
+          "slug": "mbomou-cf62"
+        }
+      },
+      {
+        "id": "CF621",
+        "level": 2,
+        "name": {
+          "local": "Bangassou",
+          "en": "Bangassou",
+          "slug": "bangassou-cf621"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.849",
+      "lon": "23.262"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CF231_basse-kadei",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Basse-Kadei",
+      "en": "Basse-Kadei",
+      "slug": "basse-kadei"
+    },
+    "code": {
+      "id": "CF231_basse-kadei",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF231",
+      "level": 2,
+      "name": {
+        "local": "Nola",
+        "en": "Nola",
+        "slug": "nola-cf231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF23",
+        "level": 1,
+        "name": {
+          "local": "Sangha-Mbaéré",
+          "en": "Sangha-Mbaéré",
+          "slug": "sangha-mbar-cf23"
+        }
+      },
+      {
+        "id": "CF231",
+        "level": 2,
+        "name": {
+          "local": "Nola",
+          "en": "Nola",
+          "slug": "nola-cf231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.909",
+      "lon": "15.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF231_bilolo",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bilolo",
+      "en": "Bilolo",
+      "slug": "bilolo"
+    },
+    "code": {
+      "id": "CF231_bilolo",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF231",
+      "level": 2,
+      "name": {
+        "local": "Nola",
+        "en": "Nola",
+        "slug": "nola-cf231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF23",
+        "level": 1,
+        "name": {
+          "local": "Sangha-Mbaéré",
+          "en": "Sangha-Mbaéré",
+          "slug": "sangha-mbar-cf23"
+        }
+      },
+      {
+        "id": "CF231",
+        "level": 2,
+        "name": {
+          "local": "Nola",
+          "en": "Nola",
+          "slug": "nola-cf231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.47",
+      "lon": "15.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF231_nola",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nola",
+      "en": "Nola",
+      "slug": "nola"
+    },
+    "code": {
+      "id": "CF231_nola",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF231",
+      "level": 2,
+      "name": {
+        "local": "Nola",
+        "en": "Nola",
+        "slug": "nola-cf231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF23",
+        "level": 1,
+        "name": {
+          "local": "Sangha-Mbaéré",
+          "en": "Sangha-Mbaéré",
+          "slug": "sangha-mbar-cf23"
+        }
+      },
+      {
+        "id": "CF231",
+        "level": 2,
+        "name": {
+          "local": "Nola",
+          "en": "Nola",
+          "slug": "nola-cf231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.657",
+      "lon": "16.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF231_salo",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Salo",
+      "en": "Salo",
+      "slug": "salo"
+    },
+    "code": {
+      "id": "CF231_salo",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF231",
+      "level": 2,
+      "name": {
+        "local": "Nola",
+        "en": "Nola",
+        "slug": "nola-cf231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF23",
+        "level": 1,
+        "name": {
+          "local": "Sangha-Mbaéré",
+          "en": "Sangha-Mbaéré",
+          "slug": "sangha-mbar-cf23"
+        }
+      },
+      {
+        "id": "CF231",
+        "level": 2,
+        "name": {
+          "local": "Nola",
+          "en": "Nola",
+          "slug": "nola-cf231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.095",
+      "lon": "16.021"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

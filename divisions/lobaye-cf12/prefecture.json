@@ -1,0 +1,30 @@
+{
+  "id": "CF12",
+  "level": 1,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Lobaye",
+    "en": "Lobaye",
+    "slug": "lobaye-cf12"
+  },
+  "code": {
+    "id": "CF12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sub_prefecture": 6,
+    "commune": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.084",
+    "lon": "17.685"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CF216_haute-kade",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Haute-Kade",
+      "en": "Haute-Kade",
+      "slug": "haute-kade"
+    },
+    "code": {
+      "id": "CF216_haute-kade",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF216",
+      "level": 2,
+      "name": {
+        "local": "Dédé-Mokouba",
+        "en": "Dédé-Mokouba",
+        "slug": "dd-mokouba-cf216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF21",
+        "level": 1,
+        "name": {
+          "local": "Mambéré-Kadéï",
+          "en": "Mambéré-Kadéï",
+          "slug": "mambr-kad-cf21"
+        }
+      },
+      {
+        "id": "CF216",
+        "level": 2,
+        "name": {
+          "local": "Dédé-Mokouba",
+          "en": "Dédé-Mokouba",
+          "slug": "dd-mokouba-cf216"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.866",
+      "lon": "15.267"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

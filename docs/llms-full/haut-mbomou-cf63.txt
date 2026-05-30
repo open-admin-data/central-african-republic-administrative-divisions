@@ -1,0 +1,54 @@
+# Haut-Mbomou — Central African Republic Administrative Divisions
+
+> 5 sub-prefectures, 5 communes
+> Code: CF63
+> Coordinates: 6.308, 25.588
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Sub-prefectures
+
+### Bambouti
+
+Code: CF632, Coordinates: 5.46, 26.973
+Communes: 1
+
+#### Lili
+
+Code: CF632_lili, Coordinates: 5.502, 27.06
+
+### Djémah
+
+Code: CF634, Coordinates: 6.783, 25.336
+Communes: 1
+
+#### Djema
+
+Code: CF634_djema, Coordinates: 6.951, 25.413
+
+### Mboki
+
+Code: CF635, Coordinates: 5.4, 25.986
+Communes: 0
+
+### Obo
+
+Code: CF631, Coordinates: 5.533, 26.48
+Communes: 2
+
+#### Mboki
+
+Code: CF631_mboki, Coordinates: 5.416, 25.943
+
+#### Obo
+
+Code: CF631_obo, Coordinates: 5.539, 26.47
+
+### Zémio
+
+Code: CF633, Coordinates: 5.404, 25.24
+Communes: 1
+
+#### Zemio
+
+Code: CF633_zemio, Coordinates: 5.395, 25.23
+

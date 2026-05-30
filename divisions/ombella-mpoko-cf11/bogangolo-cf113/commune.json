@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CF113_bogangolo",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bogangolo",
+      "en": "Bogangolo",
+      "slug": "bogangolo"
+    },
+    "code": {
+      "id": "CF113_bogangolo",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF113",
+      "level": 2,
+      "name": {
+        "local": "Bogangolo",
+        "en": "Bogangolo",
+        "slug": "bogangolo-cf113"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF11",
+        "level": 1,
+        "name": {
+          "local": "Ombella M'Poko",
+          "en": "Ombella M'Poko",
+          "slug": "ombella-mpoko-cf11"
+        }
+      },
+      {
+        "id": "CF113",
+        "level": 2,
+        "name": {
+          "local": "Bogangolo",
+          "en": "Bogangolo",
+          "slug": "bogangolo-cf113"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.479",
+      "lon": "18.239"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,95 @@
+# Lobaye — Central African Republic Administrative Divisions
+
+> 6 sub-prefectures, 14 communes
+> Code: CF12
+> Coordinates: 4.084, 17.685
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Sub-prefectures
+
+### Boda
+
+Code: CF123, Coordinates: 4.073, 17.317
+Communes: 2
+
+#### Boganda
+
+Code: CF123_boganda, Coordinates: 4.319, 17.162
+
+#### Lobaye
+
+Code: CF123_lobaye, Coordinates: 4.061, 17.299
+
+### Boganangone
+
+Code: CF124, Coordinates: 4.736, 17.14
+Communes: 2
+
+#### Boganangone
+
+Code: CF124_boganangone, Coordinates: 4.694, 17.189
+
+#### La Mbi
+
+Code: CF124_la-mbi, Coordinates: 4.857, 17.556
+
+### Boganda
+
+Code: CF125, Coordinates: 4.366, 17.159
+Communes: 0
+
+### Mbaïki
+
+Code: CF121, Coordinates: 4.143, 17.986
+Communes: 9
+
+#### Bale-Loko
+
+Code: CF121_bale-loko, Coordinates: 3.652, 18.062
+
+#### Bimbo
+
+Code: CF121_bimbo, Coordinates: 4.271, 18.476
+
+#### Bogongo Gaza
+
+Code: CF121_bogongo-gaza, Coordinates: 3.95, 17.641
+
+#### Lesse
+
+Code: CF121_lesse, Coordinates: 4.282, 17.889
+
+#### Mbaiki
+
+Code: CF121_mbaiki, Coordinates: 3.872, 17.99
+
+#### Mbata
+
+Code: CF121_mbata, Coordinates: 3.765, 18.26
+
+#### Moboma
+
+Code: CF121_moboma, Coordinates: 3.714, 17.642
+
+#### Nola
+
+Code: CF121_nola, Coordinates: 4.015, 17.821
+
+#### Pissa
+
+Code: CF121_pissa, Coordinates: 4.12, 18.181
+
+### Moboma
+
+Code: CF126, Coordinates: 3.689, 17.857
+Communes: 0
+
+### Mongoumba
+
+Code: CF122, Coordinates: 3.758, 18.475
+Communes: 1
+
+#### Mongoumba
+
+Code: CF122_mongoumba, Coordinates: 3.712, 18.448
+

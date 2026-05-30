@@ -1,0 +1,30 @@
+{
+  "id": "CF42",
+  "level": 1,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Nana-Gribizi",
+    "en": "Nana-Gribizi",
+    "slug": "nana-gribizi-cf42"
+  },
+  "code": {
+    "id": "CF42",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sub_prefecture": 3,
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.19",
+    "lon": "19.331"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,30 @@
+{
+  "id": "CF32",
+  "level": 1,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Ouham",
+    "en": "Ouham",
+    "slug": "ouham-cf32"
+  },
+  "code": {
+    "id": "CF32",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sub_prefecture": 4,
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.731",
+    "lon": "17.281"
+  },
+  "metadata": {},
+  "source": {}
+}

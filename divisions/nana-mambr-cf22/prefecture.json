@@ -1,0 +1,30 @@
+{
+  "id": "CF22",
+  "level": 1,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Nana-Mambéré",
+    "en": "Nana-Mambéré",
+    "slug": "nana-mambr-cf22"
+  },
+  "code": {
+    "id": "CF22",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sub_prefecture": 4,
+    "commune": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.699",
+    "lon": "15.379"
+  },
+  "metadata": {},
+  "source": {}
+}

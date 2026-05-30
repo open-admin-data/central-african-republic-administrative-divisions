@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CF622_ngbandinga",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ngbandinga",
+      "en": "Ngbandinga",
+      "slug": "ngbandinga"
+    },
+    "code": {
+      "id": "CF622_ngbandinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF622",
+      "level": 2,
+      "name": {
+        "local": "Ouango",
+        "en": "Ouango",
+        "slug": "ouango-cf622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF62",
+        "level": 1,
+        "name": {
+          "local": "Mbomou",
+          "en": "Mbomou",
+          "slug": "mbomou-cf62"
+        }
+      },
+      {
+        "id": "CF622",
+        "level": 2,
+        "name": {
+          "local": "Ouango",
+          "en": "Ouango",
+          "slug": "ouango-cf622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.209",
+      "lon": "22.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF622_ouango",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouango",
+      "en": "Ouango",
+      "slug": "ouango"
+    },
+    "code": {
+      "id": "CF622_ouango",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF622",
+      "level": 2,
+      "name": {
+        "local": "Ouango",
+        "en": "Ouango",
+        "slug": "ouango-cf622"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF62",
+        "level": 1,
+        "name": {
+          "local": "Mbomou",
+          "en": "Mbomou",
+          "slug": "mbomou-cf62"
+        }
+      },
+      {
+        "id": "CF622",
+        "level": 2,
+        "name": {
+          "local": "Ouango",
+          "en": "Ouango",
+          "slug": "ouango-cf622"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.497",
+      "lon": "22.567"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

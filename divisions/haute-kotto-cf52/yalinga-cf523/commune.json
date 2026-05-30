@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CF523_ouandja-kotto",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouandja Kotto",
+      "en": "Ouandja Kotto",
+      "slug": "ouandja-kotto"
+    },
+    "code": {
+      "id": "CF523_ouandja-kotto",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF523",
+      "level": 2,
+      "name": {
+        "local": "Yalinga",
+        "en": "Yalinga",
+        "slug": "yalinga-cf523"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF52",
+        "level": 1,
+        "name": {
+          "local": "Haute-Kotto",
+          "en": "Haute-Kotto",
+          "slug": "haute-kotto-cf52"
+        }
+      },
+      {
+        "id": "CF523",
+        "level": 2,
+        "name": {
+          "local": "Yalinga",
+          "en": "Yalinga",
+          "slug": "yalinga-cf523"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.474",
+      "lon": "23.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF523_vokouma",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Vokouma",
+      "en": "Vokouma",
+      "slug": "vokouma"
+    },
+    "code": {
+      "id": "CF523_vokouma",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF523",
+      "level": 2,
+      "name": {
+        "local": "Yalinga",
+        "en": "Yalinga",
+        "slug": "yalinga-cf523"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF52",
+        "level": 1,
+        "name": {
+          "local": "Haute-Kotto",
+          "en": "Haute-Kotto",
+          "slug": "haute-kotto-cf52"
+        }
+      },
+      {
+        "id": "CF523",
+        "level": 2,
+        "name": {
+          "local": "Yalinga",
+          "en": "Yalinga",
+          "slug": "yalinga-cf523"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.07",
+      "lon": "22.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF523_yalinga",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yalinga",
+      "en": "Yalinga",
+      "slug": "yalinga"
+    },
+    "code": {
+      "id": "CF523_yalinga",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF523",
+      "level": 2,
+      "name": {
+        "local": "Yalinga",
+        "en": "Yalinga",
+        "slug": "yalinga-cf523"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF52",
+        "level": 1,
+        "name": {
+          "local": "Haute-Kotto",
+          "en": "Haute-Kotto",
+          "slug": "haute-kotto-cf52"
+        }
+      },
+      {
+        "id": "CF523",
+        "level": 2,
+        "name": {
+          "local": "Yalinga",
+          "en": "Yalinga",
+          "slug": "yalinga-cf523"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.662",
+      "lon": "23.427"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

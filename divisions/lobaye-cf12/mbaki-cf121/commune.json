@@ -1,0 +1,488 @@
+[
+  {
+    "id": "CF121_bale-loko",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bale-Loko",
+      "en": "Bale-Loko",
+      "slug": "bale-loko"
+    },
+    "code": {
+      "id": "CF121_bale-loko",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF121",
+      "level": 2,
+      "name": {
+        "local": "Mbaïki",
+        "en": "Mbaïki",
+        "slug": "mbaki-cf121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      },
+      {
+        "id": "CF121",
+        "level": 2,
+        "name": {
+          "local": "Mbaïki",
+          "en": "Mbaïki",
+          "slug": "mbaki-cf121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.652",
+      "lon": "18.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF121_bimbo",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bimbo",
+      "en": "Bimbo",
+      "slug": "bimbo"
+    },
+    "code": {
+      "id": "CF121_bimbo",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF121",
+      "level": 2,
+      "name": {
+        "local": "Mbaïki",
+        "en": "Mbaïki",
+        "slug": "mbaki-cf121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      },
+      {
+        "id": "CF121",
+        "level": 2,
+        "name": {
+          "local": "Mbaïki",
+          "en": "Mbaïki",
+          "slug": "mbaki-cf121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.271",
+      "lon": "18.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF121_bogongo-gaza",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bogongo Gaza",
+      "en": "Bogongo Gaza",
+      "slug": "bogongo-gaza"
+    },
+    "code": {
+      "id": "CF121_bogongo-gaza",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF121",
+      "level": 2,
+      "name": {
+        "local": "Mbaïki",
+        "en": "Mbaïki",
+        "slug": "mbaki-cf121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      },
+      {
+        "id": "CF121",
+        "level": 2,
+        "name": {
+          "local": "Mbaïki",
+          "en": "Mbaïki",
+          "slug": "mbaki-cf121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.95",
+      "lon": "17.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF121_lesse",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lesse",
+      "en": "Lesse",
+      "slug": "lesse"
+    },
+    "code": {
+      "id": "CF121_lesse",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF121",
+      "level": 2,
+      "name": {
+        "local": "Mbaïki",
+        "en": "Mbaïki",
+        "slug": "mbaki-cf121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      },
+      {
+        "id": "CF121",
+        "level": 2,
+        "name": {
+          "local": "Mbaïki",
+          "en": "Mbaïki",
+          "slug": "mbaki-cf121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.282",
+      "lon": "17.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF121_mbaiki",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mbaiki",
+      "en": "Mbaiki",
+      "slug": "mbaiki"
+    },
+    "code": {
+      "id": "CF121_mbaiki",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF121",
+      "level": 2,
+      "name": {
+        "local": "Mbaïki",
+        "en": "Mbaïki",
+        "slug": "mbaki-cf121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      },
+      {
+        "id": "CF121",
+        "level": 2,
+        "name": {
+          "local": "Mbaïki",
+          "en": "Mbaïki",
+          "slug": "mbaki-cf121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.872",
+      "lon": "17.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF121_mbata",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mbata",
+      "en": "Mbata",
+      "slug": "mbata"
+    },
+    "code": {
+      "id": "CF121_mbata",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF121",
+      "level": 2,
+      "name": {
+        "local": "Mbaïki",
+        "en": "Mbaïki",
+        "slug": "mbaki-cf121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      },
+      {
+        "id": "CF121",
+        "level": 2,
+        "name": {
+          "local": "Mbaïki",
+          "en": "Mbaïki",
+          "slug": "mbaki-cf121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.765",
+      "lon": "18.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF121_moboma",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Moboma",
+      "en": "Moboma",
+      "slug": "moboma"
+    },
+    "code": {
+      "id": "CF121_moboma",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF121",
+      "level": 2,
+      "name": {
+        "local": "Mbaïki",
+        "en": "Mbaïki",
+        "slug": "mbaki-cf121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      },
+      {
+        "id": "CF121",
+        "level": 2,
+        "name": {
+          "local": "Mbaïki",
+          "en": "Mbaïki",
+          "slug": "mbaki-cf121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.714",
+      "lon": "17.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF121_nola",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nola",
+      "en": "Nola",
+      "slug": "nola"
+    },
+    "code": {
+      "id": "CF121_nola",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF121",
+      "level": 2,
+      "name": {
+        "local": "Mbaïki",
+        "en": "Mbaïki",
+        "slug": "mbaki-cf121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      },
+      {
+        "id": "CF121",
+        "level": 2,
+        "name": {
+          "local": "Mbaïki",
+          "en": "Mbaïki",
+          "slug": "mbaki-cf121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.015",
+      "lon": "17.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF121_pissa",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Pissa",
+      "en": "Pissa",
+      "slug": "pissa"
+    },
+    "code": {
+      "id": "CF121_pissa",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF121",
+      "level": 2,
+      "name": {
+        "local": "Mbaïki",
+        "en": "Mbaïki",
+        "slug": "mbaki-cf121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      },
+      {
+        "id": "CF121",
+        "level": 2,
+        "name": {
+          "local": "Mbaïki",
+          "en": "Mbaïki",
+          "slug": "mbaki-cf121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.12",
+      "lon": "18.181"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

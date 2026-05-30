@@ -1,0 +1,47 @@
+{
+  "id": "CF241",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Carnot",
+    "en": "Carnot",
+    "slug": "carnot-cf241"
+  },
+  "code": {
+    "id": "CF241",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF24",
+    "level": 1,
+    "name": {
+      "local": "Mambéré",
+      "en": "Mambéré",
+      "slug": "mambr-cf24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF24",
+      "level": 1,
+      "name": {
+        "local": "Mambéré",
+        "en": "Mambéré",
+        "slug": "mambr-cf24"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.871",
+    "lon": "15.857"
+  },
+  "metadata": {},
+  "source": {}
+}

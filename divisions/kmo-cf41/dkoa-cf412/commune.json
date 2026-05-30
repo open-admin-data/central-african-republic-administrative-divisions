@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CF412_dekoa",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dekoa",
+      "en": "Dekoa",
+      "slug": "dekoa"
+    },
+    "code": {
+      "id": "CF412_dekoa",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF412",
+      "level": 2,
+      "name": {
+        "local": "Dékoa",
+        "en": "Dékoa",
+        "slug": "dkoa-cf412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF41",
+        "level": 1,
+        "name": {
+          "local": "Kémo",
+          "en": "Kémo",
+          "slug": "kmo-cf41"
+        }
+      },
+      {
+        "id": "CF412",
+        "level": 2,
+        "name": {
+          "local": "Dékoa",
+          "en": "Dékoa",
+          "slug": "dkoa-cf412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.419",
+      "lon": "18.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF412_guiffa",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guiffa",
+      "en": "Guiffa",
+      "slug": "guiffa"
+    },
+    "code": {
+      "id": "CF412_guiffa",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF412",
+      "level": 2,
+      "name": {
+        "local": "Dékoa",
+        "en": "Dékoa",
+        "slug": "dkoa-cf412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF41",
+        "level": 1,
+        "name": {
+          "local": "Kémo",
+          "en": "Kémo",
+          "slug": "kmo-cf41"
+        }
+      },
+      {
+        "id": "CF412",
+        "level": 2,
+        "name": {
+          "local": "Dékoa",
+          "en": "Dékoa",
+          "slug": "dkoa-cf412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.17",
+      "lon": "19.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF412_tilo",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Tilo",
+      "en": "Tilo",
+      "slug": "tilo"
+    },
+    "code": {
+      "id": "CF412_tilo",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF412",
+      "level": 2,
+      "name": {
+        "local": "Dékoa",
+        "en": "Dékoa",
+        "slug": "dkoa-cf412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF41",
+        "level": 1,
+        "name": {
+          "local": "Kémo",
+          "en": "Kémo",
+          "slug": "kmo-cf41"
+        }
+      },
+      {
+        "id": "CF412",
+        "level": 2,
+        "name": {
+          "local": "Dékoa",
+          "en": "Dékoa",
+          "slug": "dkoa-cf412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.321",
+      "lon": "19.292"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

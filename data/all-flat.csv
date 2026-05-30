@@ -1,0 +1,106 @@
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.prefecture,children_count.sub_prefecture,children_count.commune,zip_codes,geo.lat,geo.lon
+CF11,1,Préfecture,Prefecture,Ombella M'Poko,Ombella M'Poko,ombella-mpoko-cf11,CF11,,,,,,5,5,,5.203,17.943
+CF112,2,Sous-préfecture,Sub-prefecture,Damara,Damara,damara-cf112,CF112,,CF11,Ombella M'Poko,Ombella M'Poko,,,1,,5.05,18.721
+CF113,2,Sous-préfecture,Sub-prefecture,Bogangolo,Bogangolo,bogangolo-cf113,CF113,,CF11,Ombella M'Poko,Ombella M'Poko,,,1,,5.514,18.21
+CF114,2,Sous-préfecture,Sub-prefecture,Boali,Boali,boali-cf114,CF114,,CF11,Ombella M'Poko,Ombella M'Poko,,,1,,4.781,18.034
+CF115,2,Sous-préfecture,Sub-prefecture,Bossembélé,Bossembélé,bossembl-cf115,CF115,,CF11,Ombella M'Poko,Ombella M'Poko,,,2,,5.263,17.616
+CF116,2,Sous-préfecture,Sub-prefecture,Yaloké,Yaloké,yalok-cf116,CF116,,CF11,Ombella M'Poko,Ombella M'Poko,,,0,,5.598,16.949
+CF12,1,Préfecture,Prefecture,Lobaye,Lobaye,lobaye-cf12,CF12,,,,,,6,14,,4.084,17.685
+CF121,2,Sous-préfecture,Sub-prefecture,Mbaïki,Mbaïki,mbaki-cf121,CF121,,CF12,Lobaye,Lobaye,,,9,,4.143,17.986
+CF122,2,Sous-préfecture,Sub-prefecture,Mongoumba,Mongoumba,mongoumba-cf122,CF122,,CF12,Lobaye,Lobaye,,,1,,3.758,18.475
+CF123,2,Sous-préfecture,Sub-prefecture,Boda,Boda,boda-cf123,CF123,,CF12,Lobaye,Lobaye,,,2,,4.073,17.317
+CF124,2,Sous-préfecture,Sub-prefecture,Boganangone,Boganangone,boganangone-cf124,CF124,,CF12,Lobaye,Lobaye,,,2,,4.736,17.14
+CF125,2,Sous-préfecture,Sub-prefecture,Boganda,Boganda,boganda-cf125,CF125,,CF12,Lobaye,Lobaye,,,0,,4.366,17.159
+CF126,2,Sous-préfecture,Sub-prefecture,Moboma,Moboma,moboma-cf126,CF126,,CF12,Lobaye,Lobaye,,,0,,3.689,17.857
+CF21,1,Préfecture,Prefecture,Mambéré-Kadéï,Mambéré-Kadéï,mambr-kad-cf21,CF21,,,,,,4,6,,4.256,15.673
+CF211,2,Sous-préfecture,Sub-prefecture,Berbérati,Berbérati,berbrati-cf211,CF211,,CF21,Mambéré-Kadéï,Mambéré-Kadéï,,,4,,4.291,15.896
+CF212,2,Sous-préfecture,Sub-prefecture,Gamboula,Gamboula,gamboula-cf212,CF212,,CF21,Mambéré-Kadéï,Mambéré-Kadéï,,,1,,4.395,15.128
+CF215,2,Sous-préfecture,Sub-prefecture,Sosso-Nakombo,Sosso-Nakombo,sosso-nakombo-cf215,CF215,,CF21,Mambéré-Kadéï,Mambéré-Kadéï,,,0,,3.897,15.498
+CF216,2,Sous-préfecture,Sub-prefecture,Dédé-Mokouba,Dédé-Mokouba,dd-mokouba-cf216,CF216,,CF21,Mambéré-Kadéï,Mambéré-Kadéï,,,1,,3.883,15.287
+CF22,1,Préfecture,Prefecture,Nana-Mambéré,Nana-Mambéré,nana-mambr-cf22,CF22,,,,,,4,17,,5.699,15.379
+CF221,2,Sous-préfecture,Sub-prefecture,Bouar,Bouar,bouar-cf221,CF221,,CF22,Nana-Mambéré,Nana-Mambéré,,,5,,5.957,15.478
+CF222,2,Sous-préfecture,Sub-prefecture,Baoro,Baoro,baoro-cf222,CF222,,CF22,Nana-Mambéré,Nana-Mambéré,,,2,,5.461,16.141
+CF223,2,Sous-préfecture,Sub-prefecture,Baboua,Baboua,baboua-cf223,CF223,,CF22,Nana-Mambéré,Nana-Mambéré,,,10,,5.786,14.898
+CF224,2,Sous-préfecture,Sub-prefecture,Abba,Abba,abba-cf224,CF224,,CF22,Nana-Mambéré,Nana-Mambéré,,,0,,5.225,15.218
+CF23,1,Préfecture,Prefecture,Sangha-Mbaéré,Sangha-Mbaéré,sangha-mbar-cf23,CF23,,,,,,3,7,,3.461,16.292
+CF231,2,Sous-préfecture,Sub-prefecture,Nola,Nola,nola-cf231,CF231,,CF23,Sangha-Mbaéré,Sangha-Mbaéré,,,4,,3.502,15.965
+CF232,2,Sous-préfecture,Sub-prefecture,Bambio,Bambio,bambio-cf232,CF232,,CF23,Sangha-Mbaéré,Sangha-Mbaéré,,,2,,3.806,16.787
+CF233,2,Sous-préfecture,Sub-prefecture,Bayanga,Bayanga,bayanga-cf233,CF233,,CF23,Sangha-Mbaéré,Sangha-Mbaéré,,,1,,2.93,16.332
+CF24,1,Préfecture,Prefecture,Mambéré,Mambéré,mambr-cf24,CF24,,,,,,4,4,,4.783,16.511
+CF241,2,Sous-préfecture,Sub-prefecture,Carnot,Carnot,carnot-cf241,CF241,,CF24,Mambéré,Mambéré,,,3,,4.871,15.857
+CF242,2,Sous-préfecture,Sub-prefecture,Amada-Gaza,Amada-Gaza,amada-gaza-cf242,CF242,,CF24,Mambéré,Mambéré,,,1,,4.822,15.104
+CF243,2,Sous-préfecture,Sub-prefecture,Gadzi,Gadzi,gadzi-cf243,CF243,,CF24,Mambéré,Mambéré,,,0,,4.966,16.645
+CF244,2,Sous-préfecture,Sub-prefecture,Semkpa-Mbaéré,Semkpa-Mbaéré,semkpa-mbar-cf244,CF244,,CF24,Mambéré,Mambéré,,,0,,4.494,16.484
+CF31,1,Préfecture,Prefecture,Ouham Pendé,Ouham Pendé,ouham-pend-cf31,CF31,,,,,,4,9,,6.113,16.585
+CF311,2,Sous-préfecture,Sub-prefecture,Bozoum,Bozoum,bozoum-cf311,CF311,,CF31,Ouham Pendé,Ouham Pendé,,,6,,6.446,16.417
+CF312,2,Sous-préfecture,Sub-prefecture,Bocaranga,Bocaranga,bocaranga-cf312,CF312,,CF31,Ouham Pendé,Ouham Pendé,,,2,,6.765,15.779
+CF313,2,Sous-préfecture,Sub-prefecture,Koui,Koui,koui-cf313,CF313,,CF31,Ouham Pendé,Ouham Pendé,,,0,,6.807,15.338
+CF316,2,Sous-préfecture,Sub-prefecture,Bossemptélé,Bossemptélé,bossemptl-cf316,CF316,,CF31,Ouham Pendé,Ouham Pendé,,,1,,5.867,16.582
+CF32,1,Préfecture,Prefecture,Ouham,Ouham,ouham-cf32,CF32,,,,,,4,6,,6.731,17.281
+CF321,2,Sous-préfecture,Sub-prefecture,Bossangoa,Bossangoa,bossangoa-cf321,CF321,,CF32,Ouham,Ouham,,,4,,6.33,17.339
+CF322,2,Sous-préfecture,Sub-prefecture,Nana-Bakassa,Nana-Bakassa,nana-bakassa-cf322,CF322,,CF32,Ouham,Ouham,,,1,,6.972,17.379
+CF323,2,Sous-préfecture,Sub-prefecture,Markounda,Markounda,markounda-cf323,CF323,,CF32,Ouham,Ouham,,,1,,7.489,17.271
+CF324,2,Sous-préfecture,Sub-prefecture,Nanga-Boguila,Nanga-Boguila,nanga-boguila-cf324,CF324,,CF32,Ouham,Ouham,,,0,,7.064,16.92
+CF33,1,Préfecture,Prefecture,Ouham-Fafa,Ouham-Fafa,ouham-fafa-cf33,CF33,,,,,,4,12,,7.028,18.271
+CF331,2,Sous-préfecture,Sub-prefecture,Batangafo,Batangafo,batangafo-cf331,CF331,,CF33,Ouham-Fafa,Ouham-Fafa,,,6,,7.346,17.961
+CF332,2,Sous-préfecture,Sub-prefecture,Kabo,Kabo,kabo-cf332,CF332,,CF33,Ouham-Fafa,Ouham-Fafa,,,1,,7.692,18.501
+CF333,2,Sous-préfecture,Sub-prefecture,Bouca,Bouca,bouca-cf333,CF333,,CF33,Ouham-Fafa,Ouham-Fafa,,,5,,6.372,18.287
+CF334,2,Sous-préfecture,Sub-prefecture,Sido,Sido,sido-cf334,CF334,,CF33,Ouham-Fafa,Ouham-Fafa,,,0,,8.181,18.896
+CF34,1,Préfecture,Prefecture,Lim-pendé,Lim-pendé,lim-pend-cf34,CF34,,,,,,5,14,,7.201,16.233
+CF341,2,Sous-préfecture,Sub-prefecture,Paoua,Paoua,paoua-cf341,CF341,,CF34,Lim-pendé,Lim-pendé,,,8,,7.35,16.44
+CF342,2,Sous-préfecture,Sub-prefecture,Ngaoundaye,Ngaoundaye,ngaoundaye-cf342,CF342,,CF34,Lim-pendé,Lim-pendé,,,6,,7.426,15.671
+CF343,2,Sous-préfecture,Sub-prefecture,Ndim,Ndim,ndim-cf343,CF343,,CF34,Lim-pendé,Lim-pendé,,,0,,7.328,15.934
+CF344,2,Sous-préfecture,Sub-prefecture,Kodi,Kodi,kodi-cf344,CF344,,CF34,Lim-pendé,Lim-pendé,,,0,,7.255,15.516
+CF345,2,Sous-préfecture,Sub-prefecture,Taley,Taley,taley-cf345,CF345,,CF34,Lim-pendé,Lim-pendé,,,0,,6.81,16.583
+CF41,1,Préfecture,Prefecture,Kémo,Kémo,kmo-cf41,CF41,,,,,,4,6,,5.798,19.298
+CF411,2,Sous-préfecture,Sub-prefecture,Sibut,Sibut,sibut-cf411,CF411,,CF41,Kémo,Kémo,,,2,,5.82,19.143
+CF412,2,Sous-préfecture,Sub-prefecture,Dékoa,Dékoa,dkoa-cf412,CF412,,CF41,Kémo,Kémo,,,3,,6.233,19.149
+CF413,2,Sous-préfecture,Sub-prefecture,Mala,Mala,mala-cf413,CF413,,CF41,Kémo,Kémo,,,1,,6.21,19.631
+CF414,2,Sous-préfecture,Sub-prefecture,Njoukou,Njoukou,njoukou-cf414,CF414,,CF41,Kémo,Kémo,,,0,,5.333,19.399
+CF42,1,Préfecture,Prefecture,Nana-Gribizi,Nana-Gribizi,nana-gribizi-cf42,CF42,,,,,,3,3,,7.19,19.331
+CF421,2,Sous-préfecture,Sub-prefecture,Kaga-Bandoro,Kaga-Bandoro,kaga-bandoro-cf421,CF421,,CF42,Nana-Gribizi,Nana-Gribizi,,,3,,6.881,19.282
+CF422,2,Sous-préfecture,Sub-prefecture,Mbrès,Mbrès,mbrs-cf422,CF422,,CF42,Nana-Gribizi,Nana-Gribizi,,,0,,6.991,20.008
+CF423,2,Sous-préfecture,Sub-prefecture,Nana-Outa,Nana-Outa,nana-outa-cf423,CF423,,CF42,Nana-Gribizi,Nana-Gribizi,,,0,,7.632,19.148
+CF43,1,Préfecture,Prefecture,Ouaka,Ouaka,ouaka-cf43,CF43,,,,,,5,13,,6.127,20.749
+CF431,2,Sous-préfecture,Sub-prefecture,Bambari,Bambari,bambari-cf431,CF431,,CF43,Ouaka,Ouaka,,,3,,5.723,20.667
+CF432,2,Sous-préfecture,Sub-prefecture,Bakala,Bakala,bakala-cf432,CF432,,CF43,Ouaka,Ouaka,,,2,,6.565,20.392
+CF433,2,Sous-préfecture,Sub-prefecture,Grimari,Grimari,grimari-cf433,CF433,,CF43,Ouaka,Ouaka,,,4,,5.773,19.957
+CF434,2,Sous-préfecture,Sub-prefecture,Kouango,Kouango,kouango-cf434,CF434,,CF43,Ouaka,Ouaka,,,1,,5.079,20.431
+CF435,2,Sous-préfecture,Sub-prefecture,Ippy,Ippy,ippy-cf435,CF435,,CF43,Ouaka,Ouaka,,,3,,6.597,21.285
+CF51,1,Préfecture,Prefecture,Bamingui-Bangoran,Bamingui-Bangoran,bamingui-bangoran-cf51,CF51,,,,,,2,4,,8.422,20.574
+CF511,2,Sous-préfecture,Sub-prefecture,Ndélé,Ndélé,ndl-cf511,CF511,,CF51,Bamingui-Bangoran,Bamingui-Bangoran,,,3,,8.743,20.891
+CF512,2,Sous-préfecture,Sub-prefecture,Bamingui,Bamingui,bamingui-cf512,CF512,,CF51,Bamingui-Bangoran,Bamingui-Bangoran,,,1,,7.889,20.049
+CF52,1,Préfecture,Prefecture,Haute-Kotto,Haute-Kotto,haute-kotto-cf52,CF52,,,,,,4,10,,7.469,22.923
+CF521,2,Sous-préfecture,Sub-prefecture,Bria,Bria,bria-cf521,CF521,,CF52,Haute-Kotto,Haute-Kotto,,,4,,6.754,22.004
+CF522,2,Sous-préfecture,Sub-prefecture,Ouadda,Ouadda,ouadda-cf522,CF522,,CF52,Haute-Kotto,Haute-Kotto,,,3,,7.911,22.295
+CF523,2,Sous-préfecture,Sub-prefecture,Yalinga,Yalinga,yalinga-cf523,CF523,,CF52,Haute-Kotto,Haute-Kotto,,,3,,7.068,23.427
+CF524,2,Sous-préfecture,Sub-prefecture,Ouandja-Kotto,Ouandja-Kotto,ouandja-kotto-cf524,CF524,,CF52,Haute-Kotto,Haute-Kotto,,,0,,8.378,23.2
+CF53,1,Préfecture,Prefecture,Vakaga,Vakaga,vakaga-cf53,CF53,,,,,,4,2,,9.824,22.514
+CF531,2,Sous-préfecture,Sub-prefecture,Birao,Birao,birao-cf531,CF531,,CF53,Vakaga,Vakaga,,,2,,10.396,22.438
+CF532,2,Sous-préfecture,Sub-prefecture,Ouada-Djallé,Ouada-Djallé,ouada-djall-cf532,CF532,,CF53,Vakaga,Vakaga,,,0,,8.975,22.435
+CF533,2,Sous-préfecture,Sub-prefecture,Ouandja,Ouandja,ouandja-cf533,CF533,,CF53,Vakaga,Vakaga,,,0,,9.673,22.402
+CF534,2,Sous-préfecture,Sub-prefecture,Am-Dafok,Am-Dafok,am-dafok-cf534,CF534,,CF53,Vakaga,Vakaga,,,0,,10.269,23.13
+CF61,1,Préfecture,Prefecture,Basse-Kotto,Basse-Kotto,basse-kotto-cf61,CF61,,,,,,6,15,,4.893,21.361
+CF611,2,Sous-préfecture,Sub-prefecture,Mobaye,Mobaye,mobaye-cf611,CF611,,CF61,Basse-Kotto,Basse-Kotto,,,2,,4.495,21.217
+CF612,2,Sous-préfecture,Sub-prefecture,Alindao,Alindao,alindao-cf612,CF612,,CF61,Basse-Kotto,Basse-Kotto,,,2,,4.955,21.224
+CF613,2,Sous-préfecture,Sub-prefecture,Kembé,Kembé,kemb-cf613,CF613,,CF61,Basse-Kotto,Basse-Kotto,,,1,,4.544,21.595
+CF614,2,Sous-préfecture,Sub-prefecture,Mingala,Mingala,mingala-cf614,CF614,,CF61,Basse-Kotto,Basse-Kotto,,,6,,5.209,21.591
+CF615,2,Sous-préfecture,Sub-prefecture,Zangba,Zangba,zangba-cf615,CF615,,CF61,Basse-Kotto,Basse-Kotto,,,3,,4.624,20.825
+CF616,2,Sous-préfecture,Sub-prefecture,Satéma,Satéma,satma-cf616,CF616,,CF61,Basse-Kotto,Basse-Kotto,,,1,,4.375,21.956
+CF62,1,Préfecture,Prefecture,Mbomou,Mbomou,mbomou-cf62,CF62,,,,,,5,10,,5.501,23.39
+CF621,2,Sous-préfecture,Sub-prefecture,Bangassou,Bangassou,bangassou-cf621,CF621,,CF62,Mbomou,Mbomou,,,4,,5.15,23.451
+CF622,2,Sous-préfecture,Sub-prefecture,Ouango,Ouango,ouango-cf622,CF622,,CF62,Mbomou,Mbomou,,,2,,4.422,22.545
+CF623,2,Sous-préfecture,Sub-prefecture,Gambo,Gambo,gambo-cf623,CF623,,CF62,Mbomou,Mbomou,,,3,,4.694,22.195
+CF624,2,Sous-préfecture,Sub-prefecture,Rafai,Rafai,rafai-cf624,CF624,,CF62,Mbomou,Mbomou,,,0,,5.809,24.203
+CF625,2,Sous-préfecture,Sub-prefecture,Bakouma,Bakouma,bakouma-cf625,CF625,,CF62,Mbomou,Mbomou,,,1,,5.575,22.646
+CF63,1,Préfecture,Prefecture,Haut-Mbomou,Haut-Mbomou,haut-mbomou-cf63,CF63,,,,,,5,5,,6.308,25.588
+CF631,2,Sous-préfecture,Sub-prefecture,Obo,Obo,obo-cf631,CF631,,CF63,Haut-Mbomou,Haut-Mbomou,,,2,,5.533,26.48
+CF632,2,Sous-préfecture,Sub-prefecture,Bambouti,Bambouti,bambouti-cf632,CF632,,CF63,Haut-Mbomou,Haut-Mbomou,,,1,,5.46,26.973
+CF633,2,Sous-préfecture,Sub-prefecture,Zémio,Zémio,zmio-cf633,CF633,,CF63,Haut-Mbomou,Haut-Mbomou,,,1,,5.404,25.24
+CF634,2,Sous-préfecture,Sub-prefecture,Djémah,Djémah,djmah-cf634,CF634,,CF63,Haut-Mbomou,Haut-Mbomou,,,1,,6.783,25.336
+CF635,2,Sous-préfecture,Sub-prefecture,Mboki,Mboki,mboki-cf635,CF635,,CF63,Haut-Mbomou,Haut-Mbomou,,,0,,5.4,25.986
+CF71,1,Préfecture,Prefecture,Bangui,Bangui,bangui-cf71,CF71,,,,,,4,8,,4.335,18.475
+CF711,2,Sous-préfecture,Sub-prefecture,Bangui-Centre,Bangui-Centre,bangui-centre-cf711,CF711,,CF71,Bangui,Bangui,,,8,,4.382,18.542
+CF712,2,Sous-préfecture,Sub-prefecture,Bangui-Kagas,Bangui-Kagas,bangui-kagas-cf712,CF712,,CF71,Bangui,Bangui,,,0,,4.529,18.452
+CF713,2,Sous-préfecture,Sub-prefecture,Bangui-Fleuve,Bangui-Fleuve,bangui-fleuve-cf713,CF713,,CF71,Bangui,Bangui,,,0,,4.217,18.431
+CF714,2,Sous-préfecture,Sub-prefecture,Bangui-Rapides,Bangui-Rapides,bangui-rapides-cf714,CF714,,CF71,Bangui,Bangui,,,0,,4.459,18.716

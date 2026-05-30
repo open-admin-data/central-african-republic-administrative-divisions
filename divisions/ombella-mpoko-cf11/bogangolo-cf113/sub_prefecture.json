@@ -1,0 +1,47 @@
+{
+  "id": "CF113",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Bogangolo",
+    "en": "Bogangolo",
+    "slug": "bogangolo-cf113"
+  },
+  "code": {
+    "id": "CF113",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF11",
+    "level": 1,
+    "name": {
+      "local": "Ombella M'Poko",
+      "en": "Ombella M'Poko",
+      "slug": "ombella-mpoko-cf11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF11",
+      "level": 1,
+      "name": {
+        "local": "Ombella M'Poko",
+        "en": "Ombella M'Poko",
+        "slug": "ombella-mpoko-cf11"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.514",
+    "lon": "18.21"
+  },
+  "metadata": {},
+  "source": {}
+}

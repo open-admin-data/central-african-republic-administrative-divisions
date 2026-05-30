@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CF612_bangui-kette",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bangui-Kette",
+      "en": "Bangui-Kette",
+      "slug": "bangui-kette"
+    },
+    "code": {
+      "id": "CF612_bangui-kette",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF612",
+      "level": 2,
+      "name": {
+        "local": "Alindao",
+        "en": "Alindao",
+        "slug": "alindao-cf612"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF61",
+        "level": 1,
+        "name": {
+          "local": "Basse-Kotto",
+          "en": "Basse-Kotto",
+          "slug": "basse-kotto-cf61"
+        }
+      },
+      {
+        "id": "CF612",
+        "level": 2,
+        "name": {
+          "local": "Alindao",
+          "en": "Alindao",
+          "slug": "alindao-cf612"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.064",
+      "lon": "21.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF612_yambeie-ewou",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yambeie-Ewou",
+      "en": "Yambeie-Ewou",
+      "slug": "yambeie-ewou"
+    },
+    "code": {
+      "id": "CF612_yambeie-ewou",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF612",
+      "level": 2,
+      "name": {
+        "local": "Alindao",
+        "en": "Alindao",
+        "slug": "alindao-cf612"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF61",
+        "level": 1,
+        "name": {
+          "local": "Basse-Kotto",
+          "en": "Basse-Kotto",
+          "slug": "basse-kotto-cf61"
+        }
+      },
+      {
+        "id": "CF612",
+        "level": 2,
+        "name": {
+          "local": "Alindao",
+          "en": "Alindao",
+          "slug": "alindao-cf612"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.457",
+      "lon": "21.192"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

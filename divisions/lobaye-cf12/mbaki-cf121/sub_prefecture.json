@@ -1,0 +1,47 @@
+{
+  "id": "CF121",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Mbaïki",
+    "en": "Mbaïki",
+    "slug": "mbaki-cf121"
+  },
+  "code": {
+    "id": "CF121",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF12",
+    "level": 1,
+    "name": {
+      "local": "Lobaye",
+      "en": "Lobaye",
+      "slug": "lobaye-cf12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF12",
+      "level": 1,
+      "name": {
+        "local": "Lobaye",
+        "en": "Lobaye",
+        "slug": "lobaye-cf12"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.143",
+    "lon": "17.986"
+  },
+  "metadata": {},
+  "source": {}
+}

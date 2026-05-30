@@ -1,0 +1,97 @@
+# Nana-Mambéré — Central African Republic Administrative Divisions
+
+> 4 sub-prefectures, 17 communes
+> Code: CF22
+> Coordinates: 5.699, 15.379
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Sub-prefectures
+
+### Abba
+
+Code: CF224, Coordinates: 5.225, 15.218
+Communes: 0
+
+### Baboua
+
+Code: CF223, Coordinates: 5.786, 14.898
+Communes: 10
+
+#### Abba
+
+Code: CF223_abba, Coordinates: 5.282, 15.169
+
+#### Baboua
+
+Code: CF223_baboua, Coordinates: 5.589, 14.83
+
+#### Bea-Nana
+
+Code: CF223_bea-nana, Coordinates: 5.982, 15.197
+
+#### Bingue
+
+Code: CF223_bingue, Coordinates: 5.625, 15.368
+
+#### Fo
+
+Code: CF223_fo, Coordinates: 5.737, 15.114
+
+#### Goudrot
+
+Code: CF223_goudrot, Coordinates: 6.359, 14.941
+
+#### Kounde
+
+Code: CF223_kounde, Coordinates: 6.09, 14.595
+
+#### Nadziboro
+
+Code: CF223_nadziboro, Coordinates: 5.182, 15.502
+
+#### Niem-Yelewa
+
+Code: CF223_niem-yelewa, Coordinates: 6.441, 15.198
+
+#### Yenga
+
+Code: CF223_yenga, Coordinates: 5.918, 15.38
+
+### Baoro
+
+Code: CF222, Coordinates: 5.461, 16.141
+Communes: 2
+
+#### Bawi Tedoa
+
+Code: CF222_bawi-tedoa, Coordinates: 5.591, 16.213
+
+#### Yoro-Samba Bougoulou
+
+Code: CF222_yoro-samba-bougoulou, Coordinates: 5.384, 16.139
+
+### Bouar
+
+Code: CF221, Coordinates: 5.957, 15.478
+Communes: 5
+
+#### Bocaranga
+
+Code: CF221_bocaranga, Coordinates: 6.731, 15.727
+
+#### Doaka-Koursou
+
+Code: CF221_doaka-koursou, Coordinates: 5.946, 15.79
+
+#### Herman-Brousse
+
+Code: CF221_herman-brousse, Coordinates: 6.126, 15.595
+
+#### Koui
+
+Code: CF221_koui, Coordinates: 6.671, 15.273
+
+#### Zotoua-Bangarem
+
+Code: CF221_zotoua-bangarem, Coordinates: 5.461, 15.652
+

@@ -1,0 +1,30 @@
+{
+  "id": "CF21",
+  "level": 1,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Mambéré-Kadéï",
+    "en": "Mambéré-Kadéï",
+    "slug": "mambr-kad-cf21"
+  },
+  "code": {
+    "id": "CF21",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sub_prefecture": 4,
+    "commune": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.256",
+    "lon": "15.673"
+  },
+  "metadata": {},
+  "source": {}
+}

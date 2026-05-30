@@ -1,0 +1,47 @@
+{
+  "id": "CF215",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Sosso-Nakombo",
+    "en": "Sosso-Nakombo",
+    "slug": "sosso-nakombo-cf215"
+  },
+  "code": {
+    "id": "CF215",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF21",
+    "level": 1,
+    "name": {
+      "local": "Mambéré-Kadéï",
+      "en": "Mambéré-Kadéï",
+      "slug": "mambr-kad-cf21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF21",
+      "level": 1,
+      "name": {
+        "local": "Mambéré-Kadéï",
+        "en": "Mambéré-Kadéï",
+        "slug": "mambr-kad-cf21"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.897",
+    "lon": "15.498"
+  },
+  "metadata": {},
+  "source": {}
+}

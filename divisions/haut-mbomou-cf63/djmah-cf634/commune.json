@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CF634_djema",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Djema",
+      "en": "Djema",
+      "slug": "djema"
+    },
+    "code": {
+      "id": "CF634_djema",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF634",
+      "level": 2,
+      "name": {
+        "local": "Djémah",
+        "en": "Djémah",
+        "slug": "djmah-cf634"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF63",
+        "level": 1,
+        "name": {
+          "local": "Haut-Mbomou",
+          "en": "Haut-Mbomou",
+          "slug": "haut-mbomou-cf63"
+        }
+      },
+      {
+        "id": "CF634",
+        "level": 2,
+        "name": {
+          "local": "Djémah",
+          "en": "Djémah",
+          "slug": "djmah-cf634"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.951",
+      "lon": "25.413"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

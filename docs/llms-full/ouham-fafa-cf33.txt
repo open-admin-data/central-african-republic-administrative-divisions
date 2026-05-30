@@ -1,0 +1,77 @@
+# Ouham-Fafa — Central African Republic Administrative Divisions
+
+> 4 sub-prefectures, 12 communes
+> Code: CF33
+> Coordinates: 7.028, 18.271
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Sub-prefectures
+
+### Batangafo
+
+Code: CF331, Coordinates: 7.346, 17.961
+Communes: 6
+
+#### Bakassa
+
+Code: CF331_bakassa, Coordinates: 7.686, 17.949
+
+#### Batangafo
+
+Code: CF331_batangafo, Coordinates: 7.294, 18.285
+
+#### Bede
+
+Code: CF331_bede, Coordinates: 7.191, 17.896
+
+#### Hama
+
+Code: CF331_hama, Coordinates: 7.265, 17.802
+
+#### Ouaki
+
+Code: CF331_ouaki, Coordinates: 7.366, 18.633
+
+#### Ouassi
+
+Code: CF331_ouassi, Coordinates: 7.244, 18.502
+
+### Bouca
+
+Code: CF333, Coordinates: 6.372, 18.287
+Communes: 5
+
+#### Ben Zambe
+
+Code: CF333_ben-zambe, Coordinates: 6.72, 17.709
+
+#### Bouca Bobo
+
+Code: CF333_bouca-bobo, Coordinates: 6.292, 18.128
+
+#### Fafa Boungou
+
+Code: CF333_fafa-boungou, Coordinates: 6.153, 18.397
+
+#### Lady Gbawi
+
+Code: CF333_lady-gbawi, Coordinates: 6.839, 18.49
+
+#### Ouham Fafa
+
+Code: CF333_ouham-fafa, Coordinates: 6.815, 18.063
+
+### Kabo
+
+Code: CF332, Coordinates: 7.692, 18.501
+Communes: 1
+
+#### Sido
+
+Code: CF332_sido, Coordinates: 8.037, 18.495
+
+### Sido
+
+Code: CF334, Coordinates: 8.181, 18.896
+Communes: 0
+

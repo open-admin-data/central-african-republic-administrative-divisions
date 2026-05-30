@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CF633_zemio",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zemio",
+      "en": "Zemio",
+      "slug": "zemio"
+    },
+    "code": {
+      "id": "CF633_zemio",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF633",
+      "level": 2,
+      "name": {
+        "local": "Zémio",
+        "en": "Zémio",
+        "slug": "zmio-cf633"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF63",
+        "level": 1,
+        "name": {
+          "local": "Haut-Mbomou",
+          "en": "Haut-Mbomou",
+          "slug": "haut-mbomou-cf63"
+        }
+      },
+      {
+        "id": "CF633",
+        "level": 2,
+        "name": {
+          "local": "Zémio",
+          "en": "Zémio",
+          "slug": "zmio-cf633"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.395",
+      "lon": "25.23"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

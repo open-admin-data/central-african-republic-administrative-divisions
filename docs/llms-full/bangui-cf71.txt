@@ -1,0 +1,61 @@
+# Bangui — Central African Republic Administrative Divisions
+
+> 4 sub-prefectures, 8 communes
+> Code: CF71
+> Coordinates: 4.335, 18.475
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Sub-prefectures
+
+### Bangui-Centre
+
+Code: CF711, Coordinates: 4.382, 18.542
+Communes: 8
+
+#### Arrondissement 1
+
+Code: CF711_arrondissement-1, Coordinates: 4.377, 18.575
+
+#### Arrondissement 2
+
+Code: CF711_arrondissement-2, Coordinates: 4.354, 18.56
+
+#### Arrondissement 3
+
+Code: CF711_arrondissement-3, Coordinates: 4.375, 18.54
+
+#### Arrondissement 4
+
+Code: CF711_arrondissement-4, Coordinates: 4.412, 18.567
+
+#### Arrondissement 5
+
+Code: CF711_arrondissement-5, Coordinates: 4.388, 18.546
+
+#### Arrondissement 6
+
+Code: CF711_arrondissement-6, Coordinates: 4.345, 18.541
+
+#### Arrondissement 7
+
+Code: CF711_arrondissement-7, Coordinates: 4.378, 18.619
+
+#### Arrondissement 8
+
+Code: CF711_arrondissement-8, Coordinates: 4.415, 18.538
+
+### Bangui-Fleuve
+
+Code: CF713, Coordinates: 4.217, 18.431
+Communes: 0
+
+### Bangui-Kagas
+
+Code: CF712, Coordinates: 4.529, 18.452
+Communes: 0
+
+### Bangui-Rapides
+
+Code: CF714, Coordinates: 4.459, 18.716
+Communes: 0
+

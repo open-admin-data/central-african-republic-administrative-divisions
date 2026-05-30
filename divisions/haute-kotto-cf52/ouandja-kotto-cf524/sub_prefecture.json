@@ -1,0 +1,47 @@
+{
+  "id": "CF524",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Ouandja-Kotto",
+    "en": "Ouandja-Kotto",
+    "slug": "ouandja-kotto-cf524"
+  },
+  "code": {
+    "id": "CF524",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF52",
+    "level": 1,
+    "name": {
+      "local": "Haute-Kotto",
+      "en": "Haute-Kotto",
+      "slug": "haute-kotto-cf52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF52",
+      "level": 1,
+      "name": {
+        "local": "Haute-Kotto",
+        "en": "Haute-Kotto",
+        "slug": "haute-kotto-cf52"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.378",
+    "lon": "23.2"
+  },
+  "metadata": {},
+  "source": {}
+}

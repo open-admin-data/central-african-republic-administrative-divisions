@@ -1,0 +1,30 @@
+{
+  "id": "CF53",
+  "level": 1,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Vakaga",
+    "en": "Vakaga",
+    "slug": "vakaga-cf53"
+  },
+  "code": {
+    "id": "CF53",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sub_prefecture": 4,
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.824",
+    "lon": "22.514"
+  },
+  "metadata": {},
+  "source": {}
+}

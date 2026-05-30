@@ -1,0 +1,218 @@
+[
+  {
+    "id": "CF521_daba-nydou",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Daba Nydou",
+      "en": "Daba Nydou",
+      "slug": "daba-nydou"
+    },
+    "code": {
+      "id": "CF521_daba-nydou",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF521",
+      "level": 2,
+      "name": {
+        "local": "Bria",
+        "en": "Bria",
+        "slug": "bria-cf521"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF52",
+        "level": 1,
+        "name": {
+          "local": "Haute-Kotto",
+          "en": "Haute-Kotto",
+          "slug": "haute-kotto-cf52"
+        }
+      },
+      {
+        "id": "CF521",
+        "level": 2,
+        "name": {
+          "local": "Bria",
+          "en": "Bria",
+          "slug": "bria-cf521"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.386",
+      "lon": "22.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF521_haute-baidou",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Haute Baidou",
+      "en": "Haute Baidou",
+      "slug": "haute-baidou"
+    },
+    "code": {
+      "id": "CF521_haute-baidou",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF521",
+      "level": 2,
+      "name": {
+        "local": "Bria",
+        "en": "Bria",
+        "slug": "bria-cf521"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF52",
+        "level": 1,
+        "name": {
+          "local": "Haute-Kotto",
+          "en": "Haute-Kotto",
+          "slug": "haute-kotto-cf52"
+        }
+      },
+      {
+        "id": "CF521",
+        "level": 2,
+        "name": {
+          "local": "Bria",
+          "en": "Bria",
+          "slug": "bria-cf521"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.7",
+      "lon": "21.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF521_ippy",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ippy",
+      "en": "Ippy",
+      "slug": "ippy"
+    },
+    "code": {
+      "id": "CF521_ippy",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF521",
+      "level": 2,
+      "name": {
+        "local": "Bria",
+        "en": "Bria",
+        "slug": "bria-cf521"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF52",
+        "level": 1,
+        "name": {
+          "local": "Haute-Kotto",
+          "en": "Haute-Kotto",
+          "slug": "haute-kotto-cf52"
+        }
+      },
+      {
+        "id": "CF521",
+        "level": 2,
+        "name": {
+          "local": "Bria",
+          "en": "Bria",
+          "slug": "bria-cf521"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.269",
+      "lon": "21.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF521_yengou",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yengou",
+      "en": "Yengou",
+      "slug": "yengou"
+    },
+    "code": {
+      "id": "CF521_yengou",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF521",
+      "level": 2,
+      "name": {
+        "local": "Bria",
+        "en": "Bria",
+        "slug": "bria-cf521"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF52",
+        "level": 1,
+        "name": {
+          "local": "Haute-Kotto",
+          "en": "Haute-Kotto",
+          "slug": "haute-kotto-cf52"
+        }
+      },
+      {
+        "id": "CF521",
+        "level": 2,
+        "name": {
+          "local": "Bria",
+          "en": "Bria",
+          "slug": "bria-cf521"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.708",
+      "lon": "21.434"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

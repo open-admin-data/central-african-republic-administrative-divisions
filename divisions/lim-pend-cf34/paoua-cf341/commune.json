@@ -1,0 +1,434 @@
+[
+  {
+    "id": "CF341_bah-bessar",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bah-Bessar",
+      "en": "Bah-Bessar",
+      "slug": "bah-bessar"
+    },
+    "code": {
+      "id": "CF341_bah-bessar",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF341",
+      "level": 2,
+      "name": {
+        "local": "Paoua",
+        "en": "Paoua",
+        "slug": "paoua-cf341"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF34",
+        "level": 1,
+        "name": {
+          "local": "Lim-pendé",
+          "en": "Lim-pendé",
+          "slug": "lim-pend-cf34"
+        }
+      },
+      {
+        "id": "CF341",
+        "level": 2,
+        "name": {
+          "local": "Paoua",
+          "en": "Paoua",
+          "slug": "paoua-cf341"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.497",
+      "lon": "16.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF341_banh",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Banh",
+      "en": "Banh",
+      "slug": "banh"
+    },
+    "code": {
+      "id": "CF341_banh",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF341",
+      "level": 2,
+      "name": {
+        "local": "Paoua",
+        "en": "Paoua",
+        "slug": "paoua-cf341"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF34",
+        "level": 1,
+        "name": {
+          "local": "Lim-pendé",
+          "en": "Lim-pendé",
+          "slug": "lim-pend-cf34"
+        }
+      },
+      {
+        "id": "CF341",
+        "level": 2,
+        "name": {
+          "local": "Paoua",
+          "en": "Paoua",
+          "slug": "paoua-cf341"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.019",
+      "lon": "16.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF341_bimbi",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bimbi",
+      "en": "Bimbi",
+      "slug": "bimbi"
+    },
+    "code": {
+      "id": "CF341_bimbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF341",
+      "level": 2,
+      "name": {
+        "local": "Paoua",
+        "en": "Paoua",
+        "slug": "paoua-cf341"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF34",
+        "level": 1,
+        "name": {
+          "local": "Lim-pendé",
+          "en": "Lim-pendé",
+          "slug": "lim-pend-cf34"
+        }
+      },
+      {
+        "id": "CF341",
+        "level": 2,
+        "name": {
+          "local": "Paoua",
+          "en": "Paoua",
+          "slug": "paoua-cf341"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.929",
+      "lon": "16.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF341_male",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Male",
+      "en": "Male",
+      "slug": "male"
+    },
+    "code": {
+      "id": "CF341_male",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF341",
+      "level": 2,
+      "name": {
+        "local": "Paoua",
+        "en": "Paoua",
+        "slug": "paoua-cf341"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF34",
+        "level": 1,
+        "name": {
+          "local": "Lim-pendé",
+          "en": "Lim-pendé",
+          "slug": "lim-pend-cf34"
+        }
+      },
+      {
+        "id": "CF341",
+        "level": 2,
+        "name": {
+          "local": "Paoua",
+          "en": "Paoua",
+          "slug": "paoua-cf341"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.838",
+      "lon": "16.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF341_mia-pende",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mia-Pende",
+      "en": "Mia-Pende",
+      "slug": "mia-pende"
+    },
+    "code": {
+      "id": "CF341_mia-pende",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF341",
+      "level": 2,
+      "name": {
+        "local": "Paoua",
+        "en": "Paoua",
+        "slug": "paoua-cf341"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF34",
+        "level": 1,
+        "name": {
+          "local": "Lim-pendé",
+          "en": "Lim-pendé",
+          "slug": "lim-pend-cf34"
+        }
+      },
+      {
+        "id": "CF341",
+        "level": 2,
+        "name": {
+          "local": "Paoua",
+          "en": "Paoua",
+          "slug": "paoua-cf341"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.68",
+      "lon": "16.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF341_mom",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mom",
+      "en": "Mom",
+      "slug": "mom"
+    },
+    "code": {
+      "id": "CF341_mom",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF341",
+      "level": 2,
+      "name": {
+        "local": "Paoua",
+        "en": "Paoua",
+        "slug": "paoua-cf341"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF34",
+        "level": 1,
+        "name": {
+          "local": "Lim-pendé",
+          "en": "Lim-pendé",
+          "slug": "lim-pend-cf34"
+        }
+      },
+      {
+        "id": "CF341",
+        "level": 2,
+        "name": {
+          "local": "Paoua",
+          "en": "Paoua",
+          "slug": "paoua-cf341"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.754",
+      "lon": "16.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF341_nana-barya",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nana-Barya",
+      "en": "Nana-Barya",
+      "slug": "nana-barya"
+    },
+    "code": {
+      "id": "CF341_nana-barya",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF341",
+      "level": 2,
+      "name": {
+        "local": "Paoua",
+        "en": "Paoua",
+        "slug": "paoua-cf341"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF34",
+        "level": 1,
+        "name": {
+          "local": "Lim-pendé",
+          "en": "Lim-pendé",
+          "slug": "lim-pend-cf34"
+        }
+      },
+      {
+        "id": "CF341",
+        "level": 2,
+        "name": {
+          "local": "Paoua",
+          "en": "Paoua",
+          "slug": "paoua-cf341"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.366",
+      "lon": "16.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF341_paoua",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Paoua",
+      "en": "Paoua",
+      "slug": "paoua"
+    },
+    "code": {
+      "id": "CF341_paoua",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF341",
+      "level": 2,
+      "name": {
+        "local": "Paoua",
+        "en": "Paoua",
+        "slug": "paoua-cf341"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF34",
+        "level": 1,
+        "name": {
+          "local": "Lim-pendé",
+          "en": "Lim-pendé",
+          "slug": "lim-pend-cf34"
+        }
+      },
+      {
+        "id": "CF341",
+        "level": 2,
+        "name": {
+          "local": "Paoua",
+          "en": "Paoua",
+          "slug": "paoua-cf341"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.22",
+      "lon": "16.381"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CF122_mongoumba",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mongoumba",
+      "en": "Mongoumba",
+      "slug": "mongoumba"
+    },
+    "code": {
+      "id": "CF122_mongoumba",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF122",
+      "level": 2,
+      "name": {
+        "local": "Mongoumba",
+        "en": "Mongoumba",
+        "slug": "mongoumba-cf122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      },
+      {
+        "id": "CF122",
+        "level": 2,
+        "name": {
+          "local": "Mongoumba",
+          "en": "Mongoumba",
+          "slug": "mongoumba-cf122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.712",
+      "lon": "18.448"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

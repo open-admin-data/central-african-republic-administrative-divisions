@@ -1,0 +1,47 @@
+{
+  "id": "CF344",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Kodi",
+    "en": "Kodi",
+    "slug": "kodi-cf344"
+  },
+  "code": {
+    "id": "CF344",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF34",
+    "level": 1,
+    "name": {
+      "local": "Lim-pendé",
+      "en": "Lim-pendé",
+      "slug": "lim-pend-cf34"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF34",
+      "level": 1,
+      "name": {
+        "local": "Lim-pendé",
+        "en": "Lim-pendé",
+        "slug": "lim-pend-cf34"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.255",
+    "lon": "15.516"
+  },
+  "metadata": {},
+  "source": {}
+}

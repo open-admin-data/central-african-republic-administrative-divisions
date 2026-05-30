@@ -1,0 +1,90 @@
+# Lim-pendé — Central African Republic Administrative Divisions
+
+> 5 sub-prefectures, 14 communes
+> Code: CF34
+> Coordinates: 7.201, 16.233
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Sub-prefectures
+
+### Kodi
+
+Code: CF344, Coordinates: 7.255, 15.516
+Communes: 0
+
+### Ndim
+
+Code: CF343, Coordinates: 7.328, 15.934
+Communes: 0
+
+### Ngaoundaye
+
+Code: CF342, Coordinates: 7.426, 15.671
+Communes: 6
+
+#### Dilouki
+
+Code: CF342_dilouki, Coordinates: 7.28, 15.768
+
+#### Kodi
+
+Code: CF342_kodi, Coordinates: 7.278, 15.524
+
+#### Lim
+
+Code: CF342_lim, Coordinates: 7.397, 15.665
+
+#### Loura
+
+Code: CF342_loura, Coordinates: 7.065, 15.871
+
+#### Mbili
+
+Code: CF342_mbili, Coordinates: 7.139, 15.278
+
+#### Yeme
+
+Code: CF342_yeme, Coordinates: 7.37, 15.997
+
+### Paoua
+
+Code: CF341, Coordinates: 7.35, 16.44
+Communes: 8
+
+#### Bah-Bessar
+
+Code: CF341_bah-bessar, Coordinates: 7.497, 16.363
+
+#### Banh
+
+Code: CF341_banh, Coordinates: 7.019, 16.303
+
+#### Bimbi
+
+Code: CF341_bimbi, Coordinates: 6.929, 16.586
+
+#### Male
+
+Code: CF341_male, Coordinates: 6.838, 16.162
+
+#### Mia-Pende
+
+Code: CF341_mia-pende, Coordinates: 7.68, 16.612
+
+#### Mom
+
+Code: CF341_mom, Coordinates: 6.754, 16.43
+
+#### Nana-Barya
+
+Code: CF341_nana-barya, Coordinates: 7.366, 16.67
+
+#### Paoua
+
+Code: CF341_paoua, Coordinates: 7.22, 16.381
+
+### Taley
+
+Code: CF345, Coordinates: 6.81, 16.583
+Communes: 0
+

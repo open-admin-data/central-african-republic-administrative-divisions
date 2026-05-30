@@ -1,0 +1,30 @@
+{
+  "id": "CF34",
+  "level": 1,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Lim-pendé",
+    "en": "Lim-pendé",
+    "slug": "lim-pend-cf34"
+  },
+  "code": {
+    "id": "CF34",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sub_prefecture": 5,
+    "commune": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.201",
+    "lon": "16.233"
+  },
+  "metadata": {},
+  "source": {}
+}

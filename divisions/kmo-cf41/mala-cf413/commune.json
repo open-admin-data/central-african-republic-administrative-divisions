@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CF413_mala",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mala",
+      "en": "Mala",
+      "slug": "mala"
+    },
+    "code": {
+      "id": "CF413_mala",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF413",
+      "level": 2,
+      "name": {
+        "local": "Mala",
+        "en": "Mala",
+        "slug": "mala-cf413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF41",
+        "level": 1,
+        "name": {
+          "local": "Kémo",
+          "en": "Kémo",
+          "slug": "kmo-cf41"
+        }
+      },
+      {
+        "id": "CF413",
+        "level": 2,
+        "name": {
+          "local": "Mala",
+          "en": "Mala",
+          "slug": "mala-cf413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.247",
+      "lon": "19.593"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

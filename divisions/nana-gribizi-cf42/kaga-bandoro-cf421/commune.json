@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CF421_botto",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Botto",
+      "en": "Botto",
+      "slug": "botto"
+    },
+    "code": {
+      "id": "CF421_botto",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF421",
+      "level": 2,
+      "name": {
+        "local": "Kaga-Bandoro",
+        "en": "Kaga-Bandoro",
+        "slug": "kaga-bandoro-cf421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF42",
+        "level": 1,
+        "name": {
+          "local": "Nana-Gribizi",
+          "en": "Nana-Gribizi",
+          "slug": "nana-gribizi-cf42"
+        }
+      },
+      {
+        "id": "CF421",
+        "level": 2,
+        "name": {
+          "local": "Kaga-Bandoro",
+          "en": "Kaga-Bandoro",
+          "slug": "kaga-bandoro-cf421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.004",
+      "lon": "18.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF421_kaga-bandoro",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kaga-Bandoro",
+      "en": "Kaga-Bandoro",
+      "slug": "kaga-bandoro"
+    },
+    "code": {
+      "id": "CF421_kaga-bandoro",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF421",
+      "level": 2,
+      "name": {
+        "local": "Kaga-Bandoro",
+        "en": "Kaga-Bandoro",
+        "slug": "kaga-bandoro-cf421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF42",
+        "level": 1,
+        "name": {
+          "local": "Nana-Gribizi",
+          "en": "Nana-Gribizi",
+          "slug": "nana-gribizi-cf42"
+        }
+      },
+      {
+        "id": "CF421",
+        "level": 2,
+        "name": {
+          "local": "Kaga-Bandoro",
+          "en": "Kaga-Bandoro",
+          "slug": "kaga-bandoro-cf421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.996",
+      "lon": "19.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF421_ndenga",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ndenga",
+      "en": "Ndenga",
+      "slug": "ndenga"
+    },
+    "code": {
+      "id": "CF421_ndenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF421",
+      "level": 2,
+      "name": {
+        "local": "Kaga-Bandoro",
+        "en": "Kaga-Bandoro",
+        "slug": "kaga-bandoro-cf421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF42",
+        "level": 1,
+        "name": {
+          "local": "Nana-Gribizi",
+          "en": "Nana-Gribizi",
+          "slug": "nana-gribizi-cf42"
+        }
+      },
+      {
+        "id": "CF421",
+        "level": 2,
+        "name": {
+          "local": "Kaga-Bandoro",
+          "en": "Kaga-Bandoro",
+          "slug": "kaga-bandoro-cf421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.693",
+      "lon": "19.183"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

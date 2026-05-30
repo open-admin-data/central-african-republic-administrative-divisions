@@ -1,0 +1,47 @@
+{
+  "id": "CF231",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Nola",
+    "en": "Nola",
+    "slug": "nola-cf231"
+  },
+  "code": {
+    "id": "CF231",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF23",
+    "level": 1,
+    "name": {
+      "local": "Sangha-Mbaéré",
+      "en": "Sangha-Mbaéré",
+      "slug": "sangha-mbar-cf23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF23",
+      "level": 1,
+      "name": {
+        "local": "Sangha-Mbaéré",
+        "en": "Sangha-Mbaéré",
+        "slug": "sangha-mbar-cf23"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.502",
+    "lon": "15.965"
+  },
+  "metadata": {},
+  "source": {}
+}

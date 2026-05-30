@@ -1,0 +1,143 @@
+[
+  {
+    "id": "CF421",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kaga-Bandoro",
+      "en": "Kaga-Bandoro",
+      "slug": "kaga-bandoro-cf421"
+    },
+    "code": {
+      "id": "CF421",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF42",
+      "level": 1,
+      "name": {
+        "local": "Nana-Gribizi",
+        "en": "Nana-Gribizi",
+        "slug": "nana-gribizi-cf42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF42",
+        "level": 1,
+        "name": {
+          "local": "Nana-Gribizi",
+          "en": "Nana-Gribizi",
+          "slug": "nana-gribizi-cf42"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.881",
+      "lon": "19.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF422",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mbrès",
+      "en": "Mbrès",
+      "slug": "mbrs-cf422"
+    },
+    "code": {
+      "id": "CF422",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF42",
+      "level": 1,
+      "name": {
+        "local": "Nana-Gribizi",
+        "en": "Nana-Gribizi",
+        "slug": "nana-gribizi-cf42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF42",
+        "level": 1,
+        "name": {
+          "local": "Nana-Gribizi",
+          "en": "Nana-Gribizi",
+          "slug": "nana-gribizi-cf42"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.991",
+      "lon": "20.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF423",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Nana-Outa",
+      "en": "Nana-Outa",
+      "slug": "nana-outa-cf423"
+    },
+    "code": {
+      "id": "CF423",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF42",
+      "level": 1,
+      "name": {
+        "local": "Nana-Gribizi",
+        "en": "Nana-Gribizi",
+        "slug": "nana-gribizi-cf42"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF42",
+        "level": 1,
+        "name": {
+          "local": "Nana-Gribizi",
+          "en": "Nana-Gribizi",
+          "slug": "nana-gribizi-cf42"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.632",
+      "lon": "19.148"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

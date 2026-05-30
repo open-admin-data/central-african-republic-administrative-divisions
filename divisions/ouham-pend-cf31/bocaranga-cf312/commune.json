@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CF312_danayere",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Danayere",
+      "en": "Danayere",
+      "slug": "danayere"
+    },
+    "code": {
+      "id": "CF312_danayere",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF312",
+      "level": 2,
+      "name": {
+        "local": "Bocaranga",
+        "en": "Bocaranga",
+        "slug": "bocaranga-cf312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF31",
+        "level": 1,
+        "name": {
+          "local": "Ouham Pendé",
+          "en": "Ouham Pendé",
+          "slug": "ouham-pend-cf31"
+        }
+      },
+      {
+        "id": "CF312",
+        "level": 2,
+        "name": {
+          "local": "Bocaranga",
+          "en": "Bocaranga",
+          "slug": "bocaranga-cf312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.374",
+      "lon": "16.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF312_pende",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Pende",
+      "en": "Pende",
+      "slug": "pende"
+    },
+    "code": {
+      "id": "CF312_pende",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF312",
+      "level": 2,
+      "name": {
+        "local": "Bocaranga",
+        "en": "Bocaranga",
+        "slug": "bocaranga-cf312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF31",
+        "level": 1,
+        "name": {
+          "local": "Ouham Pendé",
+          "en": "Ouham Pendé",
+          "slug": "ouham-pend-cf31"
+        }
+      },
+      {
+        "id": "CF312",
+        "level": 2,
+        "name": {
+          "local": "Bocaranga",
+          "en": "Bocaranga",
+          "slug": "bocaranga-cf312"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.793",
+      "lon": "15.883"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

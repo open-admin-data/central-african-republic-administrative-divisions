@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CF322_nana-bakassa",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nana-Bakassa",
+      "en": "Nana-Bakassa",
+      "slug": "nana-bakassa"
+    },
+    "code": {
+      "id": "CF322_nana-bakassa",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF322",
+      "level": 2,
+      "name": {
+        "local": "Nana-Bakassa",
+        "en": "Nana-Bakassa",
+        "slug": "nana-bakassa-cf322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF32",
+        "level": 1,
+        "name": {
+          "local": "Ouham",
+          "en": "Ouham",
+          "slug": "ouham-cf32"
+        }
+      },
+      {
+        "id": "CF322",
+        "level": 2,
+        "name": {
+          "local": "Nana-Bakassa",
+          "en": "Nana-Bakassa",
+          "slug": "nana-bakassa-cf322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.929",
+      "lon": "17.399"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

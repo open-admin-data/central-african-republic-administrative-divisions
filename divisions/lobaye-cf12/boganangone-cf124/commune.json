@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CF124_boganangone",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Boganangone",
+      "en": "Boganangone",
+      "slug": "boganangone"
+    },
+    "code": {
+      "id": "CF124_boganangone",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF124",
+      "level": 2,
+      "name": {
+        "local": "Boganangone",
+        "en": "Boganangone",
+        "slug": "boganangone-cf124"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      },
+      {
+        "id": "CF124",
+        "level": 2,
+        "name": {
+          "local": "Boganangone",
+          "en": "Boganangone",
+          "slug": "boganangone-cf124"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.694",
+      "lon": "17.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF124_la-mbi",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "La Mbi",
+      "en": "La Mbi",
+      "slug": "la-mbi"
+    },
+    "code": {
+      "id": "CF124_la-mbi",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF124",
+      "level": 2,
+      "name": {
+        "local": "Boganangone",
+        "en": "Boganangone",
+        "slug": "boganangone-cf124"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      },
+      {
+        "id": "CF124",
+        "level": 2,
+        "name": {
+          "local": "Boganangone",
+          "en": "Boganangone",
+          "slug": "boganangone-cf124"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.857",
+      "lon": "17.556"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

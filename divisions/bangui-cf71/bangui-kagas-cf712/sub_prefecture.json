@@ -1,0 +1,47 @@
+{
+  "id": "CF712",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Bangui-Kagas",
+    "en": "Bangui-Kagas",
+    "slug": "bangui-kagas-cf712"
+  },
+  "code": {
+    "id": "CF712",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF71",
+    "level": 1,
+    "name": {
+      "local": "Bangui",
+      "en": "Bangui",
+      "slug": "bangui-cf71"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF71",
+      "level": 1,
+      "name": {
+        "local": "Bangui",
+        "en": "Bangui",
+        "slug": "bangui-cf71"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.529",
+    "lon": "18.452"
+  },
+  "metadata": {},
+  "source": {}
+}

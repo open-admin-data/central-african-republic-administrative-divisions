@@ -1,0 +1,45 @@
+# Mambéré — Central African Republic Administrative Divisions
+
+> 4 sub-prefectures, 4 communes
+> Code: CF24
+> Coordinates: 4.783, 16.511
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Sub-prefectures
+
+### Amada-Gaza
+
+Code: CF242, Coordinates: 4.822, 15.104
+Communes: 1
+
+#### Haute-Boumbe
+
+Code: CF242_haute-boumbe, Coordinates: 4.812, 15.122
+
+### Carnot
+
+Code: CF241, Coordinates: 4.871, 15.857
+Communes: 3
+
+#### Carnot
+
+Code: CF241_carnot, Coordinates: 4.897, 15.835
+
+#### Mbali
+
+Code: CF241_mbali, Coordinates: 5.133, 16.824
+
+#### Topia
+
+Code: CF241_topia, Coordinates: 4.805, 16.577
+
+### Gadzi
+
+Code: CF243, Coordinates: 4.966, 16.645
+Communes: 0
+
+### Semkpa-Mbaéré
+
+Code: CF244, Coordinates: 4.494, 16.484
+Communes: 0
+

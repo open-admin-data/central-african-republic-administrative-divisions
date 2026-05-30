@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CF434_kouango",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kouango",
+      "en": "Kouango",
+      "slug": "kouango"
+    },
+    "code": {
+      "id": "CF434_kouango",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF434",
+      "level": 2,
+      "name": {
+        "local": "Kouango",
+        "en": "Kouango",
+        "slug": "kouango-cf434"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF43",
+        "level": 1,
+        "name": {
+          "local": "Ouaka",
+          "en": "Ouaka",
+          "slug": "ouaka-cf43"
+        }
+      },
+      {
+        "id": "CF434",
+        "level": 2,
+        "name": {
+          "local": "Kouango",
+          "en": "Kouango",
+          "slug": "kouango-cf434"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.984",
+      "lon": "20.208"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

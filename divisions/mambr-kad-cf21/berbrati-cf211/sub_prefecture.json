@@ -1,0 +1,47 @@
+{
+  "id": "CF211",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Berbérati",
+    "en": "Berbérati",
+    "slug": "berbrati-cf211"
+  },
+  "code": {
+    "id": "CF211",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF21",
+    "level": 1,
+    "name": {
+      "local": "Mambéré-Kadéï",
+      "en": "Mambéré-Kadéï",
+      "slug": "mambr-kad-cf21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF21",
+      "level": 1,
+      "name": {
+        "local": "Mambéré-Kadéï",
+        "en": "Mambéré-Kadéï",
+        "slug": "mambr-kad-cf21"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.291",
+    "lon": "15.896"
+  },
+  "metadata": {},
+  "source": {}
+}

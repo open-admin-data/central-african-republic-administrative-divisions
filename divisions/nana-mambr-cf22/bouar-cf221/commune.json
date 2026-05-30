@@ -1,0 +1,272 @@
+[
+  {
+    "id": "CF221_bocaranga",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bocaranga",
+      "en": "Bocaranga",
+      "slug": "bocaranga"
+    },
+    "code": {
+      "id": "CF221_bocaranga",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF221",
+      "level": 2,
+      "name": {
+        "local": "Bouar",
+        "en": "Bouar",
+        "slug": "bouar-cf221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      },
+      {
+        "id": "CF221",
+        "level": 2,
+        "name": {
+          "local": "Bouar",
+          "en": "Bouar",
+          "slug": "bouar-cf221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.731",
+      "lon": "15.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF221_doaka-koursou",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Doaka-Koursou",
+      "en": "Doaka-Koursou",
+      "slug": "doaka-koursou"
+    },
+    "code": {
+      "id": "CF221_doaka-koursou",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF221",
+      "level": 2,
+      "name": {
+        "local": "Bouar",
+        "en": "Bouar",
+        "slug": "bouar-cf221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      },
+      {
+        "id": "CF221",
+        "level": 2,
+        "name": {
+          "local": "Bouar",
+          "en": "Bouar",
+          "slug": "bouar-cf221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.946",
+      "lon": "15.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF221_herman-brousse",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Herman-Brousse",
+      "en": "Herman-Brousse",
+      "slug": "herman-brousse"
+    },
+    "code": {
+      "id": "CF221_herman-brousse",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF221",
+      "level": 2,
+      "name": {
+        "local": "Bouar",
+        "en": "Bouar",
+        "slug": "bouar-cf221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      },
+      {
+        "id": "CF221",
+        "level": 2,
+        "name": {
+          "local": "Bouar",
+          "en": "Bouar",
+          "slug": "bouar-cf221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.126",
+      "lon": "15.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF221_koui",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Koui",
+      "en": "Koui",
+      "slug": "koui"
+    },
+    "code": {
+      "id": "CF221_koui",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF221",
+      "level": 2,
+      "name": {
+        "local": "Bouar",
+        "en": "Bouar",
+        "slug": "bouar-cf221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      },
+      {
+        "id": "CF221",
+        "level": 2,
+        "name": {
+          "local": "Bouar",
+          "en": "Bouar",
+          "slug": "bouar-cf221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.671",
+      "lon": "15.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF221_zotoua-bangarem",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Zotoua-Bangarem",
+      "en": "Zotoua-Bangarem",
+      "slug": "zotoua-bangarem"
+    },
+    "code": {
+      "id": "CF221_zotoua-bangarem",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF221",
+      "level": 2,
+      "name": {
+        "local": "Bouar",
+        "en": "Bouar",
+        "slug": "bouar-cf221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      },
+      {
+        "id": "CF221",
+        "level": 2,
+        "name": {
+          "local": "Bouar",
+          "en": "Bouar",
+          "slug": "bouar-cf221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.461",
+      "lon": "15.652"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

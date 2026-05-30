@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CF311_binon",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Binon",
+      "en": "Binon",
+      "slug": "binon"
+    },
+    "code": {
+      "id": "CF311_binon",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF311",
+      "level": 2,
+      "name": {
+        "local": "Bozoum",
+        "en": "Bozoum",
+        "slug": "bozoum-cf311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF31",
+        "level": 1,
+        "name": {
+          "local": "Ouham Pendé",
+          "en": "Ouham Pendé",
+          "slug": "ouham-pend-cf31"
+        }
+      },
+      {
+        "id": "CF311",
+        "level": 2,
+        "name": {
+          "local": "Bozoum",
+          "en": "Bozoum",
+          "slug": "bozoum-cf311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.938",
+      "lon": "16.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF311_birvan-bole",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Birvan-Bole",
+      "en": "Birvan-Bole",
+      "slug": "birvan-bole"
+    },
+    "code": {
+      "id": "CF311_birvan-bole",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF311",
+      "level": 2,
+      "name": {
+        "local": "Bozoum",
+        "en": "Bozoum",
+        "slug": "bozoum-cf311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF31",
+        "level": 1,
+        "name": {
+          "local": "Ouham Pendé",
+          "en": "Ouham Pendé",
+          "slug": "ouham-pend-cf31"
+        }
+      },
+      {
+        "id": "CF311",
+        "level": 2,
+        "name": {
+          "local": "Bozoum",
+          "en": "Bozoum",
+          "slug": "bozoum-cf311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.141",
+      "lon": "15.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF311_bozoum",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bozoum",
+      "en": "Bozoum",
+      "slug": "bozoum"
+    },
+    "code": {
+      "id": "CF311_bozoum",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF311",
+      "level": 2,
+      "name": {
+        "local": "Bozoum",
+        "en": "Bozoum",
+        "slug": "bozoum-cf311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF31",
+        "level": 1,
+        "name": {
+          "local": "Ouham Pendé",
+          "en": "Ouham Pendé",
+          "slug": "ouham-pend-cf31"
+        }
+      },
+      {
+        "id": "CF311",
+        "level": 2,
+        "name": {
+          "local": "Bozoum",
+          "en": "Bozoum",
+          "slug": "bozoum-cf311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.324",
+      "lon": "16.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF311_dan-gbabiri",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dan-Gbabiri",
+      "en": "Dan-Gbabiri",
+      "slug": "dan-gbabiri"
+    },
+    "code": {
+      "id": "CF311_dan-gbabiri",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF311",
+      "level": 2,
+      "name": {
+        "local": "Bozoum",
+        "en": "Bozoum",
+        "slug": "bozoum-cf311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF31",
+        "level": 1,
+        "name": {
+          "local": "Ouham Pendé",
+          "en": "Ouham Pendé",
+          "slug": "ouham-pend-cf31"
+        }
+      },
+      {
+        "id": "CF311",
+        "level": 2,
+        "name": {
+          "local": "Bozoum",
+          "en": "Bozoum",
+          "slug": "bozoum-cf311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.344",
+      "lon": "16.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF311_kouazo",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kouazo",
+      "en": "Kouazo",
+      "slug": "kouazo"
+    },
+    "code": {
+      "id": "CF311_kouazo",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF311",
+      "level": 2,
+      "name": {
+        "local": "Bozoum",
+        "en": "Bozoum",
+        "slug": "bozoum-cf311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF31",
+        "level": 1,
+        "name": {
+          "local": "Ouham Pendé",
+          "en": "Ouham Pendé",
+          "slug": "ouham-pend-cf31"
+        }
+      },
+      {
+        "id": "CF311",
+        "level": 2,
+        "name": {
+          "local": "Bozoum",
+          "en": "Bozoum",
+          "slug": "bozoum-cf311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.486",
+      "lon": "16.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF311_ouham-bac",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouham Bac",
+      "en": "Ouham Bac",
+      "slug": "ouham-bac"
+    },
+    "code": {
+      "id": "CF311_ouham-bac",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF311",
+      "level": 2,
+      "name": {
+        "local": "Bozoum",
+        "en": "Bozoum",
+        "slug": "bozoum-cf311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF31",
+        "level": 1,
+        "name": {
+          "local": "Ouham Pendé",
+          "en": "Ouham Pendé",
+          "slug": "ouham-pend-cf31"
+        }
+      },
+      {
+        "id": "CF311",
+        "level": 2,
+        "name": {
+          "local": "Bozoum",
+          "en": "Bozoum",
+          "slug": "bozoum-cf311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.611",
+      "lon": "17.062"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

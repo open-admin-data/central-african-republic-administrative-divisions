@@ -1,0 +1,30 @@
+{
+  "id": "CF52",
+  "level": 1,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Haute-Kotto",
+    "en": "Haute-Kotto",
+    "slug": "haute-kotto-cf52"
+  },
+  "code": {
+    "id": "CF52",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sub_prefecture": 4,
+    "commune": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.469",
+    "lon": "22.923"
+  },
+  "metadata": {},
+  "source": {}
+}

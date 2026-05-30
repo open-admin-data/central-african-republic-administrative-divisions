@@ -1,0 +1,47 @@
+{
+  "id": "CF112",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Damara",
+    "en": "Damara",
+    "slug": "damara-cf112"
+  },
+  "code": {
+    "id": "CF112",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF11",
+    "level": 1,
+    "name": {
+      "local": "Ombella M'Poko",
+      "en": "Ombella M'Poko",
+      "slug": "ombella-mpoko-cf11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF11",
+      "level": 1,
+      "name": {
+        "local": "Ombella M'Poko",
+        "en": "Ombella M'Poko",
+        "slug": "ombella-mpoko-cf11"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.05",
+    "lon": "18.721"
+  },
+  "metadata": {},
+  "source": {}
+}

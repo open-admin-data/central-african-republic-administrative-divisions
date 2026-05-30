@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CF625_daho-mboutou",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Daho-Mboutou",
+      "en": "Daho-Mboutou",
+      "slug": "daho-mboutou"
+    },
+    "code": {
+      "id": "CF625_daho-mboutou",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF625",
+      "level": 2,
+      "name": {
+        "local": "Bakouma",
+        "en": "Bakouma",
+        "slug": "bakouma-cf625"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF62",
+        "level": 1,
+        "name": {
+          "local": "Mbomou",
+          "en": "Mbomou",
+          "slug": "mbomou-cf62"
+        }
+      },
+      {
+        "id": "CF625",
+        "level": 2,
+        "name": {
+          "local": "Bakouma",
+          "en": "Bakouma",
+          "slug": "bakouma-cf625"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.9",
+      "lon": "21.892"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

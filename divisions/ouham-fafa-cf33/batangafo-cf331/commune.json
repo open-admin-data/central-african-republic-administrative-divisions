@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CF331_bakassa",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bakassa",
+      "en": "Bakassa",
+      "slug": "bakassa"
+    },
+    "code": {
+      "id": "CF331_bakassa",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF331",
+      "level": 2,
+      "name": {
+        "local": "Batangafo",
+        "en": "Batangafo",
+        "slug": "batangafo-cf331"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF33",
+        "level": 1,
+        "name": {
+          "local": "Ouham-Fafa",
+          "en": "Ouham-Fafa",
+          "slug": "ouham-fafa-cf33"
+        }
+      },
+      {
+        "id": "CF331",
+        "level": 2,
+        "name": {
+          "local": "Batangafo",
+          "en": "Batangafo",
+          "slug": "batangafo-cf331"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.686",
+      "lon": "17.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF331_batangafo",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Batangafo",
+      "en": "Batangafo",
+      "slug": "batangafo"
+    },
+    "code": {
+      "id": "CF331_batangafo",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF331",
+      "level": 2,
+      "name": {
+        "local": "Batangafo",
+        "en": "Batangafo",
+        "slug": "batangafo-cf331"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF33",
+        "level": 1,
+        "name": {
+          "local": "Ouham-Fafa",
+          "en": "Ouham-Fafa",
+          "slug": "ouham-fafa-cf33"
+        }
+      },
+      {
+        "id": "CF331",
+        "level": 2,
+        "name": {
+          "local": "Batangafo",
+          "en": "Batangafo",
+          "slug": "batangafo-cf331"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.294",
+      "lon": "18.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF331_bede",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bede",
+      "en": "Bede",
+      "slug": "bede"
+    },
+    "code": {
+      "id": "CF331_bede",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF331",
+      "level": 2,
+      "name": {
+        "local": "Batangafo",
+        "en": "Batangafo",
+        "slug": "batangafo-cf331"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF33",
+        "level": 1,
+        "name": {
+          "local": "Ouham-Fafa",
+          "en": "Ouham-Fafa",
+          "slug": "ouham-fafa-cf33"
+        }
+      },
+      {
+        "id": "CF331",
+        "level": 2,
+        "name": {
+          "local": "Batangafo",
+          "en": "Batangafo",
+          "slug": "batangafo-cf331"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.191",
+      "lon": "17.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF331_hama",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Hama",
+      "en": "Hama",
+      "slug": "hama"
+    },
+    "code": {
+      "id": "CF331_hama",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF331",
+      "level": 2,
+      "name": {
+        "local": "Batangafo",
+        "en": "Batangafo",
+        "slug": "batangafo-cf331"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF33",
+        "level": 1,
+        "name": {
+          "local": "Ouham-Fafa",
+          "en": "Ouham-Fafa",
+          "slug": "ouham-fafa-cf33"
+        }
+      },
+      {
+        "id": "CF331",
+        "level": 2,
+        "name": {
+          "local": "Batangafo",
+          "en": "Batangafo",
+          "slug": "batangafo-cf331"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.265",
+      "lon": "17.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF331_ouaki",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouaki",
+      "en": "Ouaki",
+      "slug": "ouaki"
+    },
+    "code": {
+      "id": "CF331_ouaki",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF331",
+      "level": 2,
+      "name": {
+        "local": "Batangafo",
+        "en": "Batangafo",
+        "slug": "batangafo-cf331"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF33",
+        "level": 1,
+        "name": {
+          "local": "Ouham-Fafa",
+          "en": "Ouham-Fafa",
+          "slug": "ouham-fafa-cf33"
+        }
+      },
+      {
+        "id": "CF331",
+        "level": 2,
+        "name": {
+          "local": "Batangafo",
+          "en": "Batangafo",
+          "slug": "batangafo-cf331"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.366",
+      "lon": "18.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF331_ouassi",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouassi",
+      "en": "Ouassi",
+      "slug": "ouassi"
+    },
+    "code": {
+      "id": "CF331_ouassi",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF331",
+      "level": 2,
+      "name": {
+        "local": "Batangafo",
+        "en": "Batangafo",
+        "slug": "batangafo-cf331"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF33",
+        "level": 1,
+        "name": {
+          "local": "Ouham-Fafa",
+          "en": "Ouham-Fafa",
+          "slug": "ouham-fafa-cf33"
+        }
+      },
+      {
+        "id": "CF331",
+        "level": 2,
+        "name": {
+          "local": "Batangafo",
+          "en": "Batangafo",
+          "slug": "batangafo-cf331"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.244",
+      "lon": "18.502"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

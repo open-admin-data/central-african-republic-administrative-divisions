@@ -1,0 +1,36 @@
+# Nana-Gribizi — Central African Republic Administrative Divisions
+
+> 3 sub-prefectures, 3 communes
+> Code: CF42
+> Coordinates: 7.19, 19.331
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Sub-prefectures
+
+### Kaga-Bandoro
+
+Code: CF421, Coordinates: 6.881, 19.282
+Communes: 3
+
+#### Botto
+
+Code: CF421_botto, Coordinates: 7.004, 18.912
+
+#### Kaga-Bandoro
+
+Code: CF421_kaga-bandoro, Coordinates: 6.996, 19.197
+
+#### Ndenga
+
+Code: CF421_ndenga, Coordinates: 6.693, 19.183
+
+### Mbrès
+
+Code: CF422, Coordinates: 6.991, 20.008
+Communes: 0
+
+### Nana-Outa
+
+Code: CF423, Coordinates: 7.632, 19.148
+Communes: 0
+

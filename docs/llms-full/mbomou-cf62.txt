@@ -1,0 +1,74 @@
+# Mbomou — Central African Republic Administrative Divisions
+
+> 5 sub-prefectures, 10 communes
+> Code: CF62
+> Coordinates: 5.501, 23.39
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Sub-prefectures
+
+### Bakouma
+
+Code: CF625, Coordinates: 5.575, 22.646
+Communes: 1
+
+#### Daho-Mboutou
+
+Code: CF625_daho-mboutou, Coordinates: 5.9, 21.892
+
+### Bangassou
+
+Code: CF621, Coordinates: 5.15, 23.451
+Communes: 4
+
+#### Bakouma
+
+Code: CF621_bakouma, Coordinates: 5.559, 22.584
+
+#### Bangassou
+
+Code: CF621_bangassou, Coordinates: 4.738, 22.842
+
+#### Sayo Niakari
+
+Code: CF621_sayo-niakari, Coordinates: 4.77, 22.706
+
+#### Zangandou
+
+Code: CF621_zangandou, Coordinates: 4.849, 23.262
+
+### Gambo
+
+Code: CF623, Coordinates: 4.694, 22.195
+Communes: 3
+
+#### Gambo
+
+Code: CF623_gambo, Coordinates: 4.723, 22.195
+
+#### Kotto-Oubangui
+
+Code: CF623_kotto-oubangui, Coordinates: 4.382, 21.76
+
+#### Ngandou
+
+Code: CF623_ngandou, Coordinates: 4.344, 22.227
+
+### Ouango
+
+Code: CF622, Coordinates: 4.422, 22.545
+Communes: 2
+
+#### Ngbandinga
+
+Code: CF622_ngbandinga, Coordinates: 4.209, 22.415
+
+#### Ouango
+
+Code: CF622_ouango, Coordinates: 4.497, 22.567
+
+### Rafai
+
+Code: CF624, Coordinates: 5.809, 24.203
+Communes: 0
+

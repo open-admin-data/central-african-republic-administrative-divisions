@@ -1,0 +1,190 @@
+[
+  {
+    "id": "CF224",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Abba",
+      "en": "Abba",
+      "slug": "abba-cf224"
+    },
+    "code": {
+      "id": "CF224",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF22",
+      "level": 1,
+      "name": {
+        "local": "Nana-Mambéré",
+        "en": "Nana-Mambéré",
+        "slug": "nana-mambr-cf22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.225",
+      "lon": "15.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF223",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Baboua",
+      "en": "Baboua",
+      "slug": "baboua-cf223"
+    },
+    "code": {
+      "id": "CF223",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF22",
+      "level": 1,
+      "name": {
+        "local": "Nana-Mambéré",
+        "en": "Nana-Mambéré",
+        "slug": "nana-mambr-cf22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.786",
+      "lon": "14.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF222",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Baoro",
+      "en": "Baoro",
+      "slug": "baoro-cf222"
+    },
+    "code": {
+      "id": "CF222",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF22",
+      "level": 1,
+      "name": {
+        "local": "Nana-Mambéré",
+        "en": "Nana-Mambéré",
+        "slug": "nana-mambr-cf22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.461",
+      "lon": "16.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF221",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bouar",
+      "en": "Bouar",
+      "slug": "bouar-cf221"
+    },
+    "code": {
+      "id": "CF221",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF22",
+      "level": 1,
+      "name": {
+        "local": "Nana-Mambéré",
+        "en": "Nana-Mambéré",
+        "slug": "nana-mambr-cf22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.957",
+      "lon": "15.478"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

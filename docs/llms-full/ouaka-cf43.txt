@@ -1,0 +1,86 @@
+# Ouaka — Central African Republic Administrative Divisions
+
+> 5 sub-prefectures, 13 communes
+> Code: CF43
+> Coordinates: 6.127, 20.749
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Sub-prefectures
+
+### Bakala
+
+Code: CF432, Coordinates: 6.565, 20.392
+Communes: 2
+
+#### Koudou-Bego
+
+Code: CF432_koudou-bego, Coordinates: 6.609, 20.391
+
+#### Mbres
+
+Code: CF432_mbres, Coordinates: 6.995, 19.858
+
+### Bambari
+
+Code: CF431, Coordinates: 5.723, 20.667
+Communes: 3
+
+#### Azengue-Mindou
+
+Code: CF431_azengue-mindou, Coordinates: 5.263, 20.327
+
+#### Ngougbia
+
+Code: CF431_ngougbia, Coordinates: 5.499, 20.847
+
+#### Pladama-Ouaka
+
+Code: CF431_pladama-ouaka, Coordinates: 5.686, 20.461
+
+### Grimari
+
+Code: CF433, Coordinates: 5.773, 19.957
+Communes: 4
+
+#### Grimari
+
+Code: CF433_grimari, Coordinates: 5.717, 20.055
+
+#### Kobadja
+
+Code: CF433_kobadja, Coordinates: 5.749, 19.687
+
+#### Lissa
+
+Code: CF433_lissa, Coordinates: 5.734, 20.183
+
+#### Pouyamba
+
+Code: CF433_pouyamba, Coordinates: 5.822, 19.78
+
+### Ippy
+
+Code: CF435, Coordinates: 6.597, 21.285
+Communes: 3
+
+#### Baidou-Ngoumbourou
+
+Code: CF435_baidou-ngoumbourou, Coordinates: 6.461, 20.98
+
+#### Bambari
+
+Code: CF435_bambari, Coordinates: 5.756, 20.677
+
+#### Danga-Gboudou
+
+Code: CF435_danga-gboudou, Coordinates: 5.956, 20.934
+
+### Kouango
+
+Code: CF434, Coordinates: 5.079, 20.431
+Communes: 1
+
+#### Kouango
+
+Code: CF434_kouango, Coordinates: 4.984, 20.208
+

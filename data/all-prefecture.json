@@ -1,0 +1,602 @@
+[
+  {
+    "id": "CF12",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Lobaye",
+      "en": "Lobaye",
+      "slug": "lobaye-cf12"
+    },
+    "code": {
+      "id": "CF12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 6,
+      "commune": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.084",
+      "lon": "17.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF22",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Nana-Mambéré",
+      "en": "Nana-Mambéré",
+      "slug": "nana-mambr-cf22"
+    },
+    "code": {
+      "id": "CF22",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 4,
+      "commune": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.699",
+      "lon": "15.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF32",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Ouham",
+      "en": "Ouham",
+      "slug": "ouham-cf32"
+    },
+    "code": {
+      "id": "CF32",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 4,
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.731",
+      "lon": "17.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF33",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Ouham-Fafa",
+      "en": "Ouham-Fafa",
+      "slug": "ouham-fafa-cf33"
+    },
+    "code": {
+      "id": "CF33",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 4,
+      "commune": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.028",
+      "lon": "18.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF41",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Kémo",
+      "en": "Kémo",
+      "slug": "kmo-cf41"
+    },
+    "code": {
+      "id": "CF41",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 4,
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.798",
+      "lon": "19.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF34",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Lim-pendé",
+      "en": "Lim-pendé",
+      "slug": "lim-pend-cf34"
+    },
+    "code": {
+      "id": "CF34",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 5,
+      "commune": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.201",
+      "lon": "16.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF31",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Ouham Pendé",
+      "en": "Ouham Pendé",
+      "slug": "ouham-pend-cf31"
+    },
+    "code": {
+      "id": "CF31",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 4,
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.113",
+      "lon": "16.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF23",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Sangha-Mbaéré",
+      "en": "Sangha-Mbaéré",
+      "slug": "sangha-mbar-cf23"
+    },
+    "code": {
+      "id": "CF23",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 3,
+      "commune": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.461",
+      "lon": "16.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF53",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Vakaga",
+      "en": "Vakaga",
+      "slug": "vakaga-cf53"
+    },
+    "code": {
+      "id": "CF53",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 4,
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.824",
+      "lon": "22.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF51",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Bamingui-Bangoran",
+      "en": "Bamingui-Bangoran",
+      "slug": "bamingui-bangoran-cf51"
+    },
+    "code": {
+      "id": "CF51",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 2,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.422",
+      "lon": "20.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF62",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Mbomou",
+      "en": "Mbomou",
+      "slug": "mbomou-cf62"
+    },
+    "code": {
+      "id": "CF62",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 5,
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.501",
+      "lon": "23.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF11",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Ombella M'Poko",
+      "en": "Ombella M'Poko",
+      "slug": "ombella-mpoko-cf11"
+    },
+    "code": {
+      "id": "CF11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 5,
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.203",
+      "lon": "17.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF61",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Basse-Kotto",
+      "en": "Basse-Kotto",
+      "slug": "basse-kotto-cf61"
+    },
+    "code": {
+      "id": "CF61",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 6,
+      "commune": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.893",
+      "lon": "21.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF52",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Haute-Kotto",
+      "en": "Haute-Kotto",
+      "slug": "haute-kotto-cf52"
+    },
+    "code": {
+      "id": "CF52",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 4,
+      "commune": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.469",
+      "lon": "22.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF21",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Mambéré-Kadéï",
+      "en": "Mambéré-Kadéï",
+      "slug": "mambr-kad-cf21"
+    },
+    "code": {
+      "id": "CF21",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 4,
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.256",
+      "lon": "15.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF24",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Mambéré",
+      "en": "Mambéré",
+      "slug": "mambr-cf24"
+    },
+    "code": {
+      "id": "CF24",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 4,
+      "commune": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.783",
+      "lon": "16.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF63",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Haut-Mbomou",
+      "en": "Haut-Mbomou",
+      "slug": "haut-mbomou-cf63"
+    },
+    "code": {
+      "id": "CF63",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 5,
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.308",
+      "lon": "25.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF42",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Nana-Gribizi",
+      "en": "Nana-Gribizi",
+      "slug": "nana-gribizi-cf42"
+    },
+    "code": {
+      "id": "CF42",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 3,
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.19",
+      "lon": "19.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF43",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Ouaka",
+      "en": "Ouaka",
+      "slug": "ouaka-cf43"
+    },
+    "code": {
+      "id": "CF43",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 5,
+      "commune": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.127",
+      "lon": "20.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF71",
+    "level": 1,
+    "level_name": {
+      "local": "Préfecture",
+      "en": "Prefecture"
+    },
+    "name": {
+      "local": "Bangui",
+      "en": "Bangui",
+      "slug": "bangui-cf71"
+    },
+    "code": {
+      "id": "CF71",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "sub_prefecture": 4,
+      "commune": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.335",
+      "lon": "18.475"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

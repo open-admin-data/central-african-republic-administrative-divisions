@@ -1,0 +1,30 @@
+{
+  "id": "CF51",
+  "level": 1,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Bamingui-Bangoran",
+    "en": "Bamingui-Bangoran",
+    "slug": "bamingui-bangoran-cf51"
+  },
+  "code": {
+    "id": "CF51",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sub_prefecture": 2,
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.422",
+    "lon": "20.574"
+  },
+  "metadata": {},
+  "source": {}
+}

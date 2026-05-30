@@ -1,0 +1,47 @@
+{
+  "id": "CF511",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Ndélé",
+    "en": "Ndélé",
+    "slug": "ndl-cf511"
+  },
+  "code": {
+    "id": "CF511",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF51",
+    "level": 1,
+    "name": {
+      "local": "Bamingui-Bangoran",
+      "en": "Bamingui-Bangoran",
+      "slug": "bamingui-bangoran-cf51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF51",
+      "level": 1,
+      "name": {
+        "local": "Bamingui-Bangoran",
+        "en": "Bamingui-Bangoran",
+        "slug": "bamingui-bangoran-cf51"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.743",
+    "lon": "20.891"
+  },
+  "metadata": {},
+  "source": {}
+}

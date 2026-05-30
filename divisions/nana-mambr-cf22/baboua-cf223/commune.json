@@ -1,0 +1,542 @@
+[
+  {
+    "id": "CF223_abba",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Abba",
+      "en": "Abba",
+      "slug": "abba"
+    },
+    "code": {
+      "id": "CF223_abba",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF223",
+      "level": 2,
+      "name": {
+        "local": "Baboua",
+        "en": "Baboua",
+        "slug": "baboua-cf223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      },
+      {
+        "id": "CF223",
+        "level": 2,
+        "name": {
+          "local": "Baboua",
+          "en": "Baboua",
+          "slug": "baboua-cf223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.282",
+      "lon": "15.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF223_baboua",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Baboua",
+      "en": "Baboua",
+      "slug": "baboua"
+    },
+    "code": {
+      "id": "CF223_baboua",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF223",
+      "level": 2,
+      "name": {
+        "local": "Baboua",
+        "en": "Baboua",
+        "slug": "baboua-cf223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      },
+      {
+        "id": "CF223",
+        "level": 2,
+        "name": {
+          "local": "Baboua",
+          "en": "Baboua",
+          "slug": "baboua-cf223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.589",
+      "lon": "14.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF223_bea-nana",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bea-Nana",
+      "en": "Bea-Nana",
+      "slug": "bea-nana"
+    },
+    "code": {
+      "id": "CF223_bea-nana",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF223",
+      "level": 2,
+      "name": {
+        "local": "Baboua",
+        "en": "Baboua",
+        "slug": "baboua-cf223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      },
+      {
+        "id": "CF223",
+        "level": 2,
+        "name": {
+          "local": "Baboua",
+          "en": "Baboua",
+          "slug": "baboua-cf223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.982",
+      "lon": "15.197"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF223_bingue",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bingue",
+      "en": "Bingue",
+      "slug": "bingue"
+    },
+    "code": {
+      "id": "CF223_bingue",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF223",
+      "level": 2,
+      "name": {
+        "local": "Baboua",
+        "en": "Baboua",
+        "slug": "baboua-cf223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      },
+      {
+        "id": "CF223",
+        "level": 2,
+        "name": {
+          "local": "Baboua",
+          "en": "Baboua",
+          "slug": "baboua-cf223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.625",
+      "lon": "15.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF223_fo",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Fo",
+      "en": "Fo",
+      "slug": "fo"
+    },
+    "code": {
+      "id": "CF223_fo",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF223",
+      "level": 2,
+      "name": {
+        "local": "Baboua",
+        "en": "Baboua",
+        "slug": "baboua-cf223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      },
+      {
+        "id": "CF223",
+        "level": 2,
+        "name": {
+          "local": "Baboua",
+          "en": "Baboua",
+          "slug": "baboua-cf223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.737",
+      "lon": "15.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF223_goudrot",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Goudrot",
+      "en": "Goudrot",
+      "slug": "goudrot"
+    },
+    "code": {
+      "id": "CF223_goudrot",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF223",
+      "level": 2,
+      "name": {
+        "local": "Baboua",
+        "en": "Baboua",
+        "slug": "baboua-cf223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      },
+      {
+        "id": "CF223",
+        "level": 2,
+        "name": {
+          "local": "Baboua",
+          "en": "Baboua",
+          "slug": "baboua-cf223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.359",
+      "lon": "14.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF223_kounde",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kounde",
+      "en": "Kounde",
+      "slug": "kounde"
+    },
+    "code": {
+      "id": "CF223_kounde",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF223",
+      "level": 2,
+      "name": {
+        "local": "Baboua",
+        "en": "Baboua",
+        "slug": "baboua-cf223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      },
+      {
+        "id": "CF223",
+        "level": 2,
+        "name": {
+          "local": "Baboua",
+          "en": "Baboua",
+          "slug": "baboua-cf223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.09",
+      "lon": "14.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF223_nadziboro",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Nadziboro",
+      "en": "Nadziboro",
+      "slug": "nadziboro"
+    },
+    "code": {
+      "id": "CF223_nadziboro",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF223",
+      "level": 2,
+      "name": {
+        "local": "Baboua",
+        "en": "Baboua",
+        "slug": "baboua-cf223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      },
+      {
+        "id": "CF223",
+        "level": 2,
+        "name": {
+          "local": "Baboua",
+          "en": "Baboua",
+          "slug": "baboua-cf223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.182",
+      "lon": "15.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF223_niem-yelewa",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Niem-Yelewa",
+      "en": "Niem-Yelewa",
+      "slug": "niem-yelewa"
+    },
+    "code": {
+      "id": "CF223_niem-yelewa",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF223",
+      "level": 2,
+      "name": {
+        "local": "Baboua",
+        "en": "Baboua",
+        "slug": "baboua-cf223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      },
+      {
+        "id": "CF223",
+        "level": 2,
+        "name": {
+          "local": "Baboua",
+          "en": "Baboua",
+          "slug": "baboua-cf223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.441",
+      "lon": "15.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF223_yenga",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yenga",
+      "en": "Yenga",
+      "slug": "yenga"
+    },
+    "code": {
+      "id": "CF223_yenga",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF223",
+      "level": 2,
+      "name": {
+        "local": "Baboua",
+        "en": "Baboua",
+        "slug": "baboua-cf223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF22",
+        "level": 1,
+        "name": {
+          "local": "Nana-Mambéré",
+          "en": "Nana-Mambéré",
+          "slug": "nana-mambr-cf22"
+        }
+      },
+      {
+        "id": "CF223",
+        "level": 2,
+        "name": {
+          "local": "Baboua",
+          "en": "Baboua",
+          "slug": "baboua-cf223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.918",
+      "lon": "15.38"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

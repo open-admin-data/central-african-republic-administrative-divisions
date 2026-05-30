@@ -1,0 +1,30 @@
+{
+  "id": "CF71",
+  "level": 1,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Bangui",
+    "en": "Bangui",
+    "slug": "bangui-cf71"
+  },
+  "code": {
+    "id": "CF71",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sub_prefecture": 4,
+    "commune": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.335",
+    "lon": "18.475"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "CF125",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Boganda",
+    "en": "Boganda",
+    "slug": "boganda-cf125"
+  },
+  "code": {
+    "id": "CF125",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF12",
+    "level": 1,
+    "name": {
+      "local": "Lobaye",
+      "en": "Lobaye",
+      "slug": "lobaye-cf12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF12",
+      "level": 1,
+      "name": {
+        "local": "Lobaye",
+        "en": "Lobaye",
+        "slug": "lobaye-cf12"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.366",
+    "lon": "17.159"
+  },
+  "metadata": {},
+  "source": {}
+}

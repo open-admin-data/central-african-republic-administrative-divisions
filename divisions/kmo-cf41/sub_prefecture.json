@@ -1,0 +1,190 @@
+[
+  {
+    "id": "CF412",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Dékoa",
+      "en": "Dékoa",
+      "slug": "dkoa-cf412"
+    },
+    "code": {
+      "id": "CF412",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF41",
+      "level": 1,
+      "name": {
+        "local": "Kémo",
+        "en": "Kémo",
+        "slug": "kmo-cf41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF41",
+        "level": 1,
+        "name": {
+          "local": "Kémo",
+          "en": "Kémo",
+          "slug": "kmo-cf41"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.233",
+      "lon": "19.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF413",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mala",
+      "en": "Mala",
+      "slug": "mala-cf413"
+    },
+    "code": {
+      "id": "CF413",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF41",
+      "level": 1,
+      "name": {
+        "local": "Kémo",
+        "en": "Kémo",
+        "slug": "kmo-cf41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF41",
+        "level": 1,
+        "name": {
+          "local": "Kémo",
+          "en": "Kémo",
+          "slug": "kmo-cf41"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.21",
+      "lon": "19.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF414",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Njoukou",
+      "en": "Njoukou",
+      "slug": "njoukou-cf414"
+    },
+    "code": {
+      "id": "CF414",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF41",
+      "level": 1,
+      "name": {
+        "local": "Kémo",
+        "en": "Kémo",
+        "slug": "kmo-cf41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF41",
+        "level": 1,
+        "name": {
+          "local": "Kémo",
+          "en": "Kémo",
+          "slug": "kmo-cf41"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.333",
+      "lon": "19.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF411",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sibut",
+      "en": "Sibut",
+      "slug": "sibut-cf411"
+    },
+    "code": {
+      "id": "CF411",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF41",
+      "level": 1,
+      "name": {
+        "local": "Kémo",
+        "en": "Kémo",
+        "slug": "kmo-cf41"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF41",
+        "level": 1,
+        "name": {
+          "local": "Kémo",
+          "en": "Kémo",
+          "slug": "kmo-cf41"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.82",
+      "lon": "19.143"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

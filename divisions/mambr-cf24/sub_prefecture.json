@@ -1,0 +1,190 @@
+[
+  {
+    "id": "CF242",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Amada-Gaza",
+      "en": "Amada-Gaza",
+      "slug": "amada-gaza-cf242"
+    },
+    "code": {
+      "id": "CF242",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF24",
+      "level": 1,
+      "name": {
+        "local": "Mambéré",
+        "en": "Mambéré",
+        "slug": "mambr-cf24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF24",
+        "level": 1,
+        "name": {
+          "local": "Mambéré",
+          "en": "Mambéré",
+          "slug": "mambr-cf24"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.822",
+      "lon": "15.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF241",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Carnot",
+      "en": "Carnot",
+      "slug": "carnot-cf241"
+    },
+    "code": {
+      "id": "CF241",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF24",
+      "level": 1,
+      "name": {
+        "local": "Mambéré",
+        "en": "Mambéré",
+        "slug": "mambr-cf24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF24",
+        "level": 1,
+        "name": {
+          "local": "Mambéré",
+          "en": "Mambéré",
+          "slug": "mambr-cf24"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.871",
+      "lon": "15.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF243",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Gadzi",
+      "en": "Gadzi",
+      "slug": "gadzi-cf243"
+    },
+    "code": {
+      "id": "CF243",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF24",
+      "level": 1,
+      "name": {
+        "local": "Mambéré",
+        "en": "Mambéré",
+        "slug": "mambr-cf24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF24",
+        "level": 1,
+        "name": {
+          "local": "Mambéré",
+          "en": "Mambéré",
+          "slug": "mambr-cf24"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.966",
+      "lon": "16.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF244",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Semkpa-Mbaéré",
+      "en": "Semkpa-Mbaéré",
+      "slug": "semkpa-mbar-cf244"
+    },
+    "code": {
+      "id": "CF244",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF24",
+      "level": 1,
+      "name": {
+        "local": "Mambéré",
+        "en": "Mambéré",
+        "slug": "mambr-cf24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF24",
+        "level": 1,
+        "name": {
+          "local": "Mambéré",
+          "en": "Mambéré",
+          "slug": "mambr-cf24"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.494",
+      "lon": "16.484"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,37 @@
+# Vakaga — Central African Republic Administrative Divisions
+
+> 4 sub-prefectures, 2 communes
+> Code: CF53
+> Coordinates: 9.824, 22.514
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Sub-prefectures
+
+### Am-Dafok
+
+Code: CF534, Coordinates: 10.269, 23.13
+Communes: 0
+
+### Birao
+
+Code: CF531, Coordinates: 10.396, 22.438
+Communes: 2
+
+#### Ouandja
+
+Code: CF531_ouandja, Coordinates: 9.677, 22.259
+
+#### Ridina
+
+Code: CF531_ridina, Coordinates: 10.335, 22.693
+
+### Ouada-Djallé
+
+Code: CF532, Coordinates: 8.975, 22.435
+Communes: 0
+
+### Ouandja
+
+Code: CF533, Coordinates: 9.673, 22.402
+Communes: 0
+

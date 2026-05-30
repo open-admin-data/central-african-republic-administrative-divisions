@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CF512_grivai-pamia",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Grivai-Pamia",
+      "en": "Grivai-Pamia",
+      "slug": "grivai-pamia"
+    },
+    "code": {
+      "id": "CF512_grivai-pamia",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF512",
+      "level": 2,
+      "name": {
+        "local": "Bamingui",
+        "en": "Bamingui",
+        "slug": "bamingui-cf512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF51",
+        "level": 1,
+        "name": {
+          "local": "Bamingui-Bangoran",
+          "en": "Bamingui-Bangoran",
+          "slug": "bamingui-bangoran-cf51"
+        }
+      },
+      {
+        "id": "CF512",
+        "level": 2,
+        "name": {
+          "local": "Bamingui",
+          "en": "Bamingui",
+          "slug": "bamingui-cf512"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.059",
+      "lon": "19.447"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

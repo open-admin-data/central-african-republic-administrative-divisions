@@ -1,0 +1,110 @@
+[
+  {
+    "id": "CF531_ouandja",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ouandja",
+      "en": "Ouandja",
+      "slug": "ouandja"
+    },
+    "code": {
+      "id": "CF531_ouandja",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF531",
+      "level": 2,
+      "name": {
+        "local": "Birao",
+        "en": "Birao",
+        "slug": "birao-cf531"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF53",
+        "level": 1,
+        "name": {
+          "local": "Vakaga",
+          "en": "Vakaga",
+          "slug": "vakaga-cf53"
+        }
+      },
+      {
+        "id": "CF531",
+        "level": 2,
+        "name": {
+          "local": "Birao",
+          "en": "Birao",
+          "slug": "birao-cf531"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.677",
+      "lon": "22.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF531_ridina",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Ridina",
+      "en": "Ridina",
+      "slug": "ridina"
+    },
+    "code": {
+      "id": "CF531_ridina",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF531",
+      "level": 2,
+      "name": {
+        "local": "Birao",
+        "en": "Birao",
+        "slug": "birao-cf531"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF53",
+        "level": 1,
+        "name": {
+          "local": "Vakaga",
+          "en": "Vakaga",
+          "slug": "vakaga-cf53"
+        }
+      },
+      {
+        "id": "CF531",
+        "level": 2,
+        "name": {
+          "local": "Birao",
+          "en": "Birao",
+          "slug": "birao-cf531"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.335",
+      "lon": "22.693"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

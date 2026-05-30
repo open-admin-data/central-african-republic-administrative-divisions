@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CF242_haute-boumbe",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Haute-Boumbe",
+      "en": "Haute-Boumbe",
+      "slug": "haute-boumbe"
+    },
+    "code": {
+      "id": "CF242_haute-boumbe",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF242",
+      "level": 2,
+      "name": {
+        "local": "Amada-Gaza",
+        "en": "Amada-Gaza",
+        "slug": "amada-gaza-cf242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF24",
+        "level": 1,
+        "name": {
+          "local": "Mambéré",
+          "en": "Mambéré",
+          "slug": "mambr-cf24"
+        }
+      },
+      {
+        "id": "CF242",
+        "level": 2,
+        "name": {
+          "local": "Amada-Gaza",
+          "en": "Amada-Gaza",
+          "slug": "amada-gaza-cf242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.812",
+      "lon": "15.122"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

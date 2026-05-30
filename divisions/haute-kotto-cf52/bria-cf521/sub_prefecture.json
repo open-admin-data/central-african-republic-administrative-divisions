@@ -1,0 +1,47 @@
+{
+  "id": "CF521",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Bria",
+    "en": "Bria",
+    "slug": "bria-cf521"
+  },
+  "code": {
+    "id": "CF521",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF52",
+    "level": 1,
+    "name": {
+      "local": "Haute-Kotto",
+      "en": "Haute-Kotto",
+      "slug": "haute-kotto-cf52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF52",
+      "level": 1,
+      "name": {
+        "local": "Haute-Kotto",
+        "en": "Haute-Kotto",
+        "slug": "haute-kotto-cf52"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.754",
+    "lon": "22.004"
+  },
+  "metadata": {},
+  "source": {}
+}

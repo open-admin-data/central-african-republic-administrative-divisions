@@ -1,0 +1,56 @@
+[
+  {
+    "id": "CF112_damara",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Damara",
+      "en": "Damara",
+      "slug": "damara"
+    },
+    "code": {
+      "id": "CF112_damara",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF112",
+      "level": 2,
+      "name": {
+        "local": "Damara",
+        "en": "Damara",
+        "slug": "damara-cf112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF11",
+        "level": 1,
+        "name": {
+          "local": "Ombella M'Poko",
+          "en": "Ombella M'Poko",
+          "slug": "ombella-mpoko-cf11"
+        }
+      },
+      {
+        "id": "CF112",
+        "level": 2,
+        "name": {
+          "local": "Damara",
+          "en": "Damara",
+          "slug": "damara-cf112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.118",
+      "lon": "18.7"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

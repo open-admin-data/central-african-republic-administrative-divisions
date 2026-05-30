@@ -1,0 +1,52 @@
+# Sangha-Mbaéré — Central African Republic Administrative Divisions
+
+> 3 sub-prefectures, 7 communes
+> Code: CF23
+> Coordinates: 3.461, 16.292
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Sub-prefectures
+
+### Bambio
+
+Code: CF232, Coordinates: 3.806, 16.787
+Communes: 2
+
+#### Basse-Mambere
+
+Code: CF232_basse-mambere, Coordinates: 4.133, 16.326
+
+#### Mbaere
+
+Code: CF232_mbaere, Coordinates: 3.878, 16.812
+
+### Bayanga
+
+Code: CF233, Coordinates: 2.93, 16.332
+Communes: 1
+
+#### Yobe-Sangha
+
+Code: CF233_yobe-sangha, Coordinates: 2.853, 16.332
+
+### Nola
+
+Code: CF231, Coordinates: 3.502, 15.965
+Communes: 4
+
+#### Basse-Kadei
+
+Code: CF231_basse-kadei, Coordinates: 3.909, 15.6
+
+#### Bilolo
+
+Code: CF231_bilolo, Coordinates: 3.47, 15.679
+
+#### Nola
+
+Code: CF231_nola, Coordinates: 3.657, 16.172
+
+#### Salo
+
+Code: CF231_salo, Coordinates: 3.095, 16.021
+

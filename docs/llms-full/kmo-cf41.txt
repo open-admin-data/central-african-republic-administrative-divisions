@@ -1,0 +1,53 @@
+# Kémo — Central African Republic Administrative Divisions
+
+> 4 sub-prefectures, 6 communes
+> Code: CF41
+> Coordinates: 5.798, 19.298
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Sub-prefectures
+
+### Dékoa
+
+Code: CF412, Coordinates: 6.233, 19.149
+Communes: 3
+
+#### Dekoa
+
+Code: CF412_dekoa, Coordinates: 6.419, 18.933
+
+#### Guiffa
+
+Code: CF412_guiffa, Coordinates: 6.17, 19.101
+
+#### Tilo
+
+Code: CF412_tilo, Coordinates: 6.321, 19.292
+
+### Mala
+
+Code: CF413, Coordinates: 6.21, 19.631
+Communes: 1
+
+#### Mala
+
+Code: CF413_mala, Coordinates: 6.247, 19.593
+
+### Njoukou
+
+Code: CF414, Coordinates: 5.333, 19.399
+Communes: 0
+
+### Sibut
+
+Code: CF411, Coordinates: 5.82, 19.143
+Communes: 2
+
+#### Ngoumbele
+
+Code: CF411_ngoumbele, Coordinates: 5.84, 19.154
+
+#### Sibut
+
+Code: CF411_sibut, Coordinates: 5.722, 19.08
+

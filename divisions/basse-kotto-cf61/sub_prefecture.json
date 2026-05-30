@@ -1,0 +1,284 @@
+[
+  {
+    "id": "CF612",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Alindao",
+      "en": "Alindao",
+      "slug": "alindao-cf612"
+    },
+    "code": {
+      "id": "CF612",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF61",
+      "level": 1,
+      "name": {
+        "local": "Basse-Kotto",
+        "en": "Basse-Kotto",
+        "slug": "basse-kotto-cf61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF61",
+        "level": 1,
+        "name": {
+          "local": "Basse-Kotto",
+          "en": "Basse-Kotto",
+          "slug": "basse-kotto-cf61"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.955",
+      "lon": "21.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF613",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kembé",
+      "en": "Kembé",
+      "slug": "kemb-cf613"
+    },
+    "code": {
+      "id": "CF613",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF61",
+      "level": 1,
+      "name": {
+        "local": "Basse-Kotto",
+        "en": "Basse-Kotto",
+        "slug": "basse-kotto-cf61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF61",
+        "level": 1,
+        "name": {
+          "local": "Basse-Kotto",
+          "en": "Basse-Kotto",
+          "slug": "basse-kotto-cf61"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.544",
+      "lon": "21.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF614",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mingala",
+      "en": "Mingala",
+      "slug": "mingala-cf614"
+    },
+    "code": {
+      "id": "CF614",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF61",
+      "level": 1,
+      "name": {
+        "local": "Basse-Kotto",
+        "en": "Basse-Kotto",
+        "slug": "basse-kotto-cf61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF61",
+        "level": 1,
+        "name": {
+          "local": "Basse-Kotto",
+          "en": "Basse-Kotto",
+          "slug": "basse-kotto-cf61"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.209",
+      "lon": "21.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF611",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mobaye",
+      "en": "Mobaye",
+      "slug": "mobaye-cf611"
+    },
+    "code": {
+      "id": "CF611",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF61",
+      "level": 1,
+      "name": {
+        "local": "Basse-Kotto",
+        "en": "Basse-Kotto",
+        "slug": "basse-kotto-cf61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF61",
+        "level": 1,
+        "name": {
+          "local": "Basse-Kotto",
+          "en": "Basse-Kotto",
+          "slug": "basse-kotto-cf61"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.495",
+      "lon": "21.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF616",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Satéma",
+      "en": "Satéma",
+      "slug": "satma-cf616"
+    },
+    "code": {
+      "id": "CF616",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF61",
+      "level": 1,
+      "name": {
+        "local": "Basse-Kotto",
+        "en": "Basse-Kotto",
+        "slug": "basse-kotto-cf61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF61",
+        "level": 1,
+        "name": {
+          "local": "Basse-Kotto",
+          "en": "Basse-Kotto",
+          "slug": "basse-kotto-cf61"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.375",
+      "lon": "21.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF615",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Zangba",
+      "en": "Zangba",
+      "slug": "zangba-cf615"
+    },
+    "code": {
+      "id": "CF615",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF61",
+      "level": 1,
+      "name": {
+        "local": "Basse-Kotto",
+        "en": "Basse-Kotto",
+        "slug": "basse-kotto-cf61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF61",
+        "level": 1,
+        "name": {
+          "local": "Basse-Kotto",
+          "en": "Basse-Kotto",
+          "slug": "basse-kotto-cf61"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.624",
+      "lon": "20.825"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

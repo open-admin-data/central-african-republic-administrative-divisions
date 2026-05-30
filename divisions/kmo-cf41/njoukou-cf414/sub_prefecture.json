@@ -1,0 +1,47 @@
+{
+  "id": "CF414",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Njoukou",
+    "en": "Njoukou",
+    "slug": "njoukou-cf414"
+  },
+  "code": {
+    "id": "CF414",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF41",
+    "level": 1,
+    "name": {
+      "local": "Kémo",
+      "en": "Kémo",
+      "slug": "kmo-cf41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF41",
+      "level": 1,
+      "name": {
+        "local": "Kémo",
+        "en": "Kémo",
+        "slug": "kmo-cf41"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.333",
+    "lon": "19.399"
+  },
+  "metadata": {},
+  "source": {}
+}

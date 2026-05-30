@@ -1,0 +1,92 @@
+# Central African Republic Administrative Divisions
+
+> Open dataset of Central African Republic's administrative hierarchy:
+> 20 prefectures, 85 sub-prefectures, 170 communes.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total prefectures: 20
+- Total sub-prefectures: 85
+- Total communes: 170
+- Coordinates: included (all levels)
+- Last updated: 2026-05-30
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All prefectures (JSON)](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/data/all-prefecture.json)
+- [All sub-prefectures (JSON)](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/data/all-sub_prefecture.json)
+- [All communes (JSON)](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/data/all-commune.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/data/schema.json)
+
+## Browse by Prefecture
+
+- [Lobaye](https://github.com/open-admin-data/central-african-republic-administrative-divisions/tree/main/divisions/lobaye-cf12/) — 6 sub-prefectures, 14 communes
+- [Nana-Mambéré](https://github.com/open-admin-data/central-african-republic-administrative-divisions/tree/main/divisions/nana-mambr-cf22/) — 4 sub-prefectures, 17 communes
+- [Ouham](https://github.com/open-admin-data/central-african-republic-administrative-divisions/tree/main/divisions/ouham-cf32/) — 4 sub-prefectures, 6 communes
+- [Ouham-Fafa](https://github.com/open-admin-data/central-african-republic-administrative-divisions/tree/main/divisions/ouham-fafa-cf33/) — 4 sub-prefectures, 12 communes
+- [Kémo](https://github.com/open-admin-data/central-african-republic-administrative-divisions/tree/main/divisions/kmo-cf41/) — 4 sub-prefectures, 6 communes
+- [Lim-pendé](https://github.com/open-admin-data/central-african-republic-administrative-divisions/tree/main/divisions/lim-pend-cf34/) — 5 sub-prefectures, 14 communes
+- [Ouham Pendé](https://github.com/open-admin-data/central-african-republic-administrative-divisions/tree/main/divisions/ouham-pend-cf31/) — 4 sub-prefectures, 9 communes
+- [Sangha-Mbaéré](https://github.com/open-admin-data/central-african-republic-administrative-divisions/tree/main/divisions/sangha-mbar-cf23/) — 3 sub-prefectures, 7 communes
+- [Vakaga](https://github.com/open-admin-data/central-african-republic-administrative-divisions/tree/main/divisions/vakaga-cf53/) — 4 sub-prefectures, 2 communes
+- [Bamingui-Bangoran](https://github.com/open-admin-data/central-african-republic-administrative-divisions/tree/main/divisions/bamingui-bangoran-cf51/) — 2 sub-prefectures, 4 communes
+- [Mbomou](https://github.com/open-admin-data/central-african-republic-administrative-divisions/tree/main/divisions/mbomou-cf62/) — 5 sub-prefectures, 10 communes
+- [Ombella M&#39;Poko](https://github.com/open-admin-data/central-african-republic-administrative-divisions/tree/main/divisions/ombella-mpoko-cf11/) — 5 sub-prefectures, 5 communes
+- [Basse-Kotto](https://github.com/open-admin-data/central-african-republic-administrative-divisions/tree/main/divisions/basse-kotto-cf61/) — 6 sub-prefectures, 15 communes
+- [Haute-Kotto](https://github.com/open-admin-data/central-african-republic-administrative-divisions/tree/main/divisions/haute-kotto-cf52/) — 4 sub-prefectures, 10 communes
+- [Mambéré-Kadéï](https://github.com/open-admin-data/central-african-republic-administrative-divisions/tree/main/divisions/mambr-kad-cf21/) — 4 sub-prefectures, 6 communes
+- [Mambéré](https://github.com/open-admin-data/central-african-republic-administrative-divisions/tree/main/divisions/mambr-cf24/) — 4 sub-prefectures, 4 communes
+- [Haut-Mbomou](https://github.com/open-admin-data/central-african-republic-administrative-divisions/tree/main/divisions/haut-mbomou-cf63/) — 5 sub-prefectures, 5 communes
+- [Nana-Gribizi](https://github.com/open-admin-data/central-african-republic-administrative-divisions/tree/main/divisions/nana-gribizi-cf42/) — 3 sub-prefectures, 3 communes
+- [Ouaka](https://github.com/open-admin-data/central-african-republic-administrative-divisions/tree/main/divisions/ouaka-cf43/) — 5 sub-prefectures, 13 communes
+- [Bangui](https://github.com/open-admin-data/central-african-republic-administrative-divisions/tree/main/divisions/bangui-cf71/) — 4 sub-prefectures, 8 communes
+
+## Per-Prefecture Full Data
+
+- [Lobaye](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/docs/llms-full/lobaye-cf12.txt)
+- [Nana-Mambéré](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/docs/llms-full/nana-mambr-cf22.txt)
+- [Ouham](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/docs/llms-full/ouham-cf32.txt)
+- [Ouham-Fafa](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/docs/llms-full/ouham-fafa-cf33.txt)
+- [Kémo](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/docs/llms-full/kmo-cf41.txt)
+- [Lim-pendé](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/docs/llms-full/lim-pend-cf34.txt)
+- [Ouham Pendé](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/docs/llms-full/ouham-pend-cf31.txt)
+- [Sangha-Mbaéré](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/docs/llms-full/sangha-mbar-cf23.txt)
+- [Vakaga](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/docs/llms-full/vakaga-cf53.txt)
+- [Bamingui-Bangoran](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/docs/llms-full/bamingui-bangoran-cf51.txt)
+- [Mbomou](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/docs/llms-full/mbomou-cf62.txt)
+- [Ombella M&#39;Poko](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/docs/llms-full/ombella-mpoko-cf11.txt)
+- [Basse-Kotto](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/docs/llms-full/basse-kotto-cf61.txt)
+- [Haute-Kotto](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/docs/llms-full/haute-kotto-cf52.txt)
+- [Mambéré-Kadéï](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/docs/llms-full/mambr-kad-cf21.txt)
+- [Mambéré](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/docs/llms-full/mambr-cf24.txt)
+- [Haut-Mbomou](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/docs/llms-full/haut-mbomou-cf63.txt)
+- [Nana-Gribizi](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/docs/llms-full/nana-gribizi-cf42.txt)
+- [Ouaka](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/docs/llms-full/ouaka-cf43.txt)
+- [Bangui](https://raw.githubusercontent.com/open-admin-data/central-african-republic-administrative-divisions/main/docs/llms-full/bangui-cf71.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (prefecture), 2 (sub-prefecture), 3 (commune)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Central African Republic Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/central-african-republic-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

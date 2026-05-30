@@ -1,0 +1,190 @@
+[
+  {
+    "id": "CF534",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Am-Dafok",
+      "en": "Am-Dafok",
+      "slug": "am-dafok-cf534"
+    },
+    "code": {
+      "id": "CF534",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF53",
+      "level": 1,
+      "name": {
+        "local": "Vakaga",
+        "en": "Vakaga",
+        "slug": "vakaga-cf53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF53",
+        "level": 1,
+        "name": {
+          "local": "Vakaga",
+          "en": "Vakaga",
+          "slug": "vakaga-cf53"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.269",
+      "lon": "23.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF531",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Birao",
+      "en": "Birao",
+      "slug": "birao-cf531"
+    },
+    "code": {
+      "id": "CF531",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF53",
+      "level": 1,
+      "name": {
+        "local": "Vakaga",
+        "en": "Vakaga",
+        "slug": "vakaga-cf53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF53",
+        "level": 1,
+        "name": {
+          "local": "Vakaga",
+          "en": "Vakaga",
+          "slug": "vakaga-cf53"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.396",
+      "lon": "22.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF532",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouada-Djallé",
+      "en": "Ouada-Djallé",
+      "slug": "ouada-djall-cf532"
+    },
+    "code": {
+      "id": "CF532",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF53",
+      "level": 1,
+      "name": {
+        "local": "Vakaga",
+        "en": "Vakaga",
+        "slug": "vakaga-cf53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF53",
+        "level": 1,
+        "name": {
+          "local": "Vakaga",
+          "en": "Vakaga",
+          "slug": "vakaga-cf53"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.975",
+      "lon": "22.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF533",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Ouandja",
+      "en": "Ouandja",
+      "slug": "ouandja-cf533"
+    },
+    "code": {
+      "id": "CF533",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF53",
+      "level": 1,
+      "name": {
+        "local": "Vakaga",
+        "en": "Vakaga",
+        "slug": "vakaga-cf53"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF53",
+        "level": 1,
+        "name": {
+          "local": "Vakaga",
+          "en": "Vakaga",
+          "slug": "vakaga-cf53"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.673",
+      "lon": "22.402"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

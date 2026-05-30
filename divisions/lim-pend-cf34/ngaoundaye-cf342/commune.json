@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CF342_dilouki",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Dilouki",
+      "en": "Dilouki",
+      "slug": "dilouki"
+    },
+    "code": {
+      "id": "CF342_dilouki",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF342",
+      "level": 2,
+      "name": {
+        "local": "Ngaoundaye",
+        "en": "Ngaoundaye",
+        "slug": "ngaoundaye-cf342"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF34",
+        "level": 1,
+        "name": {
+          "local": "Lim-pendé",
+          "en": "Lim-pendé",
+          "slug": "lim-pend-cf34"
+        }
+      },
+      {
+        "id": "CF342",
+        "level": 2,
+        "name": {
+          "local": "Ngaoundaye",
+          "en": "Ngaoundaye",
+          "slug": "ngaoundaye-cf342"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.28",
+      "lon": "15.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF342_kodi",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kodi",
+      "en": "Kodi",
+      "slug": "kodi"
+    },
+    "code": {
+      "id": "CF342_kodi",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF342",
+      "level": 2,
+      "name": {
+        "local": "Ngaoundaye",
+        "en": "Ngaoundaye",
+        "slug": "ngaoundaye-cf342"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF34",
+        "level": 1,
+        "name": {
+          "local": "Lim-pendé",
+          "en": "Lim-pendé",
+          "slug": "lim-pend-cf34"
+        }
+      },
+      {
+        "id": "CF342",
+        "level": 2,
+        "name": {
+          "local": "Ngaoundaye",
+          "en": "Ngaoundaye",
+          "slug": "ngaoundaye-cf342"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.278",
+      "lon": "15.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF342_lim",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Lim",
+      "en": "Lim",
+      "slug": "lim"
+    },
+    "code": {
+      "id": "CF342_lim",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF342",
+      "level": 2,
+      "name": {
+        "local": "Ngaoundaye",
+        "en": "Ngaoundaye",
+        "slug": "ngaoundaye-cf342"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF34",
+        "level": 1,
+        "name": {
+          "local": "Lim-pendé",
+          "en": "Lim-pendé",
+          "slug": "lim-pend-cf34"
+        }
+      },
+      {
+        "id": "CF342",
+        "level": 2,
+        "name": {
+          "local": "Ngaoundaye",
+          "en": "Ngaoundaye",
+          "slug": "ngaoundaye-cf342"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.397",
+      "lon": "15.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF342_loura",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Loura",
+      "en": "Loura",
+      "slug": "loura"
+    },
+    "code": {
+      "id": "CF342_loura",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF342",
+      "level": 2,
+      "name": {
+        "local": "Ngaoundaye",
+        "en": "Ngaoundaye",
+        "slug": "ngaoundaye-cf342"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF34",
+        "level": 1,
+        "name": {
+          "local": "Lim-pendé",
+          "en": "Lim-pendé",
+          "slug": "lim-pend-cf34"
+        }
+      },
+      {
+        "id": "CF342",
+        "level": 2,
+        "name": {
+          "local": "Ngaoundaye",
+          "en": "Ngaoundaye",
+          "slug": "ngaoundaye-cf342"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.065",
+      "lon": "15.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF342_mbili",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mbili",
+      "en": "Mbili",
+      "slug": "mbili"
+    },
+    "code": {
+      "id": "CF342_mbili",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF342",
+      "level": 2,
+      "name": {
+        "local": "Ngaoundaye",
+        "en": "Ngaoundaye",
+        "slug": "ngaoundaye-cf342"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF34",
+        "level": 1,
+        "name": {
+          "local": "Lim-pendé",
+          "en": "Lim-pendé",
+          "slug": "lim-pend-cf34"
+        }
+      },
+      {
+        "id": "CF342",
+        "level": 2,
+        "name": {
+          "local": "Ngaoundaye",
+          "en": "Ngaoundaye",
+          "slug": "ngaoundaye-cf342"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.139",
+      "lon": "15.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF342_yeme",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Yeme",
+      "en": "Yeme",
+      "slug": "yeme"
+    },
+    "code": {
+      "id": "CF342_yeme",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF342",
+      "level": 2,
+      "name": {
+        "local": "Ngaoundaye",
+        "en": "Ngaoundaye",
+        "slug": "ngaoundaye-cf342"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF34",
+        "level": 1,
+        "name": {
+          "local": "Lim-pendé",
+          "en": "Lim-pendé",
+          "slug": "lim-pend-cf34"
+        }
+      },
+      {
+        "id": "CF342",
+        "level": 2,
+        "name": {
+          "local": "Ngaoundaye",
+          "en": "Ngaoundaye",
+          "slug": "ngaoundaye-cf342"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.37",
+      "lon": "15.997"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

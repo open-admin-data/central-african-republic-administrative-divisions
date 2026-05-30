@@ -1,0 +1,237 @@
+[
+  {
+    "id": "CF632",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bambouti",
+      "en": "Bambouti",
+      "slug": "bambouti-cf632"
+    },
+    "code": {
+      "id": "CF632",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF63",
+      "level": 1,
+      "name": {
+        "local": "Haut-Mbomou",
+        "en": "Haut-Mbomou",
+        "slug": "haut-mbomou-cf63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF63",
+        "level": 1,
+        "name": {
+          "local": "Haut-Mbomou",
+          "en": "Haut-Mbomou",
+          "slug": "haut-mbomou-cf63"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.46",
+      "lon": "26.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF634",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Djémah",
+      "en": "Djémah",
+      "slug": "djmah-cf634"
+    },
+    "code": {
+      "id": "CF634",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF63",
+      "level": 1,
+      "name": {
+        "local": "Haut-Mbomou",
+        "en": "Haut-Mbomou",
+        "slug": "haut-mbomou-cf63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF63",
+        "level": 1,
+        "name": {
+          "local": "Haut-Mbomou",
+          "en": "Haut-Mbomou",
+          "slug": "haut-mbomou-cf63"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.783",
+      "lon": "25.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF635",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mboki",
+      "en": "Mboki",
+      "slug": "mboki-cf635"
+    },
+    "code": {
+      "id": "CF635",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF63",
+      "level": 1,
+      "name": {
+        "local": "Haut-Mbomou",
+        "en": "Haut-Mbomou",
+        "slug": "haut-mbomou-cf63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF63",
+        "level": 1,
+        "name": {
+          "local": "Haut-Mbomou",
+          "en": "Haut-Mbomou",
+          "slug": "haut-mbomou-cf63"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.4",
+      "lon": "25.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF631",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Obo",
+      "en": "Obo",
+      "slug": "obo-cf631"
+    },
+    "code": {
+      "id": "CF631",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF63",
+      "level": 1,
+      "name": {
+        "local": "Haut-Mbomou",
+        "en": "Haut-Mbomou",
+        "slug": "haut-mbomou-cf63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF63",
+        "level": 1,
+        "name": {
+          "local": "Haut-Mbomou",
+          "en": "Haut-Mbomou",
+          "slug": "haut-mbomou-cf63"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.533",
+      "lon": "26.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF633",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Zémio",
+      "en": "Zémio",
+      "slug": "zmio-cf633"
+    },
+    "code": {
+      "id": "CF633",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF63",
+      "level": 1,
+      "name": {
+        "local": "Haut-Mbomou",
+        "en": "Haut-Mbomou",
+        "slug": "haut-mbomou-cf63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF63",
+        "level": 1,
+        "name": {
+          "local": "Haut-Mbomou",
+          "en": "Haut-Mbomou",
+          "slug": "haut-mbomou-cf63"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.404",
+      "lon": "25.24"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,99 @@
+# Basse-Kotto — Central African Republic Administrative Divisions
+
+> 6 sub-prefectures, 15 communes
+> Code: CF61
+> Coordinates: 4.893, 21.361
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Sub-prefectures
+
+### Alindao
+
+Code: CF612, Coordinates: 4.955, 21.224
+Communes: 2
+
+#### Bangui-Kette
+
+Code: CF612_bangui-kette, Coordinates: 5.064, 21.134
+
+#### Yambeie-Ewou
+
+Code: CF612_yambeie-ewou, Coordinates: 5.457, 21.192
+
+### Kembé
+
+Code: CF613, Coordinates: 4.544, 21.595
+Communes: 1
+
+#### Kembe
+
+Code: CF613_kembe, Coordinates: 4.639, 21.624
+
+### Mingala
+
+Code: CF614, Coordinates: 5.209, 21.591
+Communes: 6
+
+#### Alindao
+
+Code: CF614_alindao, Coordinates: 5.05, 21.217
+
+#### Bakou
+
+Code: CF614_bakou, Coordinates: 4.838, 21.206
+
+#### Guiligui
+
+Code: CF614_guiligui, Coordinates: 4.922, 21.381
+
+#### Kotto
+
+Code: CF614_kotto, Coordinates: 5.233, 21.683
+
+#### Seliba
+
+Code: CF614_seliba, Coordinates: 5.392, 21.412
+
+#### Siriki
+
+Code: CF614_siriki, Coordinates: 4.944, 21.694
+
+### Mobaye
+
+Code: CF611, Coordinates: 4.495, 21.217
+Communes: 2
+
+#### Mbeima
+
+Code: CF611_mbeima, Coordinates: 4.558, 21.224
+
+#### Mobaye
+
+Code: CF611_mobaye, Coordinates: 4.368, 21.202
+
+### Satéma
+
+Code: CF616, Coordinates: 4.375, 21.956
+Communes: 1
+
+#### Mboui
+
+Code: CF616_mboui, Coordinates: 4.481, 21.558
+
+### Zangba
+
+Code: CF615, Coordinates: 4.624, 20.825
+Communes: 3
+
+#### Cochio-Toulou
+
+Code: CF615_cochio-toulou, Coordinates: 4.982, 20.62
+
+#### Ouambe
+
+Code: CF615_ouambe, Coordinates: 4.619, 20.928
+
+#### Yabongo
+
+Code: CF615_yabongo, Coordinates: 4.707, 20.75
+

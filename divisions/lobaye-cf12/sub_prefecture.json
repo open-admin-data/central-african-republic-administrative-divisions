@@ -1,0 +1,284 @@
+[
+  {
+    "id": "CF123",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Boda",
+      "en": "Boda",
+      "slug": "boda-cf123"
+    },
+    "code": {
+      "id": "CF123",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF12",
+      "level": 1,
+      "name": {
+        "local": "Lobaye",
+        "en": "Lobaye",
+        "slug": "lobaye-cf12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.073",
+      "lon": "17.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF124",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Boganangone",
+      "en": "Boganangone",
+      "slug": "boganangone-cf124"
+    },
+    "code": {
+      "id": "CF124",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF12",
+      "level": 1,
+      "name": {
+        "local": "Lobaye",
+        "en": "Lobaye",
+        "slug": "lobaye-cf12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.736",
+      "lon": "17.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF125",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Boganda",
+      "en": "Boganda",
+      "slug": "boganda-cf125"
+    },
+    "code": {
+      "id": "CF125",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF12",
+      "level": 1,
+      "name": {
+        "local": "Lobaye",
+        "en": "Lobaye",
+        "slug": "lobaye-cf12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.366",
+      "lon": "17.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF121",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mbaïki",
+      "en": "Mbaïki",
+      "slug": "mbaki-cf121"
+    },
+    "code": {
+      "id": "CF121",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF12",
+      "level": 1,
+      "name": {
+        "local": "Lobaye",
+        "en": "Lobaye",
+        "slug": "lobaye-cf12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.143",
+      "lon": "17.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF126",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Moboma",
+      "en": "Moboma",
+      "slug": "moboma-cf126"
+    },
+    "code": {
+      "id": "CF126",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF12",
+      "level": 1,
+      "name": {
+        "local": "Lobaye",
+        "en": "Lobaye",
+        "slug": "lobaye-cf12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.689",
+      "lon": "17.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF122",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Mongoumba",
+      "en": "Mongoumba",
+      "slug": "mongoumba-cf122"
+    },
+    "code": {
+      "id": "CF122",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF12",
+      "level": 1,
+      "name": {
+        "local": "Lobaye",
+        "en": "Lobaye",
+        "slug": "lobaye-cf12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF12",
+        "level": 1,
+        "name": {
+          "local": "Lobaye",
+          "en": "Lobaye",
+          "slug": "lobaye-cf12"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.758",
+      "lon": "18.475"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

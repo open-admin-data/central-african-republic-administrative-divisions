@@ -1,0 +1,47 @@
+{
+  "id": "CF532",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Ouada-Djallé",
+    "en": "Ouada-Djallé",
+    "slug": "ouada-djall-cf532"
+  },
+  "code": {
+    "id": "CF532",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF53",
+    "level": 1,
+    "name": {
+      "local": "Vakaga",
+      "en": "Vakaga",
+      "slug": "vakaga-cf53"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF53",
+      "level": 1,
+      "name": {
+        "local": "Vakaga",
+        "en": "Vakaga",
+        "slug": "vakaga-cf53"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.975",
+    "lon": "22.435"
+  },
+  "metadata": {},
+  "source": {}
+}

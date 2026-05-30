@@ -1,0 +1,47 @@
+{
+  "id": "CF332",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Kabo",
+    "en": "Kabo",
+    "slug": "kabo-cf332"
+  },
+  "code": {
+    "id": "CF332",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF33",
+    "level": 1,
+    "name": {
+      "local": "Ouham-Fafa",
+      "en": "Ouham-Fafa",
+      "slug": "ouham-fafa-cf33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF33",
+      "level": 1,
+      "name": {
+        "local": "Ouham-Fafa",
+        "en": "Ouham-Fafa",
+        "slug": "ouham-fafa-cf33"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.692",
+    "lon": "18.501"
+  },
+  "metadata": {},
+  "source": {}
+}

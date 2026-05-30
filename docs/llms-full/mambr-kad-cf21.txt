@@ -1,0 +1,53 @@
+# Mambéré-Kadéï — Central African Republic Administrative Divisions
+
+> 4 sub-prefectures, 6 communes
+> Code: CF21
+> Coordinates: 4.256, 15.673
+> Last updated: 2026-05-30. License: CC-BY-4.0.
+
+## Sub-prefectures
+
+### Berbérati
+
+Code: CF211, Coordinates: 4.291, 15.896
+Communes: 4
+
+#### Basse-Batouri
+
+Code: CF211_basse-batouri, Coordinates: 4.076, 15.856
+
+#### Haute-Batouri
+
+Code: CF211_haute-batouri, Coordinates: 4.525, 15.885
+
+#### Ouakanga
+
+Code: CF211_ouakanga, Coordinates: 4.37, 15.532
+
+#### Senkpa-Mbaere
+
+Code: CF211_senkpa-mbaere, Coordinates: 4.506, 16.5
+
+### Dédé-Mokouba
+
+Code: CF216, Coordinates: 3.883, 15.287
+Communes: 1
+
+#### Haute-Kade
+
+Code: CF216_haute-kade, Coordinates: 3.866, 15.267
+
+### Gamboula
+
+Code: CF212, Coordinates: 4.395, 15.128
+Communes: 1
+
+#### Basse-Boumne
+
+Code: CF212_basse-boumne, Coordinates: 4.352, 15.081
+
+### Sosso-Nakombo
+
+Code: CF215, Coordinates: 3.897, 15.498
+Communes: 0
+

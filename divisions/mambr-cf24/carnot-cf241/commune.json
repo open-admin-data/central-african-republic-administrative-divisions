@@ -1,0 +1,164 @@
+[
+  {
+    "id": "CF241_carnot",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Carnot",
+      "en": "Carnot",
+      "slug": "carnot"
+    },
+    "code": {
+      "id": "CF241_carnot",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF241",
+      "level": 2,
+      "name": {
+        "local": "Carnot",
+        "en": "Carnot",
+        "slug": "carnot-cf241"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF24",
+        "level": 1,
+        "name": {
+          "local": "Mambéré",
+          "en": "Mambéré",
+          "slug": "mambr-cf24"
+        }
+      },
+      {
+        "id": "CF241",
+        "level": 2,
+        "name": {
+          "local": "Carnot",
+          "en": "Carnot",
+          "slug": "carnot-cf241"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.897",
+      "lon": "15.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF241_mbali",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Mbali",
+      "en": "Mbali",
+      "slug": "mbali"
+    },
+    "code": {
+      "id": "CF241_mbali",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF241",
+      "level": 2,
+      "name": {
+        "local": "Carnot",
+        "en": "Carnot",
+        "slug": "carnot-cf241"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF24",
+        "level": 1,
+        "name": {
+          "local": "Mambéré",
+          "en": "Mambéré",
+          "slug": "mambr-cf24"
+        }
+      },
+      {
+        "id": "CF241",
+        "level": 2,
+        "name": {
+          "local": "Carnot",
+          "en": "Carnot",
+          "slug": "carnot-cf241"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.133",
+      "lon": "16.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF241_topia",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Topia",
+      "en": "Topia",
+      "slug": "topia"
+    },
+    "code": {
+      "id": "CF241_topia",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF241",
+      "level": 2,
+      "name": {
+        "local": "Carnot",
+        "en": "Carnot",
+        "slug": "carnot-cf241"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF24",
+        "level": 1,
+        "name": {
+          "local": "Mambéré",
+          "en": "Mambéré",
+          "slug": "mambr-cf24"
+        }
+      },
+      {
+        "id": "CF241",
+        "level": 2,
+        "name": {
+          "local": "Carnot",
+          "en": "Carnot",
+          "slug": "carnot-cf241"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.805",
+      "lon": "16.577"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "id": "CF23",
+  "level": 1,
+  "level_name": {
+    "local": "Préfecture",
+    "en": "Prefecture"
+  },
+  "name": {
+    "local": "Sangha-Mbaéré",
+    "en": "Sangha-Mbaéré",
+    "slug": "sangha-mbar-cf23"
+  },
+  "code": {
+    "id": "CF23",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "sub_prefecture": 3,
+    "commune": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.461",
+    "lon": "16.292"
+  },
+  "metadata": {},
+  "source": {}
+}

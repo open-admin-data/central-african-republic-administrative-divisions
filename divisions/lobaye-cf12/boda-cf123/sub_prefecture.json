@@ -1,0 +1,47 @@
+{
+  "id": "CF123",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Boda",
+    "en": "Boda",
+    "slug": "boda-cf123"
+  },
+  "code": {
+    "id": "CF123",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF12",
+    "level": 1,
+    "name": {
+      "local": "Lobaye",
+      "en": "Lobaye",
+      "slug": "lobaye-cf12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF12",
+      "level": 1,
+      "name": {
+        "local": "Lobaye",
+        "en": "Lobaye",
+        "slug": "lobaye-cf12"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.073",
+    "lon": "17.317"
+  },
+  "metadata": {},
+  "source": {}
+}

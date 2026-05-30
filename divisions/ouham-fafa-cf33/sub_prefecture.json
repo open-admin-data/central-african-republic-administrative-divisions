@@ -1,0 +1,190 @@
+[
+  {
+    "id": "CF331",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Batangafo",
+      "en": "Batangafo",
+      "slug": "batangafo-cf331"
+    },
+    "code": {
+      "id": "CF331",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF33",
+      "level": 1,
+      "name": {
+        "local": "Ouham-Fafa",
+        "en": "Ouham-Fafa",
+        "slug": "ouham-fafa-cf33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF33",
+        "level": 1,
+        "name": {
+          "local": "Ouham-Fafa",
+          "en": "Ouham-Fafa",
+          "slug": "ouham-fafa-cf33"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.346",
+      "lon": "17.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF333",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Bouca",
+      "en": "Bouca",
+      "slug": "bouca-cf333"
+    },
+    "code": {
+      "id": "CF333",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF33",
+      "level": 1,
+      "name": {
+        "local": "Ouham-Fafa",
+        "en": "Ouham-Fafa",
+        "slug": "ouham-fafa-cf33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF33",
+        "level": 1,
+        "name": {
+          "local": "Ouham-Fafa",
+          "en": "Ouham-Fafa",
+          "slug": "ouham-fafa-cf33"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.372",
+      "lon": "18.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF332",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Kabo",
+      "en": "Kabo",
+      "slug": "kabo-cf332"
+    },
+    "code": {
+      "id": "CF332",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF33",
+      "level": 1,
+      "name": {
+        "local": "Ouham-Fafa",
+        "en": "Ouham-Fafa",
+        "slug": "ouham-fafa-cf33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF33",
+        "level": 1,
+        "name": {
+          "local": "Ouham-Fafa",
+          "en": "Ouham-Fafa",
+          "slug": "ouham-fafa-cf33"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 1
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.692",
+      "lon": "18.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF334",
+    "level": 2,
+    "level_name": {
+      "local": "Sous-préfecture",
+      "en": "Sub-prefecture"
+    },
+    "name": {
+      "local": "Sido",
+      "en": "Sido",
+      "slug": "sido-cf334"
+    },
+    "code": {
+      "id": "CF334",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF33",
+      "level": 1,
+      "name": {
+        "local": "Ouham-Fafa",
+        "en": "Ouham-Fafa",
+        "slug": "ouham-fafa-cf33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF33",
+        "level": 1,
+        "name": {
+          "local": "Ouham-Fafa",
+          "en": "Ouham-Fafa",
+          "slug": "ouham-fafa-cf33"
+        }
+      }
+    ],
+    "children_count": {
+      "commune": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.181",
+      "lon": "18.896"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

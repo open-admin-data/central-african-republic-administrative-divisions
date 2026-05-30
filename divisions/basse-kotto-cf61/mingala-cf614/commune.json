@@ -1,0 +1,326 @@
+[
+  {
+    "id": "CF614_alindao",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Alindao",
+      "en": "Alindao",
+      "slug": "alindao"
+    },
+    "code": {
+      "id": "CF614_alindao",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF614",
+      "level": 2,
+      "name": {
+        "local": "Mingala",
+        "en": "Mingala",
+        "slug": "mingala-cf614"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF61",
+        "level": 1,
+        "name": {
+          "local": "Basse-Kotto",
+          "en": "Basse-Kotto",
+          "slug": "basse-kotto-cf61"
+        }
+      },
+      {
+        "id": "CF614",
+        "level": 2,
+        "name": {
+          "local": "Mingala",
+          "en": "Mingala",
+          "slug": "mingala-cf614"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.05",
+      "lon": "21.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF614_bakou",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Bakou",
+      "en": "Bakou",
+      "slug": "bakou"
+    },
+    "code": {
+      "id": "CF614_bakou",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF614",
+      "level": 2,
+      "name": {
+        "local": "Mingala",
+        "en": "Mingala",
+        "slug": "mingala-cf614"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF61",
+        "level": 1,
+        "name": {
+          "local": "Basse-Kotto",
+          "en": "Basse-Kotto",
+          "slug": "basse-kotto-cf61"
+        }
+      },
+      {
+        "id": "CF614",
+        "level": 2,
+        "name": {
+          "local": "Mingala",
+          "en": "Mingala",
+          "slug": "mingala-cf614"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.838",
+      "lon": "21.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF614_guiligui",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Guiligui",
+      "en": "Guiligui",
+      "slug": "guiligui"
+    },
+    "code": {
+      "id": "CF614_guiligui",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF614",
+      "level": 2,
+      "name": {
+        "local": "Mingala",
+        "en": "Mingala",
+        "slug": "mingala-cf614"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF61",
+        "level": 1,
+        "name": {
+          "local": "Basse-Kotto",
+          "en": "Basse-Kotto",
+          "slug": "basse-kotto-cf61"
+        }
+      },
+      {
+        "id": "CF614",
+        "level": 2,
+        "name": {
+          "local": "Mingala",
+          "en": "Mingala",
+          "slug": "mingala-cf614"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.922",
+      "lon": "21.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF614_kotto",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Kotto",
+      "en": "Kotto",
+      "slug": "kotto"
+    },
+    "code": {
+      "id": "CF614_kotto",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF614",
+      "level": 2,
+      "name": {
+        "local": "Mingala",
+        "en": "Mingala",
+        "slug": "mingala-cf614"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF61",
+        "level": 1,
+        "name": {
+          "local": "Basse-Kotto",
+          "en": "Basse-Kotto",
+          "slug": "basse-kotto-cf61"
+        }
+      },
+      {
+        "id": "CF614",
+        "level": 2,
+        "name": {
+          "local": "Mingala",
+          "en": "Mingala",
+          "slug": "mingala-cf614"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.233",
+      "lon": "21.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF614_seliba",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Seliba",
+      "en": "Seliba",
+      "slug": "seliba"
+    },
+    "code": {
+      "id": "CF614_seliba",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF614",
+      "level": 2,
+      "name": {
+        "local": "Mingala",
+        "en": "Mingala",
+        "slug": "mingala-cf614"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF61",
+        "level": 1,
+        "name": {
+          "local": "Basse-Kotto",
+          "en": "Basse-Kotto",
+          "slug": "basse-kotto-cf61"
+        }
+      },
+      {
+        "id": "CF614",
+        "level": 2,
+        "name": {
+          "local": "Mingala",
+          "en": "Mingala",
+          "slug": "mingala-cf614"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.392",
+      "lon": "21.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "CF614_siriki",
+    "level": 3,
+    "level_name": {
+      "local": "Commune",
+      "en": "Commune"
+    },
+    "name": {
+      "local": "Siriki",
+      "en": "Siriki",
+      "slug": "siriki"
+    },
+    "code": {
+      "id": "CF614_siriki",
+      "iso": null
+    },
+    "parent": {
+      "id": "CF614",
+      "level": 2,
+      "name": {
+        "local": "Mingala",
+        "en": "Mingala",
+        "slug": "mingala-cf614"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "CF61",
+        "level": 1,
+        "name": {
+          "local": "Basse-Kotto",
+          "en": "Basse-Kotto",
+          "slug": "basse-kotto-cf61"
+        }
+      },
+      {
+        "id": "CF614",
+        "level": 2,
+        "name": {
+          "local": "Mingala",
+          "en": "Mingala",
+          "slug": "mingala-cf614"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.944",
+      "lon": "21.694"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

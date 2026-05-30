@@ -1,0 +1,47 @@
+{
+  "id": "CF522",
+  "level": 2,
+  "level_name": {
+    "local": "Sous-préfecture",
+    "en": "Sub-prefecture"
+  },
+  "name": {
+    "local": "Ouadda",
+    "en": "Ouadda",
+    "slug": "ouadda-cf522"
+  },
+  "code": {
+    "id": "CF522",
+    "iso": null
+  },
+  "parent": {
+    "id": "CF52",
+    "level": 1,
+    "name": {
+      "local": "Haute-Kotto",
+      "en": "Haute-Kotto",
+      "slug": "haute-kotto-cf52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "CF52",
+      "level": 1,
+      "name": {
+        "local": "Haute-Kotto",
+        "en": "Haute-Kotto",
+        "slug": "haute-kotto-cf52"
+      }
+    }
+  ],
+  "children_count": {
+    "commune": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.911",
+    "lon": "22.295"
+  },
+  "metadata": {},
+  "source": {}
+}
