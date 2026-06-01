@@ -26,5 +26,9 @@
     "lon": "19.331"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cf/prefectures/nana-gribizi-cf42/",
+    "api": "https://openadmindata.org/api/cf/"
+  }
 }

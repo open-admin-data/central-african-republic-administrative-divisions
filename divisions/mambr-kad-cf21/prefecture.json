@@ -26,5 +26,9 @@
     "lon": "15.673"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cf/prefectures/mambr-kad-cf21/",
+    "api": "https://openadmindata.org/api/cf/"
+  }
 }

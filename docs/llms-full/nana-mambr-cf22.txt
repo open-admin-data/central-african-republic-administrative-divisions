@@ -3,7 +3,7 @@
 > 4 sub-prefectures, 17 communes
 > Code: CF22
 > Coordinates: 5.699, 15.379
-> Last updated: 2026-05-30. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Sub-prefectures
 

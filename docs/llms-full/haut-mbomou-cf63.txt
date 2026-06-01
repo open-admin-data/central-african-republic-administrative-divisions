@@ -3,7 +3,7 @@
 > 5 sub-prefectures, 5 communes
 > Code: CF63
 > Coordinates: 6.308, 25.588
-> Last updated: 2026-05-30. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Sub-prefectures
 

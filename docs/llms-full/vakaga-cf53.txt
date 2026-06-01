@@ -3,7 +3,7 @@
 > 4 sub-prefectures, 2 communes
 > Code: CF53
 > Coordinates: 9.824, 22.514
-> Last updated: 2026-05-30. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Sub-prefectures
 

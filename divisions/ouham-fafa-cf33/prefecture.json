@@ -26,5 +26,9 @@
     "lon": "18.271"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cf/prefectures/ouham-fafa-cf33/",
+    "api": "https://openadmindata.org/api/cf/"
+  }
 }

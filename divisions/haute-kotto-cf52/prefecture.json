@@ -26,5 +26,9 @@
     "lon": "22.923"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cf/prefectures/haute-kotto-cf52/",
+    "api": "https://openadmindata.org/api/cf/"
+  }
 }

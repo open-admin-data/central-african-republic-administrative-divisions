@@ -26,5 +26,9 @@
     "lon": "15.379"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cf/prefectures/nana-mambr-cf22/",
+    "api": "https://openadmindata.org/api/cf/"
+  }
 }

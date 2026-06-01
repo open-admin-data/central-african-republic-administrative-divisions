@@ -3,7 +3,7 @@
 > 5 sub-prefectures, 5 communes
 > Code: CF11
 > Coordinates: 5.203, 17.943
-> Last updated: 2026-05-30. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Sub-prefectures
 

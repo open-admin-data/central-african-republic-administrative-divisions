@@ -26,5 +26,9 @@
     "lon": "18.475"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cf/prefectures/bangui-cf71/",
+    "api": "https://openadmindata.org/api/cf/"
+  }
 }

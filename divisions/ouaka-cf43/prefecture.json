@@ -26,5 +26,9 @@
     "lon": "20.749"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cf/prefectures/ouaka-cf43/",
+    "api": "https://openadmindata.org/api/cf/"
+  }
 }

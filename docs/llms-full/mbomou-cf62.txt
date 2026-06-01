@@ -3,7 +3,7 @@
 > 5 sub-prefectures, 10 communes
 > Code: CF62
 > Coordinates: 5.501, 23.39
-> Last updated: 2026-05-30. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Sub-prefectures
 

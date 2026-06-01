@@ -3,7 +3,7 @@
 > 6 sub-prefectures, 15 communes
 > Code: CF61
 > Coordinates: 4.893, 21.361
-> Last updated: 2026-05-30. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Sub-prefectures
 

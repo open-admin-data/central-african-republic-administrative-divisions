@@ -3,7 +3,7 @@
 > 4 sub-prefectures, 4 communes
 > Code: CF24
 > Coordinates: 4.783, 16.511
-> Last updated: 2026-05-30. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Sub-prefectures
 

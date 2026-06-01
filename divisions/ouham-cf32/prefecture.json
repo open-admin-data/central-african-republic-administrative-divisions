@@ -26,5 +26,9 @@
     "lon": "17.281"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cf/prefectures/ouham-cf32/",
+    "api": "https://openadmindata.org/api/cf/"
+  }
 }

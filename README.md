@@ -12,7 +12,7 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-05-30 |
+| Last Updated | 2026-06-01 |
 | Website | [openadmindata.org/cf](https://openadmindata.org/cf/) |
 | API | [openadmindata.org/api/cf](https://openadmindata.org/api/cf/) |
 

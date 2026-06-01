@@ -10,7 +10,7 @@
 - Total sub-prefectures: 85
 - Total communes: 170
 - Coordinates: included (all levels)
-- Last updated: 2026-05-30
+- Last updated: 2026-06-01
 - License: CC-BY-4.0
 
 ## Aggregate Data Files

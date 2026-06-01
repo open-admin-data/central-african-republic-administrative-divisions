@@ -3,7 +3,7 @@
 > 4 sub-prefectures, 6 communes
 > Code: CF41
 > Coordinates: 5.798, 19.298
-> Last updated: 2026-05-30. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Sub-prefectures
 

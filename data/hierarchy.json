@@ -1,3487 +1,3490 @@
-[
-  {
-    "id": "CF12",
-    "name": {
-      "local": "Lobaye",
-      "en": "Lobaye",
-      "slug": "lobaye-cf12"
-    },
-    "code": {
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/cf/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/central-african-republic-administrative-divisions",
+  "data": [
+    {
       "id": "CF12",
-      "iso": null
-    },
-    "sub_prefecture": [
-      {
-        "id": "CF121",
-        "name": {
-          "local": "Mbaïki",
-          "en": "Mbaïki",
-          "slug": "mbaki-cf121"
-        },
-        "code": {
+      "name": {
+        "local": "Lobaye",
+        "en": "Lobaye",
+        "slug": "lobaye-cf12"
+      },
+      "code": {
+        "id": "CF12",
+        "iso": null
+      },
+      "sub_prefecture": [
+        {
           "id": "CF121",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF121_bogongo-gaza",
-            "name": {
-              "local": "Bogongo Gaza",
-              "en": "Bogongo Gaza",
-              "slug": "bogongo-gaza"
-            },
-            "code": {
+          "name": {
+            "local": "Mbaïki",
+            "en": "Mbaïki",
+            "slug": "mbaki-cf121"
+          },
+          "code": {
+            "id": "CF121",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF121_bogongo-gaza",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF121_mbaiki",
-            "name": {
-              "local": "Mbaiki",
-              "en": "Mbaiki",
-              "slug": "mbaiki"
+              "name": {
+                "local": "Bogongo Gaza",
+                "en": "Bogongo Gaza",
+                "slug": "bogongo-gaza"
+              },
+              "code": {
+                "id": "CF121_bogongo-gaza",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF121_mbaiki",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF121_mbata",
-            "name": {
-              "local": "Mbata",
-              "en": "Mbata",
-              "slug": "mbata"
+              "name": {
+                "local": "Mbaiki",
+                "en": "Mbaiki",
+                "slug": "mbaiki"
+              },
+              "code": {
+                "id": "CF121_mbaiki",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF121_mbata",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF121_bale-loko",
-            "name": {
-              "local": "Bale-Loko",
-              "en": "Bale-Loko",
-              "slug": "bale-loko"
+              "name": {
+                "local": "Mbata",
+                "en": "Mbata",
+                "slug": "mbata"
+              },
+              "code": {
+                "id": "CF121_mbata",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF121_bale-loko",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF121_nola",
-            "name": {
-              "local": "Nola",
-              "en": "Nola",
-              "slug": "nola"
+              "name": {
+                "local": "Bale-Loko",
+                "en": "Bale-Loko",
+                "slug": "bale-loko"
+              },
+              "code": {
+                "id": "CF121_bale-loko",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF121_nola",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF121_bimbo",
-            "name": {
-              "local": "Bimbo",
-              "en": "Bimbo",
-              "slug": "bimbo"
+              "name": {
+                "local": "Nola",
+                "en": "Nola",
+                "slug": "nola"
+              },
+              "code": {
+                "id": "CF121_nola",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF121_bimbo",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF121_lesse",
-            "name": {
-              "local": "Lesse",
-              "en": "Lesse",
-              "slug": "lesse"
+              "name": {
+                "local": "Bimbo",
+                "en": "Bimbo",
+                "slug": "bimbo"
+              },
+              "code": {
+                "id": "CF121_bimbo",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF121_lesse",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF121_pissa",
-            "name": {
-              "local": "Pissa",
-              "en": "Pissa",
-              "slug": "pissa"
+              "name": {
+                "local": "Lesse",
+                "en": "Lesse",
+                "slug": "lesse"
+              },
+              "code": {
+                "id": "CF121_lesse",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF121_pissa",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF121_moboma",
-            "name": {
-              "local": "Moboma",
-              "en": "Moboma",
-              "slug": "moboma"
+              "name": {
+                "local": "Pissa",
+                "en": "Pissa",
+                "slug": "pissa"
+              },
+              "code": {
+                "id": "CF121_pissa",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF121_moboma",
-              "iso": null
+              "name": {
+                "local": "Moboma",
+                "en": "Moboma",
+                "slug": "moboma"
+              },
+              "code": {
+                "id": "CF121_moboma",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF123",
-        "name": {
-          "local": "Boda",
-          "en": "Boda",
-          "slug": "boda-cf123"
+          ]
         },
-        "code": {
+        {
           "id": "CF123",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF123_lobaye",
-            "name": {
-              "local": "Lobaye",
-              "en": "Lobaye",
-              "slug": "lobaye"
-            },
-            "code": {
+          "name": {
+            "local": "Boda",
+            "en": "Boda",
+            "slug": "boda-cf123"
+          },
+          "code": {
+            "id": "CF123",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF123_lobaye",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF123_boganda",
-            "name": {
-              "local": "Boganda",
-              "en": "Boganda",
-              "slug": "boganda"
+              "name": {
+                "local": "Lobaye",
+                "en": "Lobaye",
+                "slug": "lobaye"
+              },
+              "code": {
+                "id": "CF123_lobaye",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF123_boganda",
-              "iso": null
+              "name": {
+                "local": "Boganda",
+                "en": "Boganda",
+                "slug": "boganda"
+              },
+              "code": {
+                "id": "CF123_boganda",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF122",
-        "name": {
-          "local": "Mongoumba",
-          "en": "Mongoumba",
-          "slug": "mongoumba-cf122"
+          ]
         },
-        "code": {
+        {
           "id": "CF122",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF122_mongoumba",
-            "name": {
-              "local": "Mongoumba",
-              "en": "Mongoumba",
-              "slug": "mongoumba"
-            },
-            "code": {
+          "name": {
+            "local": "Mongoumba",
+            "en": "Mongoumba",
+            "slug": "mongoumba-cf122"
+          },
+          "code": {
+            "id": "CF122",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF122_mongoumba",
-              "iso": null
+              "name": {
+                "local": "Mongoumba",
+                "en": "Mongoumba",
+                "slug": "mongoumba"
+              },
+              "code": {
+                "id": "CF122_mongoumba",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF125",
-        "name": {
-          "local": "Boganda",
-          "en": "Boganda",
-          "slug": "boganda-cf125"
+          ]
         },
-        "code": {
+        {
           "id": "CF125",
-          "iso": null
+          "name": {
+            "local": "Boganda",
+            "en": "Boganda",
+            "slug": "boganda-cf125"
+          },
+          "code": {
+            "id": "CF125",
+            "iso": null
+          },
+          "commune": []
         },
-        "commune": []
-      },
-      {
-        "id": "CF124",
-        "name": {
-          "local": "Boganangone",
-          "en": "Boganangone",
-          "slug": "boganangone-cf124"
-        },
-        "code": {
+        {
           "id": "CF124",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF124_boganangone",
-            "name": {
-              "local": "Boganangone",
-              "en": "Boganangone",
-              "slug": "boganangone"
-            },
-            "code": {
+          "name": {
+            "local": "Boganangone",
+            "en": "Boganangone",
+            "slug": "boganangone-cf124"
+          },
+          "code": {
+            "id": "CF124",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF124_boganangone",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF124_la-mbi",
-            "name": {
-              "local": "La Mbi",
-              "en": "La Mbi",
-              "slug": "la-mbi"
+              "name": {
+                "local": "Boganangone",
+                "en": "Boganangone",
+                "slug": "boganangone"
+              },
+              "code": {
+                "id": "CF124_boganangone",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF124_la-mbi",
-              "iso": null
+              "name": {
+                "local": "La Mbi",
+                "en": "La Mbi",
+                "slug": "la-mbi"
+              },
+              "code": {
+                "id": "CF124_la-mbi",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF126",
-        "name": {
-          "local": "Moboma",
-          "en": "Moboma",
-          "slug": "moboma-cf126"
+          ]
         },
-        "code": {
+        {
           "id": "CF126",
-          "iso": null
-        },
-        "commune": []
-      }
-    ]
-  },
-  {
-    "id": "CF22",
-    "name": {
-      "local": "Nana-Mambéré",
-      "en": "Nana-Mambéré",
-      "slug": "nana-mambr-cf22"
+          "name": {
+            "local": "Moboma",
+            "en": "Moboma",
+            "slug": "moboma-cf126"
+          },
+          "code": {
+            "id": "CF126",
+            "iso": null
+          },
+          "commune": []
+        }
+      ]
     },
-    "code": {
+    {
       "id": "CF22",
-      "iso": null
-    },
-    "sub_prefecture": [
-      {
-        "id": "CF223",
-        "name": {
-          "local": "Baboua",
-          "en": "Baboua",
-          "slug": "baboua-cf223"
-        },
-        "code": {
+      "name": {
+        "local": "Nana-Mambéré",
+        "en": "Nana-Mambéré",
+        "slug": "nana-mambr-cf22"
+      },
+      "code": {
+        "id": "CF22",
+        "iso": null
+      },
+      "sub_prefecture": [
+        {
           "id": "CF223",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF223_fo",
-            "name": {
-              "local": "Fo",
-              "en": "Fo",
-              "slug": "fo"
-            },
-            "code": {
+          "name": {
+            "local": "Baboua",
+            "en": "Baboua",
+            "slug": "baboua-cf223"
+          },
+          "code": {
+            "id": "CF223",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF223_fo",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF223_kounde",
-            "name": {
-              "local": "Kounde",
-              "en": "Kounde",
-              "slug": "kounde"
+              "name": {
+                "local": "Fo",
+                "en": "Fo",
+                "slug": "fo"
+              },
+              "code": {
+                "id": "CF223_fo",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF223_kounde",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF223_yenga",
-            "name": {
-              "local": "Yenga",
-              "en": "Yenga",
-              "slug": "yenga"
+              "name": {
+                "local": "Kounde",
+                "en": "Kounde",
+                "slug": "kounde"
+              },
+              "code": {
+                "id": "CF223_kounde",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF223_yenga",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF223_nadziboro",
-            "name": {
-              "local": "Nadziboro",
-              "en": "Nadziboro",
-              "slug": "nadziboro"
+              "name": {
+                "local": "Yenga",
+                "en": "Yenga",
+                "slug": "yenga"
+              },
+              "code": {
+                "id": "CF223_yenga",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF223_nadziboro",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF223_niem-yelewa",
-            "name": {
-              "local": "Niem-Yelewa",
-              "en": "Niem-Yelewa",
-              "slug": "niem-yelewa"
+              "name": {
+                "local": "Nadziboro",
+                "en": "Nadziboro",
+                "slug": "nadziboro"
+              },
+              "code": {
+                "id": "CF223_nadziboro",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF223_niem-yelewa",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF223_bingue",
-            "name": {
-              "local": "Bingue",
-              "en": "Bingue",
-              "slug": "bingue"
+              "name": {
+                "local": "Niem-Yelewa",
+                "en": "Niem-Yelewa",
+                "slug": "niem-yelewa"
+              },
+              "code": {
+                "id": "CF223_niem-yelewa",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF223_bingue",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF223_baboua",
-            "name": {
-              "local": "Baboua",
-              "en": "Baboua",
-              "slug": "baboua"
+              "name": {
+                "local": "Bingue",
+                "en": "Bingue",
+                "slug": "bingue"
+              },
+              "code": {
+                "id": "CF223_bingue",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF223_baboua",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF223_abba",
-            "name": {
-              "local": "Abba",
-              "en": "Abba",
-              "slug": "abba"
+              "name": {
+                "local": "Baboua",
+                "en": "Baboua",
+                "slug": "baboua"
+              },
+              "code": {
+                "id": "CF223_baboua",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF223_abba",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF223_goudrot",
-            "name": {
-              "local": "Goudrot",
-              "en": "Goudrot",
-              "slug": "goudrot"
+              "name": {
+                "local": "Abba",
+                "en": "Abba",
+                "slug": "abba"
+              },
+              "code": {
+                "id": "CF223_abba",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF223_goudrot",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF223_bea-nana",
-            "name": {
-              "local": "Bea-Nana",
-              "en": "Bea-Nana",
-              "slug": "bea-nana"
+              "name": {
+                "local": "Goudrot",
+                "en": "Goudrot",
+                "slug": "goudrot"
+              },
+              "code": {
+                "id": "CF223_goudrot",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF223_bea-nana",
-              "iso": null
+              "name": {
+                "local": "Bea-Nana",
+                "en": "Bea-Nana",
+                "slug": "bea-nana"
+              },
+              "code": {
+                "id": "CF223_bea-nana",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF221",
-        "name": {
-          "local": "Bouar",
-          "en": "Bouar",
-          "slug": "bouar-cf221"
+          ]
         },
-        "code": {
+        {
           "id": "CF221",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF221_bocaranga",
-            "name": {
-              "local": "Bocaranga",
-              "en": "Bocaranga",
-              "slug": "bocaranga"
-            },
-            "code": {
+          "name": {
+            "local": "Bouar",
+            "en": "Bouar",
+            "slug": "bouar-cf221"
+          },
+          "code": {
+            "id": "CF221",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF221_bocaranga",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF221_koui",
-            "name": {
-              "local": "Koui",
-              "en": "Koui",
-              "slug": "koui"
+              "name": {
+                "local": "Bocaranga",
+                "en": "Bocaranga",
+                "slug": "bocaranga"
+              },
+              "code": {
+                "id": "CF221_bocaranga",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF221_koui",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF221_doaka-koursou",
-            "name": {
-              "local": "Doaka-Koursou",
-              "en": "Doaka-Koursou",
-              "slug": "doaka-koursou"
+              "name": {
+                "local": "Koui",
+                "en": "Koui",
+                "slug": "koui"
+              },
+              "code": {
+                "id": "CF221_koui",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF221_doaka-koursou",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF221_zotoua-bangarem",
-            "name": {
-              "local": "Zotoua-Bangarem",
-              "en": "Zotoua-Bangarem",
-              "slug": "zotoua-bangarem"
+              "name": {
+                "local": "Doaka-Koursou",
+                "en": "Doaka-Koursou",
+                "slug": "doaka-koursou"
+              },
+              "code": {
+                "id": "CF221_doaka-koursou",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF221_zotoua-bangarem",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF221_herman-brousse",
-            "name": {
-              "local": "Herman-Brousse",
-              "en": "Herman-Brousse",
-              "slug": "herman-brousse"
+              "name": {
+                "local": "Zotoua-Bangarem",
+                "en": "Zotoua-Bangarem",
+                "slug": "zotoua-bangarem"
+              },
+              "code": {
+                "id": "CF221_zotoua-bangarem",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF221_herman-brousse",
-              "iso": null
+              "name": {
+                "local": "Herman-Brousse",
+                "en": "Herman-Brousse",
+                "slug": "herman-brousse"
+              },
+              "code": {
+                "id": "CF221_herman-brousse",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF224",
-        "name": {
-          "local": "Abba",
-          "en": "Abba",
-          "slug": "abba-cf224"
+          ]
         },
-        "code": {
+        {
           "id": "CF224",
-          "iso": null
+          "name": {
+            "local": "Abba",
+            "en": "Abba",
+            "slug": "abba-cf224"
+          },
+          "code": {
+            "id": "CF224",
+            "iso": null
+          },
+          "commune": []
         },
-        "commune": []
-      },
-      {
-        "id": "CF222",
-        "name": {
-          "local": "Baoro",
-          "en": "Baoro",
-          "slug": "baoro-cf222"
-        },
-        "code": {
+        {
           "id": "CF222",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF222_yoro-samba-bougoulou",
-            "name": {
-              "local": "Yoro-Samba Bougoulou",
-              "en": "Yoro-Samba Bougoulou",
-              "slug": "yoro-samba-bougoulou"
-            },
-            "code": {
+          "name": {
+            "local": "Baoro",
+            "en": "Baoro",
+            "slug": "baoro-cf222"
+          },
+          "code": {
+            "id": "CF222",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF222_yoro-samba-bougoulou",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF222_bawi-tedoa",
-            "name": {
-              "local": "Bawi Tedoa",
-              "en": "Bawi Tedoa",
-              "slug": "bawi-tedoa"
+              "name": {
+                "local": "Yoro-Samba Bougoulou",
+                "en": "Yoro-Samba Bougoulou",
+                "slug": "yoro-samba-bougoulou"
+              },
+              "code": {
+                "id": "CF222_yoro-samba-bougoulou",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF222_bawi-tedoa",
-              "iso": null
+              "name": {
+                "local": "Bawi Tedoa",
+                "en": "Bawi Tedoa",
+                "slug": "bawi-tedoa"
+              },
+              "code": {
+                "id": "CF222_bawi-tedoa",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "CF32",
-    "name": {
-      "local": "Ouham",
-      "en": "Ouham",
-      "slug": "ouham-cf32"
+          ]
+        }
+      ]
     },
-    "code": {
+    {
       "id": "CF32",
-      "iso": null
-    },
-    "sub_prefecture": [
-      {
-        "id": "CF321",
-        "name": {
-          "local": "Bossangoa",
-          "en": "Bossangoa",
-          "slug": "bossangoa-cf321"
-        },
-        "code": {
+      "name": {
+        "local": "Ouham",
+        "en": "Ouham",
+        "slug": "ouham-cf32"
+      },
+      "code": {
+        "id": "CF32",
+        "iso": null
+      },
+      "sub_prefecture": [
+        {
           "id": "CF321",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF321_bossangoa",
-            "name": {
-              "local": "Bossangoa",
-              "en": "Bossangoa",
-              "slug": "bossangoa"
-            },
-            "code": {
+          "name": {
+            "local": "Bossangoa",
+            "en": "Bossangoa",
+            "slug": "bossangoa-cf321"
+          },
+          "code": {
+            "id": "CF321",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF321_bossangoa",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF321_soumbe",
-            "name": {
-              "local": "Soumbe",
-              "en": "Soumbe",
-              "slug": "soumbe"
+              "name": {
+                "local": "Bossangoa",
+                "en": "Bossangoa",
+                "slug": "bossangoa"
+              },
+              "code": {
+                "id": "CF321_bossangoa",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF321_soumbe",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF321_ndoro-mboli",
-            "name": {
-              "local": "Ndoro Mboli",
-              "en": "Ndoro Mboli",
-              "slug": "ndoro-mboli"
+              "name": {
+                "local": "Soumbe",
+                "en": "Soumbe",
+                "slug": "soumbe"
+              },
+              "code": {
+                "id": "CF321_soumbe",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF321_ndoro-mboli",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF321_koro-mpoko",
-            "name": {
-              "local": "Koro-Mpoko",
-              "en": "Koro-Mpoko",
-              "slug": "koro-mpoko"
+              "name": {
+                "local": "Ndoro Mboli",
+                "en": "Ndoro Mboli",
+                "slug": "ndoro-mboli"
+              },
+              "code": {
+                "id": "CF321_ndoro-mboli",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF321_koro-mpoko",
-              "iso": null
+              "name": {
+                "local": "Koro-Mpoko",
+                "en": "Koro-Mpoko",
+                "slug": "koro-mpoko"
+              },
+              "code": {
+                "id": "CF321_koro-mpoko",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF323",
-        "name": {
-          "local": "Markounda",
-          "en": "Markounda",
-          "slug": "markounda-cf323"
+          ]
         },
-        "code": {
+        {
           "id": "CF323",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF323_nana-markounda",
-            "name": {
-              "local": "Nana Markounda",
-              "en": "Nana Markounda",
-              "slug": "nana-markounda"
-            },
-            "code": {
+          "name": {
+            "local": "Markounda",
+            "en": "Markounda",
+            "slug": "markounda-cf323"
+          },
+          "code": {
+            "id": "CF323",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF323_nana-markounda",
-              "iso": null
+              "name": {
+                "local": "Nana Markounda",
+                "en": "Nana Markounda",
+                "slug": "nana-markounda"
+              },
+              "code": {
+                "id": "CF323_nana-markounda",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF322",
-        "name": {
-          "local": "Nana-Bakassa",
-          "en": "Nana-Bakassa",
-          "slug": "nana-bakassa-cf322"
+          ]
         },
-        "code": {
+        {
           "id": "CF322",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF322_nana-bakassa",
-            "name": {
-              "local": "Nana-Bakassa",
-              "en": "Nana-Bakassa",
-              "slug": "nana-bakassa"
-            },
-            "code": {
+          "name": {
+            "local": "Nana-Bakassa",
+            "en": "Nana-Bakassa",
+            "slug": "nana-bakassa-cf322"
+          },
+          "code": {
+            "id": "CF322",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF322_nana-bakassa",
-              "iso": null
+              "name": {
+                "local": "Nana-Bakassa",
+                "en": "Nana-Bakassa",
+                "slug": "nana-bakassa"
+              },
+              "code": {
+                "id": "CF322_nana-bakassa",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF324",
-        "name": {
-          "local": "Nanga-Boguila",
-          "en": "Nanga-Boguila",
-          "slug": "nanga-boguila-cf324"
+          ]
         },
-        "code": {
+        {
           "id": "CF324",
-          "iso": null
-        },
-        "commune": []
-      }
-    ]
-  },
-  {
-    "id": "CF33",
-    "name": {
-      "local": "Ouham-Fafa",
-      "en": "Ouham-Fafa",
-      "slug": "ouham-fafa-cf33"
+          "name": {
+            "local": "Nanga-Boguila",
+            "en": "Nanga-Boguila",
+            "slug": "nanga-boguila-cf324"
+          },
+          "code": {
+            "id": "CF324",
+            "iso": null
+          },
+          "commune": []
+        }
+      ]
     },
-    "code": {
+    {
       "id": "CF33",
-      "iso": null
-    },
-    "sub_prefecture": [
-      {
-        "id": "CF333",
-        "name": {
-          "local": "Bouca",
-          "en": "Bouca",
-          "slug": "bouca-cf333"
-        },
-        "code": {
+      "name": {
+        "local": "Ouham-Fafa",
+        "en": "Ouham-Fafa",
+        "slug": "ouham-fafa-cf33"
+      },
+      "code": {
+        "id": "CF33",
+        "iso": null
+      },
+      "sub_prefecture": [
+        {
           "id": "CF333",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF333_ben-zambe",
-            "name": {
-              "local": "Ben Zambe",
-              "en": "Ben Zambe",
-              "slug": "ben-zambe"
-            },
-            "code": {
+          "name": {
+            "local": "Bouca",
+            "en": "Bouca",
+            "slug": "bouca-cf333"
+          },
+          "code": {
+            "id": "CF333",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF333_ben-zambe",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF333_ouham-fafa",
-            "name": {
-              "local": "Ouham Fafa",
-              "en": "Ouham Fafa",
-              "slug": "ouham-fafa"
+              "name": {
+                "local": "Ben Zambe",
+                "en": "Ben Zambe",
+                "slug": "ben-zambe"
+              },
+              "code": {
+                "id": "CF333_ben-zambe",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF333_ouham-fafa",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF333_fafa-boungou",
-            "name": {
-              "local": "Fafa Boungou",
-              "en": "Fafa Boungou",
-              "slug": "fafa-boungou"
+              "name": {
+                "local": "Ouham Fafa",
+                "en": "Ouham Fafa",
+                "slug": "ouham-fafa"
+              },
+              "code": {
+                "id": "CF333_ouham-fafa",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF333_fafa-boungou",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF333_bouca-bobo",
-            "name": {
-              "local": "Bouca Bobo",
-              "en": "Bouca Bobo",
-              "slug": "bouca-bobo"
+              "name": {
+                "local": "Fafa Boungou",
+                "en": "Fafa Boungou",
+                "slug": "fafa-boungou"
+              },
+              "code": {
+                "id": "CF333_fafa-boungou",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF333_bouca-bobo",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF333_lady-gbawi",
-            "name": {
-              "local": "Lady Gbawi",
-              "en": "Lady Gbawi",
-              "slug": "lady-gbawi"
+              "name": {
+                "local": "Bouca Bobo",
+                "en": "Bouca Bobo",
+                "slug": "bouca-bobo"
+              },
+              "code": {
+                "id": "CF333_bouca-bobo",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF333_lady-gbawi",
-              "iso": null
+              "name": {
+                "local": "Lady Gbawi",
+                "en": "Lady Gbawi",
+                "slug": "lady-gbawi"
+              },
+              "code": {
+                "id": "CF333_lady-gbawi",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF331",
-        "name": {
-          "local": "Batangafo",
-          "en": "Batangafo",
-          "slug": "batangafo-cf331"
+          ]
         },
-        "code": {
+        {
           "id": "CF331",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF331_batangafo",
-            "name": {
-              "local": "Batangafo",
-              "en": "Batangafo",
-              "slug": "batangafo"
-            },
-            "code": {
+          "name": {
+            "local": "Batangafo",
+            "en": "Batangafo",
+            "slug": "batangafo-cf331"
+          },
+          "code": {
+            "id": "CF331",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF331_batangafo",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF331_bede",
-            "name": {
-              "local": "Bede",
-              "en": "Bede",
-              "slug": "bede"
+              "name": {
+                "local": "Batangafo",
+                "en": "Batangafo",
+                "slug": "batangafo"
+              },
+              "code": {
+                "id": "CF331_batangafo",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF331_bede",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF331_hama",
-            "name": {
-              "local": "Hama",
-              "en": "Hama",
-              "slug": "hama"
+              "name": {
+                "local": "Bede",
+                "en": "Bede",
+                "slug": "bede"
+              },
+              "code": {
+                "id": "CF331_bede",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF331_hama",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF331_ouaki",
-            "name": {
-              "local": "Ouaki",
-              "en": "Ouaki",
-              "slug": "ouaki"
+              "name": {
+                "local": "Hama",
+                "en": "Hama",
+                "slug": "hama"
+              },
+              "code": {
+                "id": "CF331_hama",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF331_ouaki",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF331_bakassa",
-            "name": {
-              "local": "Bakassa",
-              "en": "Bakassa",
-              "slug": "bakassa"
+              "name": {
+                "local": "Ouaki",
+                "en": "Ouaki",
+                "slug": "ouaki"
+              },
+              "code": {
+                "id": "CF331_ouaki",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF331_bakassa",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF331_ouassi",
-            "name": {
-              "local": "Ouassi",
-              "en": "Ouassi",
-              "slug": "ouassi"
+              "name": {
+                "local": "Bakassa",
+                "en": "Bakassa",
+                "slug": "bakassa"
+              },
+              "code": {
+                "id": "CF331_bakassa",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF331_ouassi",
-              "iso": null
+              "name": {
+                "local": "Ouassi",
+                "en": "Ouassi",
+                "slug": "ouassi"
+              },
+              "code": {
+                "id": "CF331_ouassi",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF332",
-        "name": {
-          "local": "Kabo",
-          "en": "Kabo",
-          "slug": "kabo-cf332"
+          ]
         },
-        "code": {
+        {
           "id": "CF332",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF332_sido",
-            "name": {
-              "local": "Sido",
-              "en": "Sido",
-              "slug": "sido"
-            },
-            "code": {
+          "name": {
+            "local": "Kabo",
+            "en": "Kabo",
+            "slug": "kabo-cf332"
+          },
+          "code": {
+            "id": "CF332",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF332_sido",
-              "iso": null
+              "name": {
+                "local": "Sido",
+                "en": "Sido",
+                "slug": "sido"
+              },
+              "code": {
+                "id": "CF332_sido",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF334",
-        "name": {
-          "local": "Sido",
-          "en": "Sido",
-          "slug": "sido-cf334"
+          ]
         },
-        "code": {
+        {
           "id": "CF334",
-          "iso": null
-        },
-        "commune": []
-      }
-    ]
-  },
-  {
-    "id": "CF41",
-    "name": {
-      "local": "Kémo",
-      "en": "Kémo",
-      "slug": "kmo-cf41"
+          "name": {
+            "local": "Sido",
+            "en": "Sido",
+            "slug": "sido-cf334"
+          },
+          "code": {
+            "id": "CF334",
+            "iso": null
+          },
+          "commune": []
+        }
+      ]
     },
-    "code": {
+    {
       "id": "CF41",
-      "iso": null
-    },
-    "sub_prefecture": [
-      {
-        "id": "CF411",
-        "name": {
-          "local": "Sibut",
-          "en": "Sibut",
-          "slug": "sibut-cf411"
-        },
-        "code": {
+      "name": {
+        "local": "Kémo",
+        "en": "Kémo",
+        "slug": "kmo-cf41"
+      },
+      "code": {
+        "id": "CF41",
+        "iso": null
+      },
+      "sub_prefecture": [
+        {
           "id": "CF411",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF411_sibut",
-            "name": {
-              "local": "Sibut",
-              "en": "Sibut",
-              "slug": "sibut"
-            },
-            "code": {
+          "name": {
+            "local": "Sibut",
+            "en": "Sibut",
+            "slug": "sibut-cf411"
+          },
+          "code": {
+            "id": "CF411",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF411_sibut",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF411_ngoumbele",
-            "name": {
-              "local": "Ngoumbele",
-              "en": "Ngoumbele",
-              "slug": "ngoumbele"
+              "name": {
+                "local": "Sibut",
+                "en": "Sibut",
+                "slug": "sibut"
+              },
+              "code": {
+                "id": "CF411_sibut",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF411_ngoumbele",
-              "iso": null
+              "name": {
+                "local": "Ngoumbele",
+                "en": "Ngoumbele",
+                "slug": "ngoumbele"
+              },
+              "code": {
+                "id": "CF411_ngoumbele",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF414",
-        "name": {
-          "local": "Njoukou",
-          "en": "Njoukou",
-          "slug": "njoukou-cf414"
+          ]
         },
-        "code": {
+        {
           "id": "CF414",
-          "iso": null
+          "name": {
+            "local": "Njoukou",
+            "en": "Njoukou",
+            "slug": "njoukou-cf414"
+          },
+          "code": {
+            "id": "CF414",
+            "iso": null
+          },
+          "commune": []
         },
-        "commune": []
-      },
-      {
-        "id": "CF413",
-        "name": {
-          "local": "Mala",
-          "en": "Mala",
-          "slug": "mala-cf413"
-        },
-        "code": {
+        {
           "id": "CF413",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF413_mala",
-            "name": {
-              "local": "Mala",
-              "en": "Mala",
-              "slug": "mala"
-            },
-            "code": {
+          "name": {
+            "local": "Mala",
+            "en": "Mala",
+            "slug": "mala-cf413"
+          },
+          "code": {
+            "id": "CF413",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF413_mala",
-              "iso": null
+              "name": {
+                "local": "Mala",
+                "en": "Mala",
+                "slug": "mala"
+              },
+              "code": {
+                "id": "CF413_mala",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF412",
-        "name": {
-          "local": "Dékoa",
-          "en": "Dékoa",
-          "slug": "dkoa-cf412"
+          ]
         },
-        "code": {
+        {
           "id": "CF412",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF412_tilo",
-            "name": {
-              "local": "Tilo",
-              "en": "Tilo",
-              "slug": "tilo"
-            },
-            "code": {
+          "name": {
+            "local": "Dékoa",
+            "en": "Dékoa",
+            "slug": "dkoa-cf412"
+          },
+          "code": {
+            "id": "CF412",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF412_tilo",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF412_dekoa",
-            "name": {
-              "local": "Dekoa",
-              "en": "Dekoa",
-              "slug": "dekoa"
+              "name": {
+                "local": "Tilo",
+                "en": "Tilo",
+                "slug": "tilo"
+              },
+              "code": {
+                "id": "CF412_tilo",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF412_dekoa",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF412_guiffa",
-            "name": {
-              "local": "Guiffa",
-              "en": "Guiffa",
-              "slug": "guiffa"
+              "name": {
+                "local": "Dekoa",
+                "en": "Dekoa",
+                "slug": "dekoa"
+              },
+              "code": {
+                "id": "CF412_dekoa",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF412_guiffa",
-              "iso": null
+              "name": {
+                "local": "Guiffa",
+                "en": "Guiffa",
+                "slug": "guiffa"
+              },
+              "code": {
+                "id": "CF412_guiffa",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "CF34",
-    "name": {
-      "local": "Lim-pendé",
-      "en": "Lim-pendé",
-      "slug": "lim-pend-cf34"
+          ]
+        }
+      ]
     },
-    "code": {
+    {
       "id": "CF34",
-      "iso": null
-    },
-    "sub_prefecture": [
-      {
-        "id": "CF341",
-        "name": {
-          "local": "Paoua",
-          "en": "Paoua",
-          "slug": "paoua-cf341"
-        },
-        "code": {
+      "name": {
+        "local": "Lim-pendé",
+        "en": "Lim-pendé",
+        "slug": "lim-pend-cf34"
+      },
+      "code": {
+        "id": "CF34",
+        "iso": null
+      },
+      "sub_prefecture": [
+        {
           "id": "CF341",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF341_mia-pende",
-            "name": {
-              "local": "Mia-Pende",
-              "en": "Mia-Pende",
-              "slug": "mia-pende"
-            },
-            "code": {
+          "name": {
+            "local": "Paoua",
+            "en": "Paoua",
+            "slug": "paoua-cf341"
+          },
+          "code": {
+            "id": "CF341",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF341_mia-pende",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF341_bah-bessar",
-            "name": {
-              "local": "Bah-Bessar",
-              "en": "Bah-Bessar",
-              "slug": "bah-bessar"
+              "name": {
+                "local": "Mia-Pende",
+                "en": "Mia-Pende",
+                "slug": "mia-pende"
+              },
+              "code": {
+                "id": "CF341_mia-pende",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF341_bah-bessar",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF341_nana-barya",
-            "name": {
-              "local": "Nana-Barya",
-              "en": "Nana-Barya",
-              "slug": "nana-barya"
+              "name": {
+                "local": "Bah-Bessar",
+                "en": "Bah-Bessar",
+                "slug": "bah-bessar"
+              },
+              "code": {
+                "id": "CF341_bah-bessar",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF341_nana-barya",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF341_mom",
-            "name": {
-              "local": "Mom",
-              "en": "Mom",
-              "slug": "mom"
+              "name": {
+                "local": "Nana-Barya",
+                "en": "Nana-Barya",
+                "slug": "nana-barya"
+              },
+              "code": {
+                "id": "CF341_nana-barya",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF341_mom",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF341_bimbi",
-            "name": {
-              "local": "Bimbi",
-              "en": "Bimbi",
-              "slug": "bimbi"
+              "name": {
+                "local": "Mom",
+                "en": "Mom",
+                "slug": "mom"
+              },
+              "code": {
+                "id": "CF341_mom",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF341_bimbi",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF341_male",
-            "name": {
-              "local": "Male",
-              "en": "Male",
-              "slug": "male"
+              "name": {
+                "local": "Bimbi",
+                "en": "Bimbi",
+                "slug": "bimbi"
+              },
+              "code": {
+                "id": "CF341_bimbi",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF341_male",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF341_paoua",
-            "name": {
-              "local": "Paoua",
-              "en": "Paoua",
-              "slug": "paoua"
+              "name": {
+                "local": "Male",
+                "en": "Male",
+                "slug": "male"
+              },
+              "code": {
+                "id": "CF341_male",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF341_paoua",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF341_banh",
-            "name": {
-              "local": "Banh",
-              "en": "Banh",
-              "slug": "banh"
+              "name": {
+                "local": "Paoua",
+                "en": "Paoua",
+                "slug": "paoua"
+              },
+              "code": {
+                "id": "CF341_paoua",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF341_banh",
-              "iso": null
+              "name": {
+                "local": "Banh",
+                "en": "Banh",
+                "slug": "banh"
+              },
+              "code": {
+                "id": "CF341_banh",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF345",
-        "name": {
-          "local": "Taley",
-          "en": "Taley",
-          "slug": "taley-cf345"
+          ]
         },
-        "code": {
+        {
           "id": "CF345",
-          "iso": null
+          "name": {
+            "local": "Taley",
+            "en": "Taley",
+            "slug": "taley-cf345"
+          },
+          "code": {
+            "id": "CF345",
+            "iso": null
+          },
+          "commune": []
         },
-        "commune": []
-      },
-      {
-        "id": "CF342",
-        "name": {
-          "local": "Ngaoundaye",
-          "en": "Ngaoundaye",
-          "slug": "ngaoundaye-cf342"
-        },
-        "code": {
+        {
           "id": "CF342",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF342_lim",
-            "name": {
-              "local": "Lim",
-              "en": "Lim",
-              "slug": "lim"
-            },
-            "code": {
+          "name": {
+            "local": "Ngaoundaye",
+            "en": "Ngaoundaye",
+            "slug": "ngaoundaye-cf342"
+          },
+          "code": {
+            "id": "CF342",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF342_lim",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF342_dilouki",
-            "name": {
-              "local": "Dilouki",
-              "en": "Dilouki",
-              "slug": "dilouki"
+              "name": {
+                "local": "Lim",
+                "en": "Lim",
+                "slug": "lim"
+              },
+              "code": {
+                "id": "CF342_lim",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF342_dilouki",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF342_mbili",
-            "name": {
-              "local": "Mbili",
-              "en": "Mbili",
-              "slug": "mbili"
+              "name": {
+                "local": "Dilouki",
+                "en": "Dilouki",
+                "slug": "dilouki"
+              },
+              "code": {
+                "id": "CF342_dilouki",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF342_mbili",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF342_kodi",
-            "name": {
-              "local": "Kodi",
-              "en": "Kodi",
-              "slug": "kodi"
+              "name": {
+                "local": "Mbili",
+                "en": "Mbili",
+                "slug": "mbili"
+              },
+              "code": {
+                "id": "CF342_mbili",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF342_kodi",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF342_yeme",
-            "name": {
-              "local": "Yeme",
-              "en": "Yeme",
-              "slug": "yeme"
+              "name": {
+                "local": "Kodi",
+                "en": "Kodi",
+                "slug": "kodi"
+              },
+              "code": {
+                "id": "CF342_kodi",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF342_yeme",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF342_loura",
-            "name": {
-              "local": "Loura",
-              "en": "Loura",
-              "slug": "loura"
+              "name": {
+                "local": "Yeme",
+                "en": "Yeme",
+                "slug": "yeme"
+              },
+              "code": {
+                "id": "CF342_yeme",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF342_loura",
-              "iso": null
+              "name": {
+                "local": "Loura",
+                "en": "Loura",
+                "slug": "loura"
+              },
+              "code": {
+                "id": "CF342_loura",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF343",
-        "name": {
-          "local": "Ndim",
-          "en": "Ndim",
-          "slug": "ndim-cf343"
+          ]
         },
-        "code": {
+        {
           "id": "CF343",
-          "iso": null
+          "name": {
+            "local": "Ndim",
+            "en": "Ndim",
+            "slug": "ndim-cf343"
+          },
+          "code": {
+            "id": "CF343",
+            "iso": null
+          },
+          "commune": []
         },
-        "commune": []
-      },
-      {
-        "id": "CF344",
-        "name": {
-          "local": "Kodi",
-          "en": "Kodi",
-          "slug": "kodi-cf344"
-        },
-        "code": {
+        {
           "id": "CF344",
-          "iso": null
-        },
-        "commune": []
-      }
-    ]
-  },
-  {
-    "id": "CF31",
-    "name": {
-      "local": "Ouham Pendé",
-      "en": "Ouham Pendé",
-      "slug": "ouham-pend-cf31"
+          "name": {
+            "local": "Kodi",
+            "en": "Kodi",
+            "slug": "kodi-cf344"
+          },
+          "code": {
+            "id": "CF344",
+            "iso": null
+          },
+          "commune": []
+        }
+      ]
     },
-    "code": {
+    {
       "id": "CF31",
-      "iso": null
-    },
-    "sub_prefecture": [
-      {
-        "id": "CF312",
-        "name": {
-          "local": "Bocaranga",
-          "en": "Bocaranga",
-          "slug": "bocaranga-cf312"
-        },
-        "code": {
+      "name": {
+        "local": "Ouham Pendé",
+        "en": "Ouham Pendé",
+        "slug": "ouham-pend-cf31"
+      },
+      "code": {
+        "id": "CF31",
+        "iso": null
+      },
+      "sub_prefecture": [
+        {
           "id": "CF312",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF312_danayere",
-            "name": {
-              "local": "Danayere",
-              "en": "Danayere",
-              "slug": "danayere"
-            },
-            "code": {
+          "name": {
+            "local": "Bocaranga",
+            "en": "Bocaranga",
+            "slug": "bocaranga-cf312"
+          },
+          "code": {
+            "id": "CF312",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF312_danayere",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF312_pende",
-            "name": {
-              "local": "Pende",
-              "en": "Pende",
-              "slug": "pende"
+              "name": {
+                "local": "Danayere",
+                "en": "Danayere",
+                "slug": "danayere"
+              },
+              "code": {
+                "id": "CF312_danayere",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF312_pende",
-              "iso": null
+              "name": {
+                "local": "Pende",
+                "en": "Pende",
+                "slug": "pende"
+              },
+              "code": {
+                "id": "CF312_pende",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF311",
-        "name": {
-          "local": "Bozoum",
-          "en": "Bozoum",
-          "slug": "bozoum-cf311"
+          ]
         },
-        "code": {
+        {
           "id": "CF311",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF311_bozoum",
-            "name": {
-              "local": "Bozoum",
-              "en": "Bozoum",
-              "slug": "bozoum"
-            },
-            "code": {
+          "name": {
+            "local": "Bozoum",
+            "en": "Bozoum",
+            "slug": "bozoum-cf311"
+          },
+          "code": {
+            "id": "CF311",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF311_bozoum",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF311_binon",
-            "name": {
-              "local": "Binon",
-              "en": "Binon",
-              "slug": "binon"
+              "name": {
+                "local": "Bozoum",
+                "en": "Bozoum",
+                "slug": "bozoum"
+              },
+              "code": {
+                "id": "CF311_bozoum",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF311_binon",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF311_kouazo",
-            "name": {
-              "local": "Kouazo",
-              "en": "Kouazo",
-              "slug": "kouazo"
+              "name": {
+                "local": "Binon",
+                "en": "Binon",
+                "slug": "binon"
+              },
+              "code": {
+                "id": "CF311_binon",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF311_kouazo",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF311_dan-gbabiri",
-            "name": {
-              "local": "Dan-Gbabiri",
-              "en": "Dan-Gbabiri",
-              "slug": "dan-gbabiri"
+              "name": {
+                "local": "Kouazo",
+                "en": "Kouazo",
+                "slug": "kouazo"
+              },
+              "code": {
+                "id": "CF311_kouazo",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF311_dan-gbabiri",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF311_birvan-bole",
-            "name": {
-              "local": "Birvan-Bole",
-              "en": "Birvan-Bole",
-              "slug": "birvan-bole"
+              "name": {
+                "local": "Dan-Gbabiri",
+                "en": "Dan-Gbabiri",
+                "slug": "dan-gbabiri"
+              },
+              "code": {
+                "id": "CF311_dan-gbabiri",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF311_birvan-bole",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF311_ouham-bac",
-            "name": {
-              "local": "Ouham Bac",
-              "en": "Ouham Bac",
-              "slug": "ouham-bac"
+              "name": {
+                "local": "Birvan-Bole",
+                "en": "Birvan-Bole",
+                "slug": "birvan-bole"
+              },
+              "code": {
+                "id": "CF311_birvan-bole",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF311_ouham-bac",
-              "iso": null
+              "name": {
+                "local": "Ouham Bac",
+                "en": "Ouham Bac",
+                "slug": "ouham-bac"
+              },
+              "code": {
+                "id": "CF311_ouham-bac",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF316",
-        "name": {
-          "local": "Bossemptélé",
-          "en": "Bossemptélé",
-          "slug": "bossemptl-cf316"
+          ]
         },
-        "code": {
+        {
           "id": "CF316",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF316_gueli",
-            "name": {
-              "local": "Gueli",
-              "en": "Gueli",
-              "slug": "gueli"
-            },
-            "code": {
+          "name": {
+            "local": "Bossemptélé",
+            "en": "Bossemptélé",
+            "slug": "bossemptl-cf316"
+          },
+          "code": {
+            "id": "CF316",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF316_gueli",
-              "iso": null
+              "name": {
+                "local": "Gueli",
+                "en": "Gueli",
+                "slug": "gueli"
+              },
+              "code": {
+                "id": "CF316_gueli",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF313",
-        "name": {
-          "local": "Koui",
-          "en": "Koui",
-          "slug": "koui-cf313"
+          ]
         },
-        "code": {
+        {
           "id": "CF313",
-          "iso": null
-        },
-        "commune": []
-      }
-    ]
-  },
-  {
-    "id": "CF23",
-    "name": {
-      "local": "Sangha-Mbaéré",
-      "en": "Sangha-Mbaéré",
-      "slug": "sangha-mbar-cf23"
+          "name": {
+            "local": "Koui",
+            "en": "Koui",
+            "slug": "koui-cf313"
+          },
+          "code": {
+            "id": "CF313",
+            "iso": null
+          },
+          "commune": []
+        }
+      ]
     },
-    "code": {
+    {
       "id": "CF23",
-      "iso": null
-    },
-    "sub_prefecture": [
-      {
-        "id": "CF232",
-        "name": {
-          "local": "Bambio",
-          "en": "Bambio",
-          "slug": "bambio-cf232"
-        },
-        "code": {
+      "name": {
+        "local": "Sangha-Mbaéré",
+        "en": "Sangha-Mbaéré",
+        "slug": "sangha-mbar-cf23"
+      },
+      "code": {
+        "id": "CF23",
+        "iso": null
+      },
+      "sub_prefecture": [
+        {
           "id": "CF232",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF232_mbaere",
-            "name": {
-              "local": "Mbaere",
-              "en": "Mbaere",
-              "slug": "mbaere"
-            },
-            "code": {
+          "name": {
+            "local": "Bambio",
+            "en": "Bambio",
+            "slug": "bambio-cf232"
+          },
+          "code": {
+            "id": "CF232",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF232_mbaere",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF232_basse-mambere",
-            "name": {
-              "local": "Basse-Mambere",
-              "en": "Basse-Mambere",
-              "slug": "basse-mambere"
+              "name": {
+                "local": "Mbaere",
+                "en": "Mbaere",
+                "slug": "mbaere"
+              },
+              "code": {
+                "id": "CF232_mbaere",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF232_basse-mambere",
-              "iso": null
+              "name": {
+                "local": "Basse-Mambere",
+                "en": "Basse-Mambere",
+                "slug": "basse-mambere"
+              },
+              "code": {
+                "id": "CF232_basse-mambere",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF231",
-        "name": {
-          "local": "Nola",
-          "en": "Nola",
-          "slug": "nola-cf231"
+          ]
         },
-        "code": {
+        {
           "id": "CF231",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF231_bilolo",
-            "name": {
-              "local": "Bilolo",
-              "en": "Bilolo",
-              "slug": "bilolo"
-            },
-            "code": {
+          "name": {
+            "local": "Nola",
+            "en": "Nola",
+            "slug": "nola-cf231"
+          },
+          "code": {
+            "id": "CF231",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF231_bilolo",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF231_salo",
-            "name": {
-              "local": "Salo",
-              "en": "Salo",
-              "slug": "salo"
+              "name": {
+                "local": "Bilolo",
+                "en": "Bilolo",
+                "slug": "bilolo"
+              },
+              "code": {
+                "id": "CF231_bilolo",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF231_salo",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF231_nola",
-            "name": {
-              "local": "Nola",
-              "en": "Nola",
-              "slug": "nola"
+              "name": {
+                "local": "Salo",
+                "en": "Salo",
+                "slug": "salo"
+              },
+              "code": {
+                "id": "CF231_salo",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF231_nola",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF231_basse-kadei",
-            "name": {
-              "local": "Basse-Kadei",
-              "en": "Basse-Kadei",
-              "slug": "basse-kadei"
+              "name": {
+                "local": "Nola",
+                "en": "Nola",
+                "slug": "nola"
+              },
+              "code": {
+                "id": "CF231_nola",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF231_basse-kadei",
-              "iso": null
+              "name": {
+                "local": "Basse-Kadei",
+                "en": "Basse-Kadei",
+                "slug": "basse-kadei"
+              },
+              "code": {
+                "id": "CF231_basse-kadei",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF233",
-        "name": {
-          "local": "Bayanga",
-          "en": "Bayanga",
-          "slug": "bayanga-cf233"
+          ]
         },
-        "code": {
+        {
           "id": "CF233",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF233_yobe-sangha",
-            "name": {
-              "local": "Yobe-Sangha",
-              "en": "Yobe-Sangha",
-              "slug": "yobe-sangha"
-            },
-            "code": {
+          "name": {
+            "local": "Bayanga",
+            "en": "Bayanga",
+            "slug": "bayanga-cf233"
+          },
+          "code": {
+            "id": "CF233",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF233_yobe-sangha",
-              "iso": null
+              "name": {
+                "local": "Yobe-Sangha",
+                "en": "Yobe-Sangha",
+                "slug": "yobe-sangha"
+              },
+              "code": {
+                "id": "CF233_yobe-sangha",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "CF53",
-    "name": {
-      "local": "Vakaga",
-      "en": "Vakaga",
-      "slug": "vakaga-cf53"
+          ]
+        }
+      ]
     },
-    "code": {
+    {
       "id": "CF53",
-      "iso": null
-    },
-    "sub_prefecture": [
-      {
-        "id": "CF531",
-        "name": {
-          "local": "Birao",
-          "en": "Birao",
-          "slug": "birao-cf531"
-        },
-        "code": {
+      "name": {
+        "local": "Vakaga",
+        "en": "Vakaga",
+        "slug": "vakaga-cf53"
+      },
+      "code": {
+        "id": "CF53",
+        "iso": null
+      },
+      "sub_prefecture": [
+        {
           "id": "CF531",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF531_ridina",
-            "name": {
-              "local": "Ridina",
-              "en": "Ridina",
-              "slug": "ridina"
-            },
-            "code": {
+          "name": {
+            "local": "Birao",
+            "en": "Birao",
+            "slug": "birao-cf531"
+          },
+          "code": {
+            "id": "CF531",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF531_ridina",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF531_ouandja",
-            "name": {
-              "local": "Ouandja",
-              "en": "Ouandja",
-              "slug": "ouandja"
+              "name": {
+                "local": "Ridina",
+                "en": "Ridina",
+                "slug": "ridina"
+              },
+              "code": {
+                "id": "CF531_ridina",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF531_ouandja",
-              "iso": null
+              "name": {
+                "local": "Ouandja",
+                "en": "Ouandja",
+                "slug": "ouandja"
+              },
+              "code": {
+                "id": "CF531_ouandja",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF532",
-        "name": {
-          "local": "Ouada-Djallé",
-          "en": "Ouada-Djallé",
-          "slug": "ouada-djall-cf532"
+          ]
         },
-        "code": {
+        {
           "id": "CF532",
-          "iso": null
+          "name": {
+            "local": "Ouada-Djallé",
+            "en": "Ouada-Djallé",
+            "slug": "ouada-djall-cf532"
+          },
+          "code": {
+            "id": "CF532",
+            "iso": null
+          },
+          "commune": []
         },
-        "commune": []
-      },
-      {
-        "id": "CF533",
-        "name": {
-          "local": "Ouandja",
-          "en": "Ouandja",
-          "slug": "ouandja-cf533"
-        },
-        "code": {
+        {
           "id": "CF533",
-          "iso": null
+          "name": {
+            "local": "Ouandja",
+            "en": "Ouandja",
+            "slug": "ouandja-cf533"
+          },
+          "code": {
+            "id": "CF533",
+            "iso": null
+          },
+          "commune": []
         },
-        "commune": []
-      },
-      {
-        "id": "CF534",
-        "name": {
-          "local": "Am-Dafok",
-          "en": "Am-Dafok",
-          "slug": "am-dafok-cf534"
-        },
-        "code": {
+        {
           "id": "CF534",
-          "iso": null
-        },
-        "commune": []
-      }
-    ]
-  },
-  {
-    "id": "CF51",
-    "name": {
-      "local": "Bamingui-Bangoran",
-      "en": "Bamingui-Bangoran",
-      "slug": "bamingui-bangoran-cf51"
+          "name": {
+            "local": "Am-Dafok",
+            "en": "Am-Dafok",
+            "slug": "am-dafok-cf534"
+          },
+          "code": {
+            "id": "CF534",
+            "iso": null
+          },
+          "commune": []
+        }
+      ]
     },
-    "code": {
+    {
       "id": "CF51",
-      "iso": null
-    },
-    "sub_prefecture": [
-      {
-        "id": "CF511",
-        "name": {
-          "local": "Ndélé",
-          "en": "Ndélé",
-          "slug": "ndl-cf511"
-        },
-        "code": {
+      "name": {
+        "local": "Bamingui-Bangoran",
+        "en": "Bamingui-Bangoran",
+        "slug": "bamingui-bangoran-cf51"
+      },
+      "code": {
+        "id": "CF51",
+        "iso": null
+      },
+      "sub_prefecture": [
+        {
           "id": "CF511",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF511_dar-el-kouti",
-            "name": {
-              "local": "Dar El Kouti",
-              "en": "Dar El Kouti",
-              "slug": "dar-el-kouti"
-            },
-            "code": {
+          "name": {
+            "local": "Ndélé",
+            "en": "Ndélé",
+            "slug": "ndl-cf511"
+          },
+          "code": {
+            "id": "CF511",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF511_dar-el-kouti",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF511_vassako",
-            "name": {
-              "local": "Vassako",
-              "en": "Vassako",
-              "slug": "vassako"
+              "name": {
+                "local": "Dar El Kouti",
+                "en": "Dar El Kouti",
+                "slug": "dar-el-kouti"
+              },
+              "code": {
+                "id": "CF511_dar-el-kouti",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF511_vassako",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF511_nana-outa",
-            "name": {
-              "local": "Nana-Outa",
-              "en": "Nana-Outa",
-              "slug": "nana-outa"
+              "name": {
+                "local": "Vassako",
+                "en": "Vassako",
+                "slug": "vassako"
+              },
+              "code": {
+                "id": "CF511_vassako",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF511_nana-outa",
-              "iso": null
+              "name": {
+                "local": "Nana-Outa",
+                "en": "Nana-Outa",
+                "slug": "nana-outa"
+              },
+              "code": {
+                "id": "CF511_nana-outa",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF512",
-        "name": {
-          "local": "Bamingui",
-          "en": "Bamingui",
-          "slug": "bamingui-cf512"
+          ]
         },
-        "code": {
+        {
           "id": "CF512",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF512_grivai-pamia",
-            "name": {
-              "local": "Grivai-Pamia",
-              "en": "Grivai-Pamia",
-              "slug": "grivai-pamia"
-            },
-            "code": {
+          "name": {
+            "local": "Bamingui",
+            "en": "Bamingui",
+            "slug": "bamingui-cf512"
+          },
+          "code": {
+            "id": "CF512",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF512_grivai-pamia",
-              "iso": null
+              "name": {
+                "local": "Grivai-Pamia",
+                "en": "Grivai-Pamia",
+                "slug": "grivai-pamia"
+              },
+              "code": {
+                "id": "CF512_grivai-pamia",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "CF62",
-    "name": {
-      "local": "Mbomou",
-      "en": "Mbomou",
-      "slug": "mbomou-cf62"
+          ]
+        }
+      ]
     },
-    "code": {
+    {
       "id": "CF62",
-      "iso": null
-    },
-    "sub_prefecture": [
-      {
-        "id": "CF621",
-        "name": {
-          "local": "Bangassou",
-          "en": "Bangassou",
-          "slug": "bangassou-cf621"
-        },
-        "code": {
+      "name": {
+        "local": "Mbomou",
+        "en": "Mbomou",
+        "slug": "mbomou-cf62"
+      },
+      "code": {
+        "id": "CF62",
+        "iso": null
+      },
+      "sub_prefecture": [
+        {
           "id": "CF621",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF621_sayo-niakari",
-            "name": {
-              "local": "Sayo Niakari",
-              "en": "Sayo Niakari",
-              "slug": "sayo-niakari"
-            },
-            "code": {
+          "name": {
+            "local": "Bangassou",
+            "en": "Bangassou",
+            "slug": "bangassou-cf621"
+          },
+          "code": {
+            "id": "CF621",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF621_sayo-niakari",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF621_bangassou",
-            "name": {
-              "local": "Bangassou",
-              "en": "Bangassou",
-              "slug": "bangassou"
+              "name": {
+                "local": "Sayo Niakari",
+                "en": "Sayo Niakari",
+                "slug": "sayo-niakari"
+              },
+              "code": {
+                "id": "CF621_sayo-niakari",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF621_bangassou",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF621_zangandou",
-            "name": {
-              "local": "Zangandou",
-              "en": "Zangandou",
-              "slug": "zangandou"
+              "name": {
+                "local": "Bangassou",
+                "en": "Bangassou",
+                "slug": "bangassou"
+              },
+              "code": {
+                "id": "CF621_bangassou",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF621_zangandou",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF621_bakouma",
-            "name": {
-              "local": "Bakouma",
-              "en": "Bakouma",
-              "slug": "bakouma"
+              "name": {
+                "local": "Zangandou",
+                "en": "Zangandou",
+                "slug": "zangandou"
+              },
+              "code": {
+                "id": "CF621_zangandou",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF621_bakouma",
-              "iso": null
+              "name": {
+                "local": "Bakouma",
+                "en": "Bakouma",
+                "slug": "bakouma"
+              },
+              "code": {
+                "id": "CF621_bakouma",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF623",
-        "name": {
-          "local": "Gambo",
-          "en": "Gambo",
-          "slug": "gambo-cf623"
+          ]
         },
-        "code": {
+        {
           "id": "CF623",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF623_ngandou",
-            "name": {
-              "local": "Ngandou",
-              "en": "Ngandou",
-              "slug": "ngandou"
-            },
-            "code": {
+          "name": {
+            "local": "Gambo",
+            "en": "Gambo",
+            "slug": "gambo-cf623"
+          },
+          "code": {
+            "id": "CF623",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF623_ngandou",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF623_kotto-oubangui",
-            "name": {
-              "local": "Kotto-Oubangui",
-              "en": "Kotto-Oubangui",
-              "slug": "kotto-oubangui"
+              "name": {
+                "local": "Ngandou",
+                "en": "Ngandou",
+                "slug": "ngandou"
+              },
+              "code": {
+                "id": "CF623_ngandou",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF623_kotto-oubangui",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF623_gambo",
-            "name": {
-              "local": "Gambo",
-              "en": "Gambo",
-              "slug": "gambo"
+              "name": {
+                "local": "Kotto-Oubangui",
+                "en": "Kotto-Oubangui",
+                "slug": "kotto-oubangui"
+              },
+              "code": {
+                "id": "CF623_kotto-oubangui",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF623_gambo",
-              "iso": null
+              "name": {
+                "local": "Gambo",
+                "en": "Gambo",
+                "slug": "gambo"
+              },
+              "code": {
+                "id": "CF623_gambo",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF622",
-        "name": {
-          "local": "Ouango",
-          "en": "Ouango",
-          "slug": "ouango-cf622"
+          ]
         },
-        "code": {
+        {
           "id": "CF622",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF622_ouango",
-            "name": {
-              "local": "Ouango",
-              "en": "Ouango",
-              "slug": "ouango"
-            },
-            "code": {
+          "name": {
+            "local": "Ouango",
+            "en": "Ouango",
+            "slug": "ouango-cf622"
+          },
+          "code": {
+            "id": "CF622",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF622_ouango",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF622_ngbandinga",
-            "name": {
-              "local": "Ngbandinga",
-              "en": "Ngbandinga",
-              "slug": "ngbandinga"
+              "name": {
+                "local": "Ouango",
+                "en": "Ouango",
+                "slug": "ouango"
+              },
+              "code": {
+                "id": "CF622_ouango",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF622_ngbandinga",
-              "iso": null
+              "name": {
+                "local": "Ngbandinga",
+                "en": "Ngbandinga",
+                "slug": "ngbandinga"
+              },
+              "code": {
+                "id": "CF622_ngbandinga",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF624",
-        "name": {
-          "local": "Rafai",
-          "en": "Rafai",
-          "slug": "rafai-cf624"
+          ]
         },
-        "code": {
+        {
           "id": "CF624",
-          "iso": null
+          "name": {
+            "local": "Rafai",
+            "en": "Rafai",
+            "slug": "rafai-cf624"
+          },
+          "code": {
+            "id": "CF624",
+            "iso": null
+          },
+          "commune": []
         },
-        "commune": []
-      },
-      {
-        "id": "CF625",
-        "name": {
-          "local": "Bakouma",
-          "en": "Bakouma",
-          "slug": "bakouma-cf625"
-        },
-        "code": {
+        {
           "id": "CF625",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF625_daho-mboutou",
-            "name": {
-              "local": "Daho-Mboutou",
-              "en": "Daho-Mboutou",
-              "slug": "daho-mboutou"
-            },
-            "code": {
+          "name": {
+            "local": "Bakouma",
+            "en": "Bakouma",
+            "slug": "bakouma-cf625"
+          },
+          "code": {
+            "id": "CF625",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF625_daho-mboutou",
-              "iso": null
+              "name": {
+                "local": "Daho-Mboutou",
+                "en": "Daho-Mboutou",
+                "slug": "daho-mboutou"
+              },
+              "code": {
+                "id": "CF625_daho-mboutou",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "CF11",
-    "name": {
-      "local": "Ombella M'Poko",
-      "en": "Ombella M'Poko",
-      "slug": "ombella-mpoko-cf11"
+          ]
+        }
+      ]
     },
-    "code": {
+    {
       "id": "CF11",
-      "iso": null
-    },
-    "sub_prefecture": [
-      {
-        "id": "CF114",
-        "name": {
-          "local": "Boali",
-          "en": "Boali",
-          "slug": "boali-cf114"
-        },
-        "code": {
+      "name": {
+        "local": "Ombella M'Poko",
+        "en": "Ombella M'Poko",
+        "slug": "ombella-mpoko-cf11"
+      },
+      "code": {
+        "id": "CF11",
+        "iso": null
+      },
+      "sub_prefecture": [
+        {
           "id": "CF114",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF114_boali",
-            "name": {
-              "local": "Boali",
-              "en": "Boali",
-              "slug": "boali"
-            },
-            "code": {
+          "name": {
+            "local": "Boali",
+            "en": "Boali",
+            "slug": "boali-cf114"
+          },
+          "code": {
+            "id": "CF114",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF114_boali",
-              "iso": null
+              "name": {
+                "local": "Boali",
+                "en": "Boali",
+                "slug": "boali"
+              },
+              "code": {
+                "id": "CF114_boali",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF113",
-        "name": {
-          "local": "Bogangolo",
-          "en": "Bogangolo",
-          "slug": "bogangolo-cf113"
+          ]
         },
-        "code": {
+        {
           "id": "CF113",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF113_bogangolo",
-            "name": {
-              "local": "Bogangolo",
-              "en": "Bogangolo",
-              "slug": "bogangolo"
-            },
-            "code": {
+          "name": {
+            "local": "Bogangolo",
+            "en": "Bogangolo",
+            "slug": "bogangolo-cf113"
+          },
+          "code": {
+            "id": "CF113",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF113_bogangolo",
-              "iso": null
+              "name": {
+                "local": "Bogangolo",
+                "en": "Bogangolo",
+                "slug": "bogangolo"
+              },
+              "code": {
+                "id": "CF113_bogangolo",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF115",
-        "name": {
-          "local": "Bossembélé",
-          "en": "Bossembélé",
-          "slug": "bossembl-cf115"
+          ]
         },
-        "code": {
+        {
           "id": "CF115",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF115_bossembele",
-            "name": {
-              "local": "Bossembele",
-              "en": "Bossembele",
-              "slug": "bossembele"
-            },
-            "code": {
+          "name": {
+            "local": "Bossembélé",
+            "en": "Bossembélé",
+            "slug": "bossembl-cf115"
+          },
+          "code": {
+            "id": "CF115",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF115_bossembele",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF115_yaloke",
-            "name": {
-              "local": "Yaloke",
-              "en": "Yaloke",
-              "slug": "yaloke"
+              "name": {
+                "local": "Bossembele",
+                "en": "Bossembele",
+                "slug": "bossembele"
+              },
+              "code": {
+                "id": "CF115_bossembele",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF115_yaloke",
-              "iso": null
+              "name": {
+                "local": "Yaloke",
+                "en": "Yaloke",
+                "slug": "yaloke"
+              },
+              "code": {
+                "id": "CF115_yaloke",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF116",
-        "name": {
-          "local": "Yaloké",
-          "en": "Yaloké",
-          "slug": "yalok-cf116"
+          ]
         },
-        "code": {
+        {
           "id": "CF116",
-          "iso": null
+          "name": {
+            "local": "Yaloké",
+            "en": "Yaloké",
+            "slug": "yalok-cf116"
+          },
+          "code": {
+            "id": "CF116",
+            "iso": null
+          },
+          "commune": []
         },
-        "commune": []
-      },
-      {
-        "id": "CF112",
-        "name": {
-          "local": "Damara",
-          "en": "Damara",
-          "slug": "damara-cf112"
-        },
-        "code": {
+        {
           "id": "CF112",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF112_damara",
-            "name": {
-              "local": "Damara",
-              "en": "Damara",
-              "slug": "damara"
-            },
-            "code": {
+          "name": {
+            "local": "Damara",
+            "en": "Damara",
+            "slug": "damara-cf112"
+          },
+          "code": {
+            "id": "CF112",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF112_damara",
-              "iso": null
+              "name": {
+                "local": "Damara",
+                "en": "Damara",
+                "slug": "damara"
+              },
+              "code": {
+                "id": "CF112_damara",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "CF61",
-    "name": {
-      "local": "Basse-Kotto",
-      "en": "Basse-Kotto",
-      "slug": "basse-kotto-cf61"
+          ]
+        }
+      ]
     },
-    "code": {
+    {
       "id": "CF61",
-      "iso": null
-    },
-    "sub_prefecture": [
-      {
-        "id": "CF611",
-        "name": {
-          "local": "Mobaye",
-          "en": "Mobaye",
-          "slug": "mobaye-cf611"
-        },
-        "code": {
+      "name": {
+        "local": "Basse-Kotto",
+        "en": "Basse-Kotto",
+        "slug": "basse-kotto-cf61"
+      },
+      "code": {
+        "id": "CF61",
+        "iso": null
+      },
+      "sub_prefecture": [
+        {
           "id": "CF611",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF611_mbeima",
-            "name": {
-              "local": "Mbeima",
-              "en": "Mbeima",
-              "slug": "mbeima"
-            },
-            "code": {
+          "name": {
+            "local": "Mobaye",
+            "en": "Mobaye",
+            "slug": "mobaye-cf611"
+          },
+          "code": {
+            "id": "CF611",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF611_mbeima",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF611_mobaye",
-            "name": {
-              "local": "Mobaye",
-              "en": "Mobaye",
-              "slug": "mobaye"
+              "name": {
+                "local": "Mbeima",
+                "en": "Mbeima",
+                "slug": "mbeima"
+              },
+              "code": {
+                "id": "CF611_mbeima",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF611_mobaye",
-              "iso": null
+              "name": {
+                "local": "Mobaye",
+                "en": "Mobaye",
+                "slug": "mobaye"
+              },
+              "code": {
+                "id": "CF611_mobaye",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF612",
-        "name": {
-          "local": "Alindao",
-          "en": "Alindao",
-          "slug": "alindao-cf612"
+          ]
         },
-        "code": {
+        {
           "id": "CF612",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF612_yambeie-ewou",
-            "name": {
-              "local": "Yambeie-Ewou",
-              "en": "Yambeie-Ewou",
-              "slug": "yambeie-ewou"
-            },
-            "code": {
+          "name": {
+            "local": "Alindao",
+            "en": "Alindao",
+            "slug": "alindao-cf612"
+          },
+          "code": {
+            "id": "CF612",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF612_yambeie-ewou",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF612_bangui-kette",
-            "name": {
-              "local": "Bangui-Kette",
-              "en": "Bangui-Kette",
-              "slug": "bangui-kette"
+              "name": {
+                "local": "Yambeie-Ewou",
+                "en": "Yambeie-Ewou",
+                "slug": "yambeie-ewou"
+              },
+              "code": {
+                "id": "CF612_yambeie-ewou",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF612_bangui-kette",
-              "iso": null
+              "name": {
+                "local": "Bangui-Kette",
+                "en": "Bangui-Kette",
+                "slug": "bangui-kette"
+              },
+              "code": {
+                "id": "CF612_bangui-kette",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF614",
-        "name": {
-          "local": "Mingala",
-          "en": "Mingala",
-          "slug": "mingala-cf614"
+          ]
         },
-        "code": {
+        {
           "id": "CF614",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF614_alindao",
-            "name": {
-              "local": "Alindao",
-              "en": "Alindao",
-              "slug": "alindao"
-            },
-            "code": {
+          "name": {
+            "local": "Mingala",
+            "en": "Mingala",
+            "slug": "mingala-cf614"
+          },
+          "code": {
+            "id": "CF614",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF614_alindao",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF614_kotto",
-            "name": {
-              "local": "Kotto",
-              "en": "Kotto",
-              "slug": "kotto"
+              "name": {
+                "local": "Alindao",
+                "en": "Alindao",
+                "slug": "alindao"
+              },
+              "code": {
+                "id": "CF614_alindao",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF614_kotto",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF614_seliba",
-            "name": {
-              "local": "Seliba",
-              "en": "Seliba",
-              "slug": "seliba"
+              "name": {
+                "local": "Kotto",
+                "en": "Kotto",
+                "slug": "kotto"
+              },
+              "code": {
+                "id": "CF614_kotto",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF614_seliba",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF614_siriki",
-            "name": {
-              "local": "Siriki",
-              "en": "Siriki",
-              "slug": "siriki"
+              "name": {
+                "local": "Seliba",
+                "en": "Seliba",
+                "slug": "seliba"
+              },
+              "code": {
+                "id": "CF614_seliba",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF614_siriki",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF614_guiligui",
-            "name": {
-              "local": "Guiligui",
-              "en": "Guiligui",
-              "slug": "guiligui"
+              "name": {
+                "local": "Siriki",
+                "en": "Siriki",
+                "slug": "siriki"
+              },
+              "code": {
+                "id": "CF614_siriki",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF614_guiligui",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF614_bakou",
-            "name": {
-              "local": "Bakou",
-              "en": "Bakou",
-              "slug": "bakou"
+              "name": {
+                "local": "Guiligui",
+                "en": "Guiligui",
+                "slug": "guiligui"
+              },
+              "code": {
+                "id": "CF614_guiligui",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF614_bakou",
-              "iso": null
+              "name": {
+                "local": "Bakou",
+                "en": "Bakou",
+                "slug": "bakou"
+              },
+              "code": {
+                "id": "CF614_bakou",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF616",
-        "name": {
-          "local": "Satéma",
-          "en": "Satéma",
-          "slug": "satma-cf616"
+          ]
         },
-        "code": {
+        {
           "id": "CF616",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF616_mboui",
-            "name": {
-              "local": "Mboui",
-              "en": "Mboui",
-              "slug": "mboui"
-            },
-            "code": {
+          "name": {
+            "local": "Satéma",
+            "en": "Satéma",
+            "slug": "satma-cf616"
+          },
+          "code": {
+            "id": "CF616",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF616_mboui",
-              "iso": null
+              "name": {
+                "local": "Mboui",
+                "en": "Mboui",
+                "slug": "mboui"
+              },
+              "code": {
+                "id": "CF616_mboui",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF613",
-        "name": {
-          "local": "Kembé",
-          "en": "Kembé",
-          "slug": "kemb-cf613"
+          ]
         },
-        "code": {
+        {
           "id": "CF613",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF613_kembe",
-            "name": {
-              "local": "Kembe",
-              "en": "Kembe",
-              "slug": "kembe"
-            },
-            "code": {
+          "name": {
+            "local": "Kembé",
+            "en": "Kembé",
+            "slug": "kemb-cf613"
+          },
+          "code": {
+            "id": "CF613",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF613_kembe",
-              "iso": null
+              "name": {
+                "local": "Kembe",
+                "en": "Kembe",
+                "slug": "kembe"
+              },
+              "code": {
+                "id": "CF613_kembe",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF615",
-        "name": {
-          "local": "Zangba",
-          "en": "Zangba",
-          "slug": "zangba-cf615"
+          ]
         },
-        "code": {
+        {
           "id": "CF615",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF615_yabongo",
-            "name": {
-              "local": "Yabongo",
-              "en": "Yabongo",
-              "slug": "yabongo"
-            },
-            "code": {
+          "name": {
+            "local": "Zangba",
+            "en": "Zangba",
+            "slug": "zangba-cf615"
+          },
+          "code": {
+            "id": "CF615",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF615_yabongo",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF615_cochio-toulou",
-            "name": {
-              "local": "Cochio-Toulou",
-              "en": "Cochio-Toulou",
-              "slug": "cochio-toulou"
+              "name": {
+                "local": "Yabongo",
+                "en": "Yabongo",
+                "slug": "yabongo"
+              },
+              "code": {
+                "id": "CF615_yabongo",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF615_cochio-toulou",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF615_ouambe",
-            "name": {
-              "local": "Ouambe",
-              "en": "Ouambe",
-              "slug": "ouambe"
+              "name": {
+                "local": "Cochio-Toulou",
+                "en": "Cochio-Toulou",
+                "slug": "cochio-toulou"
+              },
+              "code": {
+                "id": "CF615_cochio-toulou",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF615_ouambe",
-              "iso": null
+              "name": {
+                "local": "Ouambe",
+                "en": "Ouambe",
+                "slug": "ouambe"
+              },
+              "code": {
+                "id": "CF615_ouambe",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "CF52",
-    "name": {
-      "local": "Haute-Kotto",
-      "en": "Haute-Kotto",
-      "slug": "haute-kotto-cf52"
+          ]
+        }
+      ]
     },
-    "code": {
+    {
       "id": "CF52",
-      "iso": null
-    },
-    "sub_prefecture": [
-      {
-        "id": "CF524",
-        "name": {
-          "local": "Ouandja-Kotto",
-          "en": "Ouandja-Kotto",
-          "slug": "ouandja-kotto-cf524"
-        },
-        "code": {
+      "name": {
+        "local": "Haute-Kotto",
+        "en": "Haute-Kotto",
+        "slug": "haute-kotto-cf52"
+      },
+      "code": {
+        "id": "CF52",
+        "iso": null
+      },
+      "sub_prefecture": [
+        {
           "id": "CF524",
-          "iso": null
+          "name": {
+            "local": "Ouandja-Kotto",
+            "en": "Ouandja-Kotto",
+            "slug": "ouandja-kotto-cf524"
+          },
+          "code": {
+            "id": "CF524",
+            "iso": null
+          },
+          "commune": []
         },
-        "commune": []
-      },
-      {
-        "id": "CF522",
-        "name": {
-          "local": "Ouadda",
-          "en": "Ouadda",
-          "slug": "ouadda-cf522"
-        },
-        "code": {
+        {
           "id": "CF522",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF522_ouadda",
-            "name": {
-              "local": "Ouadda",
-              "en": "Ouadda",
-              "slug": "ouadda"
-            },
-            "code": {
+          "name": {
+            "local": "Ouadda",
+            "en": "Ouadda",
+            "slug": "ouadda-cf522"
+          },
+          "code": {
+            "id": "CF522",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF522_ouadda",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF522_mbolo-pata",
-            "name": {
-              "local": "Mbolo-Pata",
-              "en": "Mbolo-Pata",
-              "slug": "mbolo-pata"
+              "name": {
+                "local": "Ouadda",
+                "en": "Ouadda",
+                "slug": "ouadda"
+              },
+              "code": {
+                "id": "CF522_ouadda",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF522_mbolo-pata",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF522_samba-boungou",
-            "name": {
-              "local": "Samba-Boungou",
-              "en": "Samba-Boungou",
-              "slug": "samba-boungou"
+              "name": {
+                "local": "Mbolo-Pata",
+                "en": "Mbolo-Pata",
+                "slug": "mbolo-pata"
+              },
+              "code": {
+                "id": "CF522_mbolo-pata",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF522_samba-boungou",
-              "iso": null
+              "name": {
+                "local": "Samba-Boungou",
+                "en": "Samba-Boungou",
+                "slug": "samba-boungou"
+              },
+              "code": {
+                "id": "CF522_samba-boungou",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF521",
-        "name": {
-          "local": "Bria",
-          "en": "Bria",
-          "slug": "bria-cf521"
+          ]
         },
-        "code": {
+        {
           "id": "CF521",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF521_ippy",
-            "name": {
-              "local": "Ippy",
-              "en": "Ippy",
-              "slug": "ippy"
-            },
-            "code": {
+          "name": {
+            "local": "Bria",
+            "en": "Bria",
+            "slug": "bria-cf521"
+          },
+          "code": {
+            "id": "CF521",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF521_ippy",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF521_yengou",
-            "name": {
-              "local": "Yengou",
-              "en": "Yengou",
-              "slug": "yengou"
+              "name": {
+                "local": "Ippy",
+                "en": "Ippy",
+                "slug": "ippy"
+              },
+              "code": {
+                "id": "CF521_ippy",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF521_yengou",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF521_daba-nydou",
-            "name": {
-              "local": "Daba Nydou",
-              "en": "Daba Nydou",
-              "slug": "daba-nydou"
+              "name": {
+                "local": "Yengou",
+                "en": "Yengou",
+                "slug": "yengou"
+              },
+              "code": {
+                "id": "CF521_yengou",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF521_daba-nydou",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF521_haute-baidou",
-            "name": {
-              "local": "Haute Baidou",
-              "en": "Haute Baidou",
-              "slug": "haute-baidou"
+              "name": {
+                "local": "Daba Nydou",
+                "en": "Daba Nydou",
+                "slug": "daba-nydou"
+              },
+              "code": {
+                "id": "CF521_daba-nydou",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF521_haute-baidou",
-              "iso": null
+              "name": {
+                "local": "Haute Baidou",
+                "en": "Haute Baidou",
+                "slug": "haute-baidou"
+              },
+              "code": {
+                "id": "CF521_haute-baidou",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF523",
-        "name": {
-          "local": "Yalinga",
-          "en": "Yalinga",
-          "slug": "yalinga-cf523"
+          ]
         },
-        "code": {
+        {
           "id": "CF523",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF523_vokouma",
-            "name": {
-              "local": "Vokouma",
-              "en": "Vokouma",
-              "slug": "vokouma"
-            },
-            "code": {
+          "name": {
+            "local": "Yalinga",
+            "en": "Yalinga",
+            "slug": "yalinga-cf523"
+          },
+          "code": {
+            "id": "CF523",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF523_vokouma",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF523_ouandja-kotto",
-            "name": {
-              "local": "Ouandja Kotto",
-              "en": "Ouandja Kotto",
-              "slug": "ouandja-kotto"
+              "name": {
+                "local": "Vokouma",
+                "en": "Vokouma",
+                "slug": "vokouma"
+              },
+              "code": {
+                "id": "CF523_vokouma",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF523_ouandja-kotto",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF523_yalinga",
-            "name": {
-              "local": "Yalinga",
-              "en": "Yalinga",
-              "slug": "yalinga"
+              "name": {
+                "local": "Ouandja Kotto",
+                "en": "Ouandja Kotto",
+                "slug": "ouandja-kotto"
+              },
+              "code": {
+                "id": "CF523_ouandja-kotto",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF523_yalinga",
-              "iso": null
+              "name": {
+                "local": "Yalinga",
+                "en": "Yalinga",
+                "slug": "yalinga"
+              },
+              "code": {
+                "id": "CF523_yalinga",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "CF21",
-    "name": {
-      "local": "Mambéré-Kadéï",
-      "en": "Mambéré-Kadéï",
-      "slug": "mambr-kad-cf21"
+          ]
+        }
+      ]
     },
-    "code": {
+    {
       "id": "CF21",
-      "iso": null
-    },
-    "sub_prefecture": [
-      {
-        "id": "CF211",
-        "name": {
-          "local": "Berbérati",
-          "en": "Berbérati",
-          "slug": "berbrati-cf211"
-        },
-        "code": {
+      "name": {
+        "local": "Mambéré-Kadéï",
+        "en": "Mambéré-Kadéï",
+        "slug": "mambr-kad-cf21"
+      },
+      "code": {
+        "id": "CF21",
+        "iso": null
+      },
+      "sub_prefecture": [
+        {
           "id": "CF211",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF211_senkpa-mbaere",
-            "name": {
-              "local": "Senkpa-Mbaere",
-              "en": "Senkpa-Mbaere",
-              "slug": "senkpa-mbaere"
-            },
-            "code": {
+          "name": {
+            "local": "Berbérati",
+            "en": "Berbérati",
+            "slug": "berbrati-cf211"
+          },
+          "code": {
+            "id": "CF211",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF211_senkpa-mbaere",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF211_basse-batouri",
-            "name": {
-              "local": "Basse-Batouri",
-              "en": "Basse-Batouri",
-              "slug": "basse-batouri"
+              "name": {
+                "local": "Senkpa-Mbaere",
+                "en": "Senkpa-Mbaere",
+                "slug": "senkpa-mbaere"
+              },
+              "code": {
+                "id": "CF211_senkpa-mbaere",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF211_basse-batouri",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF211_ouakanga",
-            "name": {
-              "local": "Ouakanga",
-              "en": "Ouakanga",
-              "slug": "ouakanga"
+              "name": {
+                "local": "Basse-Batouri",
+                "en": "Basse-Batouri",
+                "slug": "basse-batouri"
+              },
+              "code": {
+                "id": "CF211_basse-batouri",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF211_ouakanga",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF211_haute-batouri",
-            "name": {
-              "local": "Haute-Batouri",
-              "en": "Haute-Batouri",
-              "slug": "haute-batouri"
+              "name": {
+                "local": "Ouakanga",
+                "en": "Ouakanga",
+                "slug": "ouakanga"
+              },
+              "code": {
+                "id": "CF211_ouakanga",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF211_haute-batouri",
-              "iso": null
+              "name": {
+                "local": "Haute-Batouri",
+                "en": "Haute-Batouri",
+                "slug": "haute-batouri"
+              },
+              "code": {
+                "id": "CF211_haute-batouri",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF212",
-        "name": {
-          "local": "Gamboula",
-          "en": "Gamboula",
-          "slug": "gamboula-cf212"
+          ]
         },
-        "code": {
+        {
           "id": "CF212",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF212_basse-boumne",
-            "name": {
-              "local": "Basse-Boumne",
-              "en": "Basse-Boumne",
-              "slug": "basse-boumne"
-            },
-            "code": {
+          "name": {
+            "local": "Gamboula",
+            "en": "Gamboula",
+            "slug": "gamboula-cf212"
+          },
+          "code": {
+            "id": "CF212",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF212_basse-boumne",
-              "iso": null
+              "name": {
+                "local": "Basse-Boumne",
+                "en": "Basse-Boumne",
+                "slug": "basse-boumne"
+              },
+              "code": {
+                "id": "CF212_basse-boumne",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF215",
-        "name": {
-          "local": "Sosso-Nakombo",
-          "en": "Sosso-Nakombo",
-          "slug": "sosso-nakombo-cf215"
+          ]
         },
-        "code": {
+        {
           "id": "CF215",
-          "iso": null
+          "name": {
+            "local": "Sosso-Nakombo",
+            "en": "Sosso-Nakombo",
+            "slug": "sosso-nakombo-cf215"
+          },
+          "code": {
+            "id": "CF215",
+            "iso": null
+          },
+          "commune": []
         },
-        "commune": []
-      },
-      {
-        "id": "CF216",
-        "name": {
-          "local": "Dédé-Mokouba",
-          "en": "Dédé-Mokouba",
-          "slug": "dd-mokouba-cf216"
-        },
-        "code": {
+        {
           "id": "CF216",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF216_haute-kade",
-            "name": {
-              "local": "Haute-Kade",
-              "en": "Haute-Kade",
-              "slug": "haute-kade"
-            },
-            "code": {
+          "name": {
+            "local": "Dédé-Mokouba",
+            "en": "Dédé-Mokouba",
+            "slug": "dd-mokouba-cf216"
+          },
+          "code": {
+            "id": "CF216",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF216_haute-kade",
-              "iso": null
+              "name": {
+                "local": "Haute-Kade",
+                "en": "Haute-Kade",
+                "slug": "haute-kade"
+              },
+              "code": {
+                "id": "CF216_haute-kade",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "CF24",
-    "name": {
-      "local": "Mambéré",
-      "en": "Mambéré",
-      "slug": "mambr-cf24"
+          ]
+        }
+      ]
     },
-    "code": {
+    {
       "id": "CF24",
-      "iso": null
-    },
-    "sub_prefecture": [
-      {
-        "id": "CF244",
-        "name": {
-          "local": "Semkpa-Mbaéré",
-          "en": "Semkpa-Mbaéré",
-          "slug": "semkpa-mbar-cf244"
-        },
-        "code": {
+      "name": {
+        "local": "Mambéré",
+        "en": "Mambéré",
+        "slug": "mambr-cf24"
+      },
+      "code": {
+        "id": "CF24",
+        "iso": null
+      },
+      "sub_prefecture": [
+        {
           "id": "CF244",
-          "iso": null
+          "name": {
+            "local": "Semkpa-Mbaéré",
+            "en": "Semkpa-Mbaéré",
+            "slug": "semkpa-mbar-cf244"
+          },
+          "code": {
+            "id": "CF244",
+            "iso": null
+          },
+          "commune": []
         },
-        "commune": []
-      },
-      {
-        "id": "CF243",
-        "name": {
-          "local": "Gadzi",
-          "en": "Gadzi",
-          "slug": "gadzi-cf243"
-        },
-        "code": {
+        {
           "id": "CF243",
-          "iso": null
+          "name": {
+            "local": "Gadzi",
+            "en": "Gadzi",
+            "slug": "gadzi-cf243"
+          },
+          "code": {
+            "id": "CF243",
+            "iso": null
+          },
+          "commune": []
         },
-        "commune": []
-      },
-      {
-        "id": "CF241",
-        "name": {
-          "local": "Carnot",
-          "en": "Carnot",
-          "slug": "carnot-cf241"
-        },
-        "code": {
+        {
           "id": "CF241",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF241_mbali",
-            "name": {
-              "local": "Mbali",
-              "en": "Mbali",
-              "slug": "mbali"
-            },
-            "code": {
+          "name": {
+            "local": "Carnot",
+            "en": "Carnot",
+            "slug": "carnot-cf241"
+          },
+          "code": {
+            "id": "CF241",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF241_mbali",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF241_topia",
-            "name": {
-              "local": "Topia",
-              "en": "Topia",
-              "slug": "topia"
+              "name": {
+                "local": "Mbali",
+                "en": "Mbali",
+                "slug": "mbali"
+              },
+              "code": {
+                "id": "CF241_mbali",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF241_topia",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF241_carnot",
-            "name": {
-              "local": "Carnot",
-              "en": "Carnot",
-              "slug": "carnot"
+              "name": {
+                "local": "Topia",
+                "en": "Topia",
+                "slug": "topia"
+              },
+              "code": {
+                "id": "CF241_topia",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF241_carnot",
-              "iso": null
+              "name": {
+                "local": "Carnot",
+                "en": "Carnot",
+                "slug": "carnot"
+              },
+              "code": {
+                "id": "CF241_carnot",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF242",
-        "name": {
-          "local": "Amada-Gaza",
-          "en": "Amada-Gaza",
-          "slug": "amada-gaza-cf242"
+          ]
         },
-        "code": {
+        {
           "id": "CF242",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF242_haute-boumbe",
-            "name": {
-              "local": "Haute-Boumbe",
-              "en": "Haute-Boumbe",
-              "slug": "haute-boumbe"
-            },
-            "code": {
+          "name": {
+            "local": "Amada-Gaza",
+            "en": "Amada-Gaza",
+            "slug": "amada-gaza-cf242"
+          },
+          "code": {
+            "id": "CF242",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF242_haute-boumbe",
-              "iso": null
+              "name": {
+                "local": "Haute-Boumbe",
+                "en": "Haute-Boumbe",
+                "slug": "haute-boumbe"
+              },
+              "code": {
+                "id": "CF242_haute-boumbe",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "CF63",
-    "name": {
-      "local": "Haut-Mbomou",
-      "en": "Haut-Mbomou",
-      "slug": "haut-mbomou-cf63"
+          ]
+        }
+      ]
     },
-    "code": {
+    {
       "id": "CF63",
-      "iso": null
-    },
-    "sub_prefecture": [
-      {
-        "id": "CF632",
-        "name": {
-          "local": "Bambouti",
-          "en": "Bambouti",
-          "slug": "bambouti-cf632"
-        },
-        "code": {
+      "name": {
+        "local": "Haut-Mbomou",
+        "en": "Haut-Mbomou",
+        "slug": "haut-mbomou-cf63"
+      },
+      "code": {
+        "id": "CF63",
+        "iso": null
+      },
+      "sub_prefecture": [
+        {
           "id": "CF632",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF632_lili",
-            "name": {
-              "local": "Lili",
-              "en": "Lili",
-              "slug": "lili"
-            },
-            "code": {
+          "name": {
+            "local": "Bambouti",
+            "en": "Bambouti",
+            "slug": "bambouti-cf632"
+          },
+          "code": {
+            "id": "CF632",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF632_lili",
-              "iso": null
+              "name": {
+                "local": "Lili",
+                "en": "Lili",
+                "slug": "lili"
+              },
+              "code": {
+                "id": "CF632_lili",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF633",
-        "name": {
-          "local": "Zémio",
-          "en": "Zémio",
-          "slug": "zmio-cf633"
+          ]
         },
-        "code": {
+        {
           "id": "CF633",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF633_zemio",
-            "name": {
-              "local": "Zemio",
-              "en": "Zemio",
-              "slug": "zemio"
-            },
-            "code": {
+          "name": {
+            "local": "Zémio",
+            "en": "Zémio",
+            "slug": "zmio-cf633"
+          },
+          "code": {
+            "id": "CF633",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF633_zemio",
-              "iso": null
+              "name": {
+                "local": "Zemio",
+                "en": "Zemio",
+                "slug": "zemio"
+              },
+              "code": {
+                "id": "CF633_zemio",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF631",
-        "name": {
-          "local": "Obo",
-          "en": "Obo",
-          "slug": "obo-cf631"
+          ]
         },
-        "code": {
+        {
           "id": "CF631",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF631_obo",
-            "name": {
-              "local": "Obo",
-              "en": "Obo",
-              "slug": "obo"
-            },
-            "code": {
+          "name": {
+            "local": "Obo",
+            "en": "Obo",
+            "slug": "obo-cf631"
+          },
+          "code": {
+            "id": "CF631",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF631_obo",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF631_mboki",
-            "name": {
-              "local": "Mboki",
-              "en": "Mboki",
-              "slug": "mboki"
+              "name": {
+                "local": "Obo",
+                "en": "Obo",
+                "slug": "obo"
+              },
+              "code": {
+                "id": "CF631_obo",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF631_mboki",
-              "iso": null
+              "name": {
+                "local": "Mboki",
+                "en": "Mboki",
+                "slug": "mboki"
+              },
+              "code": {
+                "id": "CF631_mboki",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF635",
-        "name": {
-          "local": "Mboki",
-          "en": "Mboki",
-          "slug": "mboki-cf635"
+          ]
         },
-        "code": {
+        {
           "id": "CF635",
-          "iso": null
+          "name": {
+            "local": "Mboki",
+            "en": "Mboki",
+            "slug": "mboki-cf635"
+          },
+          "code": {
+            "id": "CF635",
+            "iso": null
+          },
+          "commune": []
         },
-        "commune": []
-      },
-      {
-        "id": "CF634",
-        "name": {
-          "local": "Djémah",
-          "en": "Djémah",
-          "slug": "djmah-cf634"
-        },
-        "code": {
+        {
           "id": "CF634",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF634_djema",
-            "name": {
-              "local": "Djema",
-              "en": "Djema",
-              "slug": "djema"
-            },
-            "code": {
+          "name": {
+            "local": "Djémah",
+            "en": "Djémah",
+            "slug": "djmah-cf634"
+          },
+          "code": {
+            "id": "CF634",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF634_djema",
-              "iso": null
+              "name": {
+                "local": "Djema",
+                "en": "Djema",
+                "slug": "djema"
+              },
+              "code": {
+                "id": "CF634_djema",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "CF42",
-    "name": {
-      "local": "Nana-Gribizi",
-      "en": "Nana-Gribizi",
-      "slug": "nana-gribizi-cf42"
+          ]
+        }
+      ]
     },
-    "code": {
+    {
       "id": "CF42",
-      "iso": null
-    },
-    "sub_prefecture": [
-      {
-        "id": "CF422",
-        "name": {
-          "local": "Mbrès",
-          "en": "Mbrès",
-          "slug": "mbrs-cf422"
-        },
-        "code": {
+      "name": {
+        "local": "Nana-Gribizi",
+        "en": "Nana-Gribizi",
+        "slug": "nana-gribizi-cf42"
+      },
+      "code": {
+        "id": "CF42",
+        "iso": null
+      },
+      "sub_prefecture": [
+        {
           "id": "CF422",
-          "iso": null
+          "name": {
+            "local": "Mbrès",
+            "en": "Mbrès",
+            "slug": "mbrs-cf422"
+          },
+          "code": {
+            "id": "CF422",
+            "iso": null
+          },
+          "commune": []
         },
-        "commune": []
-      },
-      {
-        "id": "CF421",
-        "name": {
-          "local": "Kaga-Bandoro",
-          "en": "Kaga-Bandoro",
-          "slug": "kaga-bandoro-cf421"
-        },
-        "code": {
+        {
           "id": "CF421",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF421_ndenga",
-            "name": {
-              "local": "Ndenga",
-              "en": "Ndenga",
-              "slug": "ndenga"
-            },
-            "code": {
+          "name": {
+            "local": "Kaga-Bandoro",
+            "en": "Kaga-Bandoro",
+            "slug": "kaga-bandoro-cf421"
+          },
+          "code": {
+            "id": "CF421",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF421_ndenga",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF421_botto",
-            "name": {
-              "local": "Botto",
-              "en": "Botto",
-              "slug": "botto"
+              "name": {
+                "local": "Ndenga",
+                "en": "Ndenga",
+                "slug": "ndenga"
+              },
+              "code": {
+                "id": "CF421_ndenga",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF421_botto",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF421_kaga-bandoro",
-            "name": {
-              "local": "Kaga-Bandoro",
-              "en": "Kaga-Bandoro",
-              "slug": "kaga-bandoro"
+              "name": {
+                "local": "Botto",
+                "en": "Botto",
+                "slug": "botto"
+              },
+              "code": {
+                "id": "CF421_botto",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF421_kaga-bandoro",
-              "iso": null
+              "name": {
+                "local": "Kaga-Bandoro",
+                "en": "Kaga-Bandoro",
+                "slug": "kaga-bandoro"
+              },
+              "code": {
+                "id": "CF421_kaga-bandoro",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF423",
-        "name": {
-          "local": "Nana-Outa",
-          "en": "Nana-Outa",
-          "slug": "nana-outa-cf423"
+          ]
         },
-        "code": {
+        {
           "id": "CF423",
-          "iso": null
-        },
-        "commune": []
-      }
-    ]
-  },
-  {
-    "id": "CF43",
-    "name": {
-      "local": "Ouaka",
-      "en": "Ouaka",
-      "slug": "ouaka-cf43"
+          "name": {
+            "local": "Nana-Outa",
+            "en": "Nana-Outa",
+            "slug": "nana-outa-cf423"
+          },
+          "code": {
+            "id": "CF423",
+            "iso": null
+          },
+          "commune": []
+        }
+      ]
     },
-    "code": {
+    {
       "id": "CF43",
-      "iso": null
-    },
-    "sub_prefecture": [
-      {
-        "id": "CF435",
-        "name": {
-          "local": "Ippy",
-          "en": "Ippy",
-          "slug": "ippy-cf435"
-        },
-        "code": {
+      "name": {
+        "local": "Ouaka",
+        "en": "Ouaka",
+        "slug": "ouaka-cf43"
+      },
+      "code": {
+        "id": "CF43",
+        "iso": null
+      },
+      "sub_prefecture": [
+        {
           "id": "CF435",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF435_baidou-ngoumbourou",
-            "name": {
-              "local": "Baidou-Ngoumbourou",
-              "en": "Baidou-Ngoumbourou",
-              "slug": "baidou-ngoumbourou"
-            },
-            "code": {
+          "name": {
+            "local": "Ippy",
+            "en": "Ippy",
+            "slug": "ippy-cf435"
+          },
+          "code": {
+            "id": "CF435",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF435_baidou-ngoumbourou",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF435_danga-gboudou",
-            "name": {
-              "local": "Danga-Gboudou",
-              "en": "Danga-Gboudou",
-              "slug": "danga-gboudou"
+              "name": {
+                "local": "Baidou-Ngoumbourou",
+                "en": "Baidou-Ngoumbourou",
+                "slug": "baidou-ngoumbourou"
+              },
+              "code": {
+                "id": "CF435_baidou-ngoumbourou",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF435_danga-gboudou",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF435_bambari",
-            "name": {
-              "local": "Bambari",
-              "en": "Bambari",
-              "slug": "bambari"
+              "name": {
+                "local": "Danga-Gboudou",
+                "en": "Danga-Gboudou",
+                "slug": "danga-gboudou"
+              },
+              "code": {
+                "id": "CF435_danga-gboudou",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF435_bambari",
-              "iso": null
+              "name": {
+                "local": "Bambari",
+                "en": "Bambari",
+                "slug": "bambari"
+              },
+              "code": {
+                "id": "CF435_bambari",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF433",
-        "name": {
-          "local": "Grimari",
-          "en": "Grimari",
-          "slug": "grimari-cf433"
+          ]
         },
-        "code": {
+        {
           "id": "CF433",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF433_lissa",
-            "name": {
-              "local": "Lissa",
-              "en": "Lissa",
-              "slug": "lissa"
-            },
-            "code": {
+          "name": {
+            "local": "Grimari",
+            "en": "Grimari",
+            "slug": "grimari-cf433"
+          },
+          "code": {
+            "id": "CF433",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF433_lissa",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF433_kobadja",
-            "name": {
-              "local": "Kobadja",
-              "en": "Kobadja",
-              "slug": "kobadja"
+              "name": {
+                "local": "Lissa",
+                "en": "Lissa",
+                "slug": "lissa"
+              },
+              "code": {
+                "id": "CF433_lissa",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF433_kobadja",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF433_pouyamba",
-            "name": {
-              "local": "Pouyamba",
-              "en": "Pouyamba",
-              "slug": "pouyamba"
+              "name": {
+                "local": "Kobadja",
+                "en": "Kobadja",
+                "slug": "kobadja"
+              },
+              "code": {
+                "id": "CF433_kobadja",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF433_pouyamba",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF433_grimari",
-            "name": {
-              "local": "Grimari",
-              "en": "Grimari",
-              "slug": "grimari"
+              "name": {
+                "local": "Pouyamba",
+                "en": "Pouyamba",
+                "slug": "pouyamba"
+              },
+              "code": {
+                "id": "CF433_pouyamba",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF433_grimari",
-              "iso": null
+              "name": {
+                "local": "Grimari",
+                "en": "Grimari",
+                "slug": "grimari"
+              },
+              "code": {
+                "id": "CF433_grimari",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF434",
-        "name": {
-          "local": "Kouango",
-          "en": "Kouango",
-          "slug": "kouango-cf434"
+          ]
         },
-        "code": {
+        {
           "id": "CF434",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF434_kouango",
-            "name": {
-              "local": "Kouango",
-              "en": "Kouango",
-              "slug": "kouango"
-            },
-            "code": {
+          "name": {
+            "local": "Kouango",
+            "en": "Kouango",
+            "slug": "kouango-cf434"
+          },
+          "code": {
+            "id": "CF434",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF434_kouango",
-              "iso": null
+              "name": {
+                "local": "Kouango",
+                "en": "Kouango",
+                "slug": "kouango"
+              },
+              "code": {
+                "id": "CF434_kouango",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF432",
-        "name": {
-          "local": "Bakala",
-          "en": "Bakala",
-          "slug": "bakala-cf432"
+          ]
         },
-        "code": {
+        {
           "id": "CF432",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF432_mbres",
-            "name": {
-              "local": "Mbres",
-              "en": "Mbres",
-              "slug": "mbres"
-            },
-            "code": {
+          "name": {
+            "local": "Bakala",
+            "en": "Bakala",
+            "slug": "bakala-cf432"
+          },
+          "code": {
+            "id": "CF432",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF432_mbres",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF432_koudou-bego",
-            "name": {
-              "local": "Koudou-Bego",
-              "en": "Koudou-Bego",
-              "slug": "koudou-bego"
+              "name": {
+                "local": "Mbres",
+                "en": "Mbres",
+                "slug": "mbres"
+              },
+              "code": {
+                "id": "CF432_mbres",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF432_koudou-bego",
-              "iso": null
+              "name": {
+                "local": "Koudou-Bego",
+                "en": "Koudou-Bego",
+                "slug": "koudou-bego"
+              },
+              "code": {
+                "id": "CF432_koudou-bego",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF431",
-        "name": {
-          "local": "Bambari",
-          "en": "Bambari",
-          "slug": "bambari-cf431"
+          ]
         },
-        "code": {
+        {
           "id": "CF431",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF431_pladama-ouaka",
-            "name": {
-              "local": "Pladama-Ouaka",
-              "en": "Pladama-Ouaka",
-              "slug": "pladama-ouaka"
-            },
-            "code": {
+          "name": {
+            "local": "Bambari",
+            "en": "Bambari",
+            "slug": "bambari-cf431"
+          },
+          "code": {
+            "id": "CF431",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF431_pladama-ouaka",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF431_azengue-mindou",
-            "name": {
-              "local": "Azengue-Mindou",
-              "en": "Azengue-Mindou",
-              "slug": "azengue-mindou"
+              "name": {
+                "local": "Pladama-Ouaka",
+                "en": "Pladama-Ouaka",
+                "slug": "pladama-ouaka"
+              },
+              "code": {
+                "id": "CF431_pladama-ouaka",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF431_azengue-mindou",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF431_ngougbia",
-            "name": {
-              "local": "Ngougbia",
-              "en": "Ngougbia",
-              "slug": "ngougbia"
+              "name": {
+                "local": "Azengue-Mindou",
+                "en": "Azengue-Mindou",
+                "slug": "azengue-mindou"
+              },
+              "code": {
+                "id": "CF431_azengue-mindou",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF431_ngougbia",
-              "iso": null
+              "name": {
+                "local": "Ngougbia",
+                "en": "Ngougbia",
+                "slug": "ngougbia"
+              },
+              "code": {
+                "id": "CF431_ngougbia",
+                "iso": null
+              }
             }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "CF71",
-    "name": {
-      "local": "Bangui",
-      "en": "Bangui",
-      "slug": "bangui-cf71"
+          ]
+        }
+      ]
     },
-    "code": {
+    {
       "id": "CF71",
-      "iso": null
-    },
-    "sub_prefecture": [
-      {
-        "id": "CF711",
-        "name": {
-          "local": "Bangui-Centre",
-          "en": "Bangui-Centre",
-          "slug": "bangui-centre-cf711"
-        },
-        "code": {
+      "name": {
+        "local": "Bangui",
+        "en": "Bangui",
+        "slug": "bangui-cf71"
+      },
+      "code": {
+        "id": "CF71",
+        "iso": null
+      },
+      "sub_prefecture": [
+        {
           "id": "CF711",
-          "iso": null
-        },
-        "commune": [
-          {
-            "id": "CF711_arrondissement-3",
-            "name": {
-              "local": "Arrondissement 3",
-              "en": "Arrondissement 3",
-              "slug": "arrondissement-3"
-            },
-            "code": {
+          "name": {
+            "local": "Bangui-Centre",
+            "en": "Bangui-Centre",
+            "slug": "bangui-centre-cf711"
+          },
+          "code": {
+            "id": "CF711",
+            "iso": null
+          },
+          "commune": [
+            {
               "id": "CF711_arrondissement-3",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF711_arrondissement-4",
-            "name": {
-              "local": "Arrondissement 4",
-              "en": "Arrondissement 4",
-              "slug": "arrondissement-4"
+              "name": {
+                "local": "Arrondissement 3",
+                "en": "Arrondissement 3",
+                "slug": "arrondissement-3"
+              },
+              "code": {
+                "id": "CF711_arrondissement-3",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF711_arrondissement-4",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF711_arrondissement-5",
-            "name": {
-              "local": "Arrondissement 5",
-              "en": "Arrondissement 5",
-              "slug": "arrondissement-5"
+              "name": {
+                "local": "Arrondissement 4",
+                "en": "Arrondissement 4",
+                "slug": "arrondissement-4"
+              },
+              "code": {
+                "id": "CF711_arrondissement-4",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF711_arrondissement-5",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF711_arrondissement-6",
-            "name": {
-              "local": "Arrondissement 6",
-              "en": "Arrondissement 6",
-              "slug": "arrondissement-6"
+              "name": {
+                "local": "Arrondissement 5",
+                "en": "Arrondissement 5",
+                "slug": "arrondissement-5"
+              },
+              "code": {
+                "id": "CF711_arrondissement-5",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF711_arrondissement-6",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF711_arrondissement-7",
-            "name": {
-              "local": "Arrondissement 7",
-              "en": "Arrondissement 7",
-              "slug": "arrondissement-7"
+              "name": {
+                "local": "Arrondissement 6",
+                "en": "Arrondissement 6",
+                "slug": "arrondissement-6"
+              },
+              "code": {
+                "id": "CF711_arrondissement-6",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF711_arrondissement-7",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF711_arrondissement-8",
-            "name": {
-              "local": "Arrondissement 8",
-              "en": "Arrondissement 8",
-              "slug": "arrondissement-8"
+              "name": {
+                "local": "Arrondissement 7",
+                "en": "Arrondissement 7",
+                "slug": "arrondissement-7"
+              },
+              "code": {
+                "id": "CF711_arrondissement-7",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF711_arrondissement-8",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF711_arrondissement-1",
-            "name": {
-              "local": "Arrondissement 1",
-              "en": "Arrondissement 1",
-              "slug": "arrondissement-1"
+              "name": {
+                "local": "Arrondissement 8",
+                "en": "Arrondissement 8",
+                "slug": "arrondissement-8"
+              },
+              "code": {
+                "id": "CF711_arrondissement-8",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF711_arrondissement-1",
-              "iso": null
-            }
-          },
-          {
-            "id": "CF711_arrondissement-2",
-            "name": {
-              "local": "Arrondissement 2",
-              "en": "Arrondissement 2",
-              "slug": "arrondissement-2"
+              "name": {
+                "local": "Arrondissement 1",
+                "en": "Arrondissement 1",
+                "slug": "arrondissement-1"
+              },
+              "code": {
+                "id": "CF711_arrondissement-1",
+                "iso": null
+              }
             },
-            "code": {
+            {
               "id": "CF711_arrondissement-2",
-              "iso": null
+              "name": {
+                "local": "Arrondissement 2",
+                "en": "Arrondissement 2",
+                "slug": "arrondissement-2"
+              },
+              "code": {
+                "id": "CF711_arrondissement-2",
+                "iso": null
+              }
             }
-          }
-        ]
-      },
-      {
-        "id": "CF712",
-        "name": {
-          "local": "Bangui-Kagas",
-          "en": "Bangui-Kagas",
-          "slug": "bangui-kagas-cf712"
+          ]
         },
-        "code": {
+        {
           "id": "CF712",
-          "iso": null
+          "name": {
+            "local": "Bangui-Kagas",
+            "en": "Bangui-Kagas",
+            "slug": "bangui-kagas-cf712"
+          },
+          "code": {
+            "id": "CF712",
+            "iso": null
+          },
+          "commune": []
         },
-        "commune": []
-      },
-      {
-        "id": "CF713",
-        "name": {
-          "local": "Bangui-Fleuve",
-          "en": "Bangui-Fleuve",
-          "slug": "bangui-fleuve-cf713"
-        },
-        "code": {
+        {
           "id": "CF713",
-          "iso": null
+          "name": {
+            "local": "Bangui-Fleuve",
+            "en": "Bangui-Fleuve",
+            "slug": "bangui-fleuve-cf713"
+          },
+          "code": {
+            "id": "CF713",
+            "iso": null
+          },
+          "commune": []
         },
-        "commune": []
-      },
-      {
-        "id": "CF714",
-        "name": {
-          "local": "Bangui-Rapides",
-          "en": "Bangui-Rapides",
-          "slug": "bangui-rapides-cf714"
-        },
-        "code": {
+        {
           "id": "CF714",
-          "iso": null
-        },
-        "commune": []
-      }
-    ]
-  }
-]
+          "name": {
+            "local": "Bangui-Rapides",
+            "en": "Bangui-Rapides",
+            "slug": "bangui-rapides-cf714"
+          },
+          "code": {
+            "id": "CF714",
+            "iso": null
+          },
+          "commune": []
+        }
+      ]
+    }
+  ]
+}

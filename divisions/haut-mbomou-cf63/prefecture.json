@@ -26,5 +26,9 @@
     "lon": "25.588"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cf/prefectures/haut-mbomou-cf63/",
+    "api": "https://openadmindata.org/api/cf/"
+  }
 }

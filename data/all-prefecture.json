@@ -27,7 +27,11 @@
       "lon": "17.685"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cf/prefectures/lobaye-cf12/",
+      "api": "https://openadmindata.org/api/cf/"
+    }
   },
   {
     "id": "CF22",
@@ -57,7 +61,11 @@
       "lon": "15.379"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cf/prefectures/nana-mambr-cf22/",
+      "api": "https://openadmindata.org/api/cf/"
+    }
   },
   {
     "id": "CF32",
@@ -87,7 +95,11 @@
       "lon": "17.281"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cf/prefectures/ouham-cf32/",
+      "api": "https://openadmindata.org/api/cf/"
+    }
   },
   {
     "id": "CF33",
@@ -117,7 +129,11 @@
       "lon": "18.271"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cf/prefectures/ouham-fafa-cf33/",
+      "api": "https://openadmindata.org/api/cf/"
+    }
   },
   {
     "id": "CF41",
@@ -147,7 +163,11 @@
       "lon": "19.298"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cf/prefectures/kmo-cf41/",
+      "api": "https://openadmindata.org/api/cf/"
+    }
   },
   {
     "id": "CF34",
@@ -177,7 +197,11 @@
       "lon": "16.233"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cf/prefectures/lim-pend-cf34/",
+      "api": "https://openadmindata.org/api/cf/"
+    }
   },
   {
     "id": "CF31",
@@ -207,7 +231,11 @@
       "lon": "16.585"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cf/prefectures/ouham-pend-cf31/",
+      "api": "https://openadmindata.org/api/cf/"
+    }
   },
   {
     "id": "CF23",
@@ -237,7 +265,11 @@
       "lon": "16.292"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cf/prefectures/sangha-mbar-cf23/",
+      "api": "https://openadmindata.org/api/cf/"
+    }
   },
   {
     "id": "CF53",
@@ -267,7 +299,11 @@
       "lon": "22.514"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cf/prefectures/vakaga-cf53/",
+      "api": "https://openadmindata.org/api/cf/"
+    }
   },
   {
     "id": "CF51",
@@ -297,7 +333,11 @@
       "lon": "20.574"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cf/prefectures/bamingui-bangoran-cf51/",
+      "api": "https://openadmindata.org/api/cf/"
+    }
   },
   {
     "id": "CF62",
@@ -327,7 +367,11 @@
       "lon": "23.39"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cf/prefectures/mbomou-cf62/",
+      "api": "https://openadmindata.org/api/cf/"
+    }
   },
   {
     "id": "CF11",
@@ -357,7 +401,11 @@
       "lon": "17.943"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cf/prefectures/ombella-mpoko-cf11/",
+      "api": "https://openadmindata.org/api/cf/"
+    }
   },
   {
     "id": "CF61",
@@ -387,7 +435,11 @@
       "lon": "21.361"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cf/prefectures/basse-kotto-cf61/",
+      "api": "https://openadmindata.org/api/cf/"
+    }
   },
   {
     "id": "CF52",
@@ -417,7 +469,11 @@
       "lon": "22.923"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cf/prefectures/haute-kotto-cf52/",
+      "api": "https://openadmindata.org/api/cf/"
+    }
   },
   {
     "id": "CF21",
@@ -447,7 +503,11 @@
       "lon": "15.673"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cf/prefectures/mambr-kad-cf21/",
+      "api": "https://openadmindata.org/api/cf/"
+    }
   },
   {
     "id": "CF24",
@@ -477,7 +537,11 @@
       "lon": "16.511"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cf/prefectures/mambr-cf24/",
+      "api": "https://openadmindata.org/api/cf/"
+    }
   },
   {
     "id": "CF63",
@@ -507,7 +571,11 @@
       "lon": "25.588"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cf/prefectures/haut-mbomou-cf63/",
+      "api": "https://openadmindata.org/api/cf/"
+    }
   },
   {
     "id": "CF42",
@@ -537,7 +605,11 @@
       "lon": "19.331"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cf/prefectures/nana-gribizi-cf42/",
+      "api": "https://openadmindata.org/api/cf/"
+    }
   },
   {
     "id": "CF43",
@@ -567,7 +639,11 @@
       "lon": "20.749"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cf/prefectures/ouaka-cf43/",
+      "api": "https://openadmindata.org/api/cf/"
+    }
   },
   {
     "id": "CF71",
@@ -597,6 +673,10 @@
       "lon": "18.475"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/cf/prefectures/bangui-cf71/",
+      "api": "https://openadmindata.org/api/cf/"
+    }
   }
 ]

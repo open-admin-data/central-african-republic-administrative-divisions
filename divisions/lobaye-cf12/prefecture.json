@@ -26,5 +26,9 @@
     "lon": "17.685"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/cf/prefectures/lobaye-cf12/",
+    "api": "https://openadmindata.org/api/cf/"
+  }
 }
