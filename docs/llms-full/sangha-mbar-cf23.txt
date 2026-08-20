@@ -3,7 +3,7 @@
 > 3 sub-prefectures, 7 communes
 > Code: CF23
 > Coordinates: 3.461, 16.292
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Sub-prefectures
 

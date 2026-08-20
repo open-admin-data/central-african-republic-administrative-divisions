@@ -12,9 +12,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/cf](https://openadmindata.org/cf/) |
 | API | [openadmindata.org/api/cf](https://openadmindata.org/api/cf/) |
+| Flag | [PNG](https://onlygames.me/flags-png/cf/) · [SVG](https://onlygames.me/flags-svg/cf/) · [PDF](https://onlygames.me/flags-pdf/cf/) |
 | National Anthem | [🎵 Listen & Download Central African Republic National Anthem MP3](https://onlygames.me/national-anthems/cf/) |
 
 ## Browse by Prefecture
